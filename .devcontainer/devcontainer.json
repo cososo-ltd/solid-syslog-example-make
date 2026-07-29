@@ -1,0 +1,29 @@
+{
+    "name": "solid-syslog-example-make",
+    "dockerComposeFile": "docker-compose.yml",
+    "service": "dev",
+    "workspaceFolder": "/w",
+    // Root, matching docker/docker-compose.yml — see the ownership note in
+    // docker-compose.yml. UID remapping is moot for root, so it is not set.
+    "remoteUser": "root",
+    "customizations": {
+        "vscode": {
+            "settings": {
+                "terminal.integrated.defaultProfile.linux": "bash",
+                "editor.formatOnSave": true,
+                "editor.defaultFormatter": "xaver.clang-format",
+                "[c]": { "editor.defaultFormatter": "xaver.clang-format" }
+            },
+            "extensions": [
+                "ms-vscode.cpptools",
+                "ms-vscode.makefile-tools",
+                "marus25.cortex-debug",
+                "xaver.clang-format",
+                "anthropic.claude-code"
+            ]
+        }
+    },
+    // Fetch on start: without the submodules there is no upstream source to
+    // navigate and nothing to build.
+    "postStartCommand": "git submodule update --init --recursive"
+}

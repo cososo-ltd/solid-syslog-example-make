@@ -1,0 +1,20 @@
+# Build output
+/build/
+*.map
+*.elf
+
+# mbedTLS builds in its own directory, and it is vendored rather than a
+# submodule, so its artefacts land in this repository's tree.
+/third_party/mbedtls/**/*.o
+/third_party/mbedtls/library/libmbed*
+
+# Semihosting disk image created at runtime by the FatFs exercise
+*.img
+baseline-disk.img
+
+# Editor / OS
+.DS_Store
+*.swp
+
+# Local Claude Code project settings (tooling, not part of the example)
+.claude/
