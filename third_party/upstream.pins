@@ -1,0 +1,7 @@
+# The upstreams under third_party/, as the cross image carries them: name, tag,
+# commit, and for Mbed TLS the sha256 of its release tarball. Written by
+# scripts/upstreams.sh; third_party/README.md says what each one is.
+FreeRTOS-Kernel V11.3.3 89592801dd8b73329a7583719b7e3567b50910e5
+lwip STABLE-2_2_1_RELEASE 77dcd25a72509eb83f72b033d219b1d40cd8eb95
+mbedtls mbedtls-3.6.8 82e69999f91126589a28b70dd75b69fbcabe2711 bc54b818e87f49c0b3281dd85d24adaede0e63b4e822e3fbd49c005a38b9595b
+fatfs R0.16 30ca13c62615df0d2e9104ab41256985b96590c1
