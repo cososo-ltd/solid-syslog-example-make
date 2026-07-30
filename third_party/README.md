@@ -1,24 +1,28 @@
-# Upstream dependencies
+# Dependencies
 
-Four upstream projects, none of them modified. Each is consumed the way it publishes itself, which
-is why two are submodules and two are vendored — the mechanism follows the project, not a house
-rule.
+Five projects, none of them modified. Each is consumed the way it publishes itself, which is why
+three are submodules and two are vendored — the mechanism follows the project, not a house rule.
 
 | | Version | How | Pin |
 |---|---|---|---|
 | `FreeRTOS-Kernel` | V11.1.0 | submodule | `dbf70559b27d39c1fdb68dfb9a32140b6a6777a0` |
 | `lwip` | STABLE-2_2_1_RELEASE | submodule | `77dcd25a72509eb83f72b033d219b1d40cd8eb95` |
+| `solid-syslog` | no release yet | submodule | `0d212aaf9859a7cf7655c5ddda202a8351b0c963` |
 | `mbedtls` | 3.6.2 | vendored release | `mbedtls-3.6.2.tar.bz2`, sha256 `8b54fb9b…5ccbdca` |
 | `fatfs` | R0.16 patch 1 | vendored source | see below |
 
 Clone with `--recurse-submodules`, or run `git submodule update --init --recursive`. mbedTLS and
 FatFs need neither — they are in the tree.
 
-## The two submodules
+## The three submodules
 
 FreeRTOS-Kernel and lwIP both publish a git repository with release tags, so a submodule pins them
 exactly and an upgrade is a one-line SHA change. lwIP also ships `src/Filelists.mk`, which
 `make/lwip.mk` includes rather than re-typing its source list.
+
+SolidSyslog is the subject of this example, so it is pinned rather than copied in: a reader
+comparing two commits should see the wiring change, not a snapshot of the library. It has no
+release tag yet, so the pin is a commit.
 
 ## mbedTLS — vendored from the release tarball, not from git
 
@@ -56,6 +60,7 @@ are upstream's, kept for provenance and not built: this example supplies its own
 
 ## Licences
 
-All four are permissive and are used unmodified with their notices intact: FreeRTOS-Kernel MIT,
-lwIP BSD-3-Clause, mbedTLS Apache-2.0, FatFs 1-clause BSD. Each project's own licence file is in
-its directory.
+All five are used unmodified with their notices intact, and each project's own licence file is in
+its directory. The four upstreams are permissive — FreeRTOS-Kernel MIT, lwIP BSD-3-Clause, mbedTLS
+Apache-2.0, FatFs 1-clause BSD. SolidSyslog is PolyForm Noncommercial 1.0.0; commercial use is a
+separate licence from Cozens Software Solutions.
