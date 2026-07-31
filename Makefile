@@ -53,6 +53,7 @@ APP_SRCS := \
 	$(APP_DIR)/storage/SemihostingDisk.c \
 	$(APP_DIR)/syslog/Syslog.c \
 	$(APP_DIR)/syslog/SyslogFields.c \
+	$(APP_DIR)/syslog/SyslogPipelineSd.c \
 	$(APP_DIR)/syslog/SyslogErrorHandler.c
 
 UPSTREAM_SRCS := \
