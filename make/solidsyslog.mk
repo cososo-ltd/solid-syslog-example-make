@@ -3,7 +3,7 @@
 # upstream option it needs.
 # https://docs.cososo.co.uk/solid-syslog/getting-started/#path-b--non-cmake-integrator-the-manifest
 
-SOLIDSYSLOG_PLATFORMS := LwipRaw Atomics FreeRtos
+SOLIDSYSLOG_PLATFORMS := LwipRaw Atomics FreeRtos FatFs
 include $(THIRD_PARTY)/solid-syslog/solidsyslog.mk
 
 SOLIDSYSLOG_LIB := $(BUILD)/libSolidSyslog.a
