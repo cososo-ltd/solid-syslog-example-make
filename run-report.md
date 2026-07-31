@@ -1,4 +1,4 @@
-# solid-syslog-example — run (cap-rise)
+# solid-syslog-example — run (buffer-halve)
 
 ## Device (self-measured)
 
@@ -12,10 +12,10 @@
 [report] key,current,baseline,used_above_baseline
 [report] flash_text,361480,349808,11672
 [report] flash_data,640,316,324
-[report] static_bss,119988,110876,9112
+[report] static_bss,117932,110876,7056
 [report] heap_used,4440,4440,0
-[report] mbedtls_peak,21300,21328,-28
-[report] mbedtls_free,11468,11440,28
+[report] mbedtls_peak,21340,21328,12
+[report] mbedtls_free,11428,11440,-12
 [report] lwip_mem_free,7576,7576,0
 [report] lwip_pbufs_free,13,13,0
 [report] stack_log,824,120,704
@@ -29,7 +29,7 @@
 
 ```text
    text	   data	    bss	    dec	    hex	filename
- 361472	    648	 119988	 482108	  75b3c	/w/build/baseline.elf
+ 361472	    648	 117932	 480052	  75334	/w/build/baseline.elf
 ```
 
 ## Listeners (proved before the device ran)
@@ -47,19 +47,19 @@
 ## Collector (syslog-ng) received
 
 ```text
-wire   <134>1 2026-08-01T07:59:09.360000Z 10.0.2.15 solid-syslog-example - BOOT [meta sequenceId="1" sysUpTime="236"][timeQuality tzKnown="1" isSynced="0"][origin software="solid-syslog-example" swVersion="0.1.0" enterpriseId="32473"] ﻿device started
-parsed PRIORITY=134 TIMESTAMP=2026-08-01T07:59:09+00:00 HOSTNAME=10.0.2.15 APP_NAME=solid-syslog-example PROCID= MSGID=BOOT STRUCTURED_DATA=[meta sequenceId="1" sysUpTime="236"][timeQuality tzKnown="1" isSynced="0"][origin software="solid-syslog-example" swVersion="0.1.0" enterpriseId="32473"] MSG=device started
+wire   <134>1 2026-08-01T07:59:50.300000Z 10.0.2.15 solid-syslog-example - BOOT [meta sequenceId="1" sysUpTime="230"][timeQuality tzKnown="1" isSynced="0"][origin software="solid-syslog-example" swVersion="0.1.0" enterpriseId="32473"] ﻿device started
+parsed PRIORITY=134 TIMESTAMP=2026-08-01T07:59:50+00:00 HOSTNAME=10.0.2.15 APP_NAME=solid-syslog-example PROCID= MSGID=BOOT STRUCTURED_DATA=[meta sequenceId="1" sysUpTime="230"][timeQuality tzKnown="1" isSynced="0"][origin software="solid-syslog-example" swVersion="0.1.0" enterpriseId="32473"] MSG=device started
 ```
 
-## Self-check (vs measurements/cap-rise.csv)
+## Self-check (vs measurements/buffer-halve.csv)
 
 ```text
   OK    flash_text: 361480 (expected 361480, Δ0)
   OK    flash_data: 640 (expected 640, Δ0)
-  OK    static_bss: 119988 (expected 119988, Δ0)
+  OK    static_bss: 117932 (expected 117932, Δ0)
   OK    heap_used: 4440 (expected 4440, Δ0)
-  OK    mbedtls_peak: 21300 (expected 21300, Δ0)
-  OK    mbedtls_free: 11468 (expected 11468, Δ0)
+  OK    mbedtls_peak: 21340 (expected 21340, Δ0)
+  OK    mbedtls_free: 11428 (expected 11428, Δ0)
   OK    lwip_mem_free: 7576 (expected 7576, Δ0)
   OK    lwip_pbufs_free: 13 (expected 13, Δ0)
   OK    stack_log: 824 (expected 824, Δ0)
