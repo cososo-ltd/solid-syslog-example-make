@@ -1,4 +1,4 @@
-# solid-syslog-example — run (mtls)
+# solid-syslog-example — run (aes-gcm)
 
 ## Device (self-measured)
 
@@ -10,12 +10,12 @@
 [device]   first record logged: yes
 [report] --- SolidSyslog cost above baseline (simulated existing application) ---
 [report] key,current,baseline,used_above_baseline
-[report] flash_text,363104,349808,13296
-[report] flash_data,652,316,336
-[report] static_bss,148276,110876,37400
+[report] flash_text,363248,349808,13440
+[report] flash_data,656,316,340
+[report] static_bss,148284,110876,37408
 [report] heap_used,4440,4440,0
-[report] mbedtls_peak,37244,21328,15916
-[report] mbedtls_free,19076,11440,7636
+[report] mbedtls_peak,37252,21328,15924
+[report] mbedtls_free,19068,11440,7628
 [report] lwip_mem_free,7576,7576,0
 [report] lwip_pbufs_free,13,13,0
 [report] stack_log,832,120,712
@@ -29,7 +29,7 @@
 
 ```text
    text	   data	    bss	    dec	    hex	filename
- 363096	    660	 148276	 512032	  7d020	/w/build/baseline.elf
+ 363240	    664	 148284	 512188	  7d0bc	/w/build/baseline.elf
 ```
 
 ## Listeners (proved before the device ran)
@@ -47,19 +47,19 @@
 ## Collector (syslog-ng) received
 
 ```text
-wire   <134>1 2026-08-01T08:03:26.310000Z 10.0.2.15 solid-syslog-example - BOOT [meta sequenceId="1" sysUpTime="231"][timeQuality tzKnown="1" isSynced="0"][origin software="solid-syslog-example" swVersion="0.1.0" enterpriseId="32473" ip="10.0.2.15"][logPipeline@32473 transport="mtls" atRest="hmac-sha256"] ﻿device started
-parsed PRIORITY=134 TIMESTAMP=2026-08-01T08:03:26+00:00 HOSTNAME=10.0.2.15 APP_NAME=solid-syslog-example PROCID= MSGID=BOOT STRUCTURED_DATA=[meta sequenceId="1" sysUpTime="231"][timeQuality tzKnown="1" isSynced="0"][origin software="solid-syslog-example" swVersion="0.1.0" enterpriseId="32473" ip="10.0.2.15"][logPipeline@32473 transport="mtls" atRest="hmac-sha256"] MSG=device started
+wire   <134>1 2026-08-01T08:04:09.370000Z 10.0.2.15 solid-syslog-example - BOOT [meta sequenceId="1" sysUpTime="237"][timeQuality tzKnown="1" isSynced="0"][origin software="solid-syslog-example" swVersion="0.1.0" enterpriseId="32473" ip="10.0.2.15"][logPipeline@32473 transport="mtls" atRest="aes-256-gcm"] ﻿device started
+parsed PRIORITY=134 TIMESTAMP=2026-08-01T08:04:09+00:00 HOSTNAME=10.0.2.15 APP_NAME=solid-syslog-example PROCID= MSGID=BOOT STRUCTURED_DATA=[meta sequenceId="1" sysUpTime="237"][timeQuality tzKnown="1" isSynced="0"][origin software="solid-syslog-example" swVersion="0.1.0" enterpriseId="32473" ip="10.0.2.15"][logPipeline@32473 transport="mtls" atRest="aes-256-gcm"] MSG=device started
 ```
 
-## Self-check (vs measurements/mtls.csv)
+## Self-check (vs measurements/aes-gcm.csv)
 
 ```text
-  OK    flash_text: 363104 (expected 363104, Δ0)
-  OK    flash_data: 652 (expected 652, Δ0)
-  OK    static_bss: 148276 (expected 148276, Δ0)
+  OK    flash_text: 363248 (expected 363248, Δ0)
+  OK    flash_data: 656 (expected 656, Δ0)
+  OK    static_bss: 148284 (expected 148284, Δ0)
   OK    heap_used: 4440 (expected 4440, Δ0)
-  OK    mbedtls_peak: 37244 (expected 37244, Δ0)
-  OK    mbedtls_free: 19076 (expected 19076, Δ0)
+  OK    mbedtls_peak: 37252 (expected 37252, Δ0)
+  OK    mbedtls_free: 19068 (expected 19068, Δ0)
   OK    lwip_mem_free: 7576 (expected 7576, Δ0)
   OK    lwip_pbufs_free: 13 (expected 13, Δ0)
   OK    stack_log: 832 (expected 832, Δ0)
