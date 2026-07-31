@@ -1,4 +1,4 @@
-# solid-syslog-example — run (file-store)
+# solid-syslog-example — run (origin)
 
 ## Device (self-measured)
 
@@ -10,12 +10,12 @@
 [device]   first record logged: yes
 [report] --- SolidSyslog cost above baseline (simulated existing application) ---
 [report] key,current,baseline,used_above_baseline
-[report] flash_text,361064,349808,11256
-[report] flash_data,632,316,316
-[report] static_bss,117648,110876,6772
+[report] flash_text,361464,349808,11656
+[report] flash_data,640,316,324
+[report] static_bss,117684,110876,6808
 [report] heap_used,4440,4440,0
-[report] mbedtls_peak,21316,21328,-12
-[report] mbedtls_free,11452,11440,12
+[report] mbedtls_peak,21308,21328,-20
+[report] mbedtls_free,11460,11440,20
 [report] lwip_mem_free,7576,7576,0
 [report] lwip_pbufs_free,14,13,1
 [report] stack_log,568,120,448
@@ -29,7 +29,7 @@
 
 ```text
    text	   data	    bss	    dec	    hex	filename
- 361056	    640	 117648	 479344	  75070	/w/build/baseline.elf
+ 361456	    648	 117684	 479788	  7522c	/w/build/baseline.elf
 ```
 
 ## Listeners (proved before the device ran)
@@ -47,19 +47,19 @@
 ## Collector (syslog-ng) received
 
 ```text
-wire   <134>1 2026-07-31T19:17:04.850000Z 10.0.2.15 solid-syslog-example - BOOT [meta sequenceId="1" sysUpTime="385"][timeQuality tzKnown="1" isSynced="0"] ﻿device started
-parsed PRIORITY=134 TIMESTAMP=2026-07-31T19:17:04+00:00 HOSTNAME=10.0.2.15 APP_NAME=solid-syslog-example PROCID= MSGID=BOOT STRUCTURED_DATA=[meta sequenceId="1" sysUpTime="385"][timeQuality tzKnown="1" isSynced="0"] MSG=device started
+wire   <134>1 2026-07-31T19:53:18.850000Z 10.0.2.15 solid-syslog-example - BOOT [meta sequenceId="1" sysUpTime="385"][timeQuality tzKnown="1" isSynced="0"][origin software="solid-syslog-example" swVersion="0.1.0" enterpriseId="32473"] ﻿device started
+parsed PRIORITY=134 TIMESTAMP=2026-07-31T19:53:18+00:00 HOSTNAME=10.0.2.15 APP_NAME=solid-syslog-example PROCID= MSGID=BOOT STRUCTURED_DATA=[meta sequenceId="1" sysUpTime="385"][timeQuality tzKnown="1" isSynced="0"][origin software="solid-syslog-example" swVersion="0.1.0" enterpriseId="32473"] MSG=device started
 ```
 
-## Self-check (vs measurements/file-store.csv)
+## Self-check (vs measurements/origin.csv)
 
 ```text
-  OK    flash_text: 361064 (expected 361064, Δ0)
-  OK    flash_data: 632 (expected 632, Δ0)
-  OK    static_bss: 117648 (expected 117648, Δ0)
+  OK    flash_text: 361464 (expected 361464, Δ0)
+  OK    flash_data: 640 (expected 640, Δ0)
+  OK    static_bss: 117684 (expected 117684, Δ0)
   OK    heap_used: 4440 (expected 4440, Δ0)
-  OK    mbedtls_peak: 21316 (expected 21316, Δ0)
-  OK    mbedtls_free: 11452 (expected 11452, Δ0)
+  OK    mbedtls_peak: 21308 (expected 21308, Δ0)
+  OK    mbedtls_free: 11460 (expected 11460, Δ0)
   OK    lwip_mem_free: 7576 (expected 7576, Δ0)
   OK    lwip_pbufs_free: 14 (expected 14, Δ0)
   OK    stack_log: 568 (expected 568, Δ0)
