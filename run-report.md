@@ -1,28 +1,26 @@
-# solid-syslog-example — run (logger)
+# solid-syslog-example — run (udp)
 
 ## Device (self-measured)
 
 ```text
 [device] solid-syslog-example (FreeRTOS + lwIP + mbedTLS + FatFs)
-[syslog] CRITICAL SolidSyslog bad-config (detail 1)
-[syslog] CRITICAL SolidSyslog bad-config (detail 2)
-[syslog] CRITICAL SolidSyslog bad-config (detail 3)
 [device] starting simulated existing application...
 [sim] broker session to 10.0.2.2:8883: TLSv1.3, TLS1-3-CHACHA20-POLY1305-SHA256
 [device]   sim app (lwIP up, FatFs mounted, broker session held over mTLS): ready
+[device]   first record logged: yes
 [report] --- SolidSyslog cost above baseline (simulated existing application) ---
 [report] key,current,baseline,used_above_baseline
-[report] flash_text,350784,349808,976
-[report] flash_data,384,316,68
-[report] static_bss,110988,110876,112
+[report] flash_text,354392,349808,4584
+[report] flash_data,448,316,132
+[report] static_bss,111112,110876,236
 [report] heap_used,4440,4440,0
-[report] mbedtls_peak,21324,21328,-4
-[report] mbedtls_free,11444,11440,4
+[report] mbedtls_peak,21224,21328,-104
+[report] mbedtls_free,11544,11440,104
 [report] lwip_mem_free,7576,7576,0
-[report] lwip_pbufs_free,14,13,1
-[report] stack_log,120,120,0
+[report] lwip_pbufs_free,13,13,0
+[report] stack_log,136,120,16
 [report] stack_service,52,52,0
-[report] stack_harness,2840,2840,0
+[report] stack_harness,2848,2840,8
 [report] --- end ---
 [device] ready
 ```
@@ -31,7 +29,7 @@
 
 ```text
    text	   data	    bss	    dec	    hex	filename
- 350776	    392	 110988	 462156	  70d4c	/w/build/baseline.elf
+ 354384	    456	 111112	 465952	  71c20	/w/build/baseline.elf
 ```
 
 ## Listeners (proved before the device ran)
@@ -49,23 +47,24 @@
 ## Collector (syslog-ng) received
 
 ```text
-(nothing — this device sends no records yet)
+wire   <134>1 - - - - BOOT - ﻿device started
+parsed PRIORITY=134 TIMESTAMP=2026-07-31T18:35:21+00:00 HOSTNAME=localhost APP_NAME= PROCID= MSGID=BOOT STRUCTURED_DATA= MSG=device started
 ```
 
-## Self-check (vs measurements/logger.csv)
+## Self-check (vs measurements/udp.csv)
 
 ```text
-  OK    flash_text: 350784 (expected 350784, Δ0)
-  OK    flash_data: 384 (expected 384, Δ0)
-  OK    static_bss: 110988 (expected 110988, Δ0)
+  OK    flash_text: 354392 (expected 354392, Δ0)
+  OK    flash_data: 448 (expected 448, Δ0)
+  OK    static_bss: 111112 (expected 111112, Δ0)
   OK    heap_used: 4440 (expected 4440, Δ0)
-  OK    mbedtls_peak: 21324 (expected 21324, Δ0)
-  OK    mbedtls_free: 11444 (expected 11444, Δ0)
+  OK    mbedtls_peak: 21224 (expected 21224, Δ0)
+  OK    mbedtls_free: 11544 (expected 11544, Δ0)
   OK    lwip_mem_free: 7576 (expected 7576, Δ0)
-  OK    lwip_pbufs_free: 14 (expected 14, Δ0)
-  OK    stack_log: 120 (expected 120, Δ0)
+  OK    lwip_pbufs_free: 13 (expected 13, Δ0)
+  OK    stack_log: 136 (expected 136, Δ0)
   OK    stack_service: 52 (expected 52, Δ0)
-  OK    stack_harness: 2840 (expected 2840, Δ0)
+  OK    stack_harness: 2848 (expected 2848, Δ0)
 ```
 
 **RESULT: PASS**
