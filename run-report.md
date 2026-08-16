@@ -1,4 +1,4 @@
-# solid-syslog-example — run (linked)
+# solid-syslog-example — run (error-handler)
 
 ## Device (self-measured)
 
@@ -9,14 +9,14 @@
 [device]   sim app (lwIP up, FatFs mounted, broker session held over mTLS): ready
 [report] --- SolidSyslog cost above baseline (simulated existing application) ---
 [report] key,current,baseline,used_above_baseline
-[report] flash_text,349808,349808,0
-[report] flash_data,316,316,0
-[report] static_bss,110876,110876,0
+[report] flash_text,350216,349808,408
+[report] flash_data,320,316,4
+[report] static_bss,110880,110876,4
 [report] heap_used,4440,4440,0
-[report] mbedtls_peak,21244,21328,-84
-[report] mbedtls_free,11524,11440,84
+[report] mbedtls_peak,21220,21328,-108
+[report] mbedtls_free,11548,11440,108
 [report] lwip_mem_free,7576,7576,0
-[report] lwip_pbufs_free,13,13,0
+[report] lwip_pbufs_free,14,13,1
 [report] stack_log,120,120,0
 [report] stack_service,52,52,0
 [report] stack_harness,2840,2840,0
@@ -28,7 +28,7 @@
 
 ```text
    text	   data	    bss	    dec	    hex	filename
- 349800	    324	 110876	 461000	  708c8	/w/build/baseline.elf
+ 350208	    328	 110880	 461416	  70a68	/w/build/baseline.elf
 ```
 
 ## Listeners (proved before the device ran)
@@ -49,17 +49,17 @@
 (nothing — this device sends no records yet)
 ```
 
-## Self-check (vs measurements/linked.csv)
+## Self-check (vs measurements/error-handler.csv)
 
 ```text
-  OK    flash_text: 349808 (expected 349808, Δ0)
-  OK    flash_data: 316 (expected 316, Δ0)
-  OK    static_bss: 110876 (expected 110876, Δ0)
+  OK    flash_text: 350216 (expected 350216, Δ0)
+  OK    flash_data: 320 (expected 320, Δ0)
+  OK    static_bss: 110880 (expected 110880, Δ0)
   OK    heap_used: 4440 (expected 4440, Δ0)
-  OK    mbedtls_peak: 21244 (expected 21284, Δ40)
-  OK    mbedtls_free: 11524 (expected 11484, Δ40)
+  OK    mbedtls_peak: 21220 (expected 21304, Δ84)
+  OK    mbedtls_free: 11548 (expected 11464, Δ84)
   OK    lwip_mem_free: 7576 (expected 7576, Δ0)
-  OK    lwip_pbufs_free: 13 (expected 13, Δ0)
+  OK    lwip_pbufs_free: 14 (expected 13, Δ1)
   OK    stack_log: 120 (expected 120, Δ0)
   OK    stack_service: 52 (expected 52, Δ0)
   OK    stack_harness: 2840 (expected 2840, Δ0)
