@@ -1,4 +1,4 @@
-# solid-syslog-example — run (buffered)
+# solid-syslog-example — run (tcp)
 
 ## Device (self-measured)
 
@@ -10,16 +10,16 @@
 [device]   first record logged: yes
 [report] --- SolidSyslog cost above baseline (simulated existing application) ---
 [report] key,current,baseline,used_above_baseline
-[report] flash_text,356440,349808,6632
+[report] flash_text,356984,349808,7176
 [report] flash_data,488,316,172
-[report] static_bss,118188,110876,7312
+[report] static_bss,118368,110876,7492
 [report] heap_used,4440,4440,0
-[report] mbedtls_peak,21236,21328,-92
-[report] mbedtls_free,11532,11440,92
+[report] mbedtls_peak,21328,21328,0
+[report] mbedtls_free,11440,11440,0
 [report] lwip_mem_free,7576,7576,0
-[report] lwip_pbufs_free,13,13,0
+[report] lwip_pbufs_free,14,13,1
 [report] stack_log,792,120,672
-[report] stack_service,1004,52,952
+[report] stack_service,948,52,896
 [report] stack_harness,2848,2840,8
 [report] --- end ---
 [device] ready
@@ -29,7 +29,7 @@
 
 ```text
    text	   data	    bss	    dec	    hex	filename
- 356432	    496	 118188	 475116	  73fec	/w/build/baseline.elf
+ 356976	    496	 118368	 475840	  742c0	/w/build/baseline.elf
 ```
 
 ## Listeners (proved before the device ran)
@@ -47,23 +47,23 @@
 ## Collector (syslog-ng) received
 
 ```text
-wire   <134>1 2026-08-16T19:29:06.310000Z 10.0.2.15 solid-syslog-example - BOOT [meta sequenceId="1"] ﻿device started
-parsed PRIORITY=134 TIMESTAMP=2026-08-16T19:29:06+00:00 HOSTNAME=10.0.2.15 APP_NAME=solid-syslog-example PROCID= MSGID=BOOT STRUCTURED_DATA=[meta sequenceId="1"] MSG=device started
+wire   <134>1 2026-08-16T19:31:24.850000Z 10.0.2.15 solid-syslog-example - BOOT [meta sequenceId="1"] ﻿device started
+parsed PRIORITY=134 TIMESTAMP=2026-08-16T19:31:24+00:00 HOSTNAME=10.0.2.15 APP_NAME=solid-syslog-example PROCID= MSGID=BOOT STRUCTURED_DATA=[meta sequenceId="1"] MSG=device started
 ```
 
-## Self-check (vs measurements/buffered.csv)
+## Self-check (vs measurements/tcp.csv)
 
 ```text
-  OK    flash_text: 356440 (expected 356440, Δ0)
+  OK    flash_text: 356984 (expected 356984, Δ0)
   OK    flash_data: 488 (expected 488, Δ0)
-  OK    static_bss: 118188 (expected 118188, Δ0)
+  OK    static_bss: 118368 (expected 118368, Δ0)
   OK    heap_used: 4440 (expected 4440, Δ0)
-  OK    mbedtls_peak: 21236 (expected 21332, Δ96)
-  OK    mbedtls_free: 11532 (expected 11436, Δ96)
+  OK    mbedtls_peak: 21328 (expected 21288, Δ40)
+  OK    mbedtls_free: 11440 (expected 11480, Δ40)
   OK    lwip_mem_free: 7576 (expected 7576, Δ0)
-  OK    lwip_pbufs_free: 13 (expected 13, Δ0)
+  OK    lwip_pbufs_free: 14 (expected 13, Δ1)
   OK    stack_log: 792 (expected 792, Δ0)
-  OK    stack_service: 1004 (expected 1004, Δ0)
+  OK    stack_service: 948 (expected 948, Δ0)
   OK    stack_harness: 2848 (expected 2848, Δ0)
 ```
 
