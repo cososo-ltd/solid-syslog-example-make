@@ -10,24 +10,33 @@ It builds on a baseline that simulates the sort of device you might be adding th
 measures itself: see [docs/baseline.md](docs/baseline.md) for what the baseline is, how the
 figures are made, and how to run it.
 
-## This stage — Linked
+## This stage — Error handler
 
-SolidSyslog is linked into the application without any of it being called. The stage is broken out
-for clarity: it separates getting the build to accept the library from getting the device to use
-it, so anything that goes wrong here is a build problem and nothing else.
+Install the handler before any other call into SolidSyslog.
 
-The library ships `solidsyslog.mk`, so `make/solidsyslog.mk` fetches the library, names the
-platforms and includes it, and gets the source lists and include sets back.
-`SOLIDSYSLOG_PLATFORMS` names the platforms rather than letting the library infer them from the
-environment — lwIP alone, because nothing at this stage reaches any other pack. What is left is this
-build's own architecture: Core compiles against the library's own headers into an archive, and the
-platform sources compile with this device's flags and config headers.
+```c
+SolidSyslog_SetErrorHandler(OnSyslogError, NULL);
+```
 
-`--gc-sections` discards what nothing calls, so a platform pack that is linked but unused does not
-reach the image.
+Nothing in the library fails loudly. A `_Create` that cannot succeed substitutes a Null object and
+reports it rather than returning `NULL`, so a logger that has silently stopped looks exactly like
+one with nothing to say. The handler is what tells the two apart, which is why it goes in before
+the first `_Create` and not after something looks wrong. It reports many misconfiguration errors,
+and can save significant time while integrating.
 
-For now you need only the core and a network platform. The pin is the SHA in `solid-syslog.pin`,
-which the build reads, and a change to that file fetches the commit it names.
+This is not only an integration aid. The handler is the seam into the device's own error and health
+reporting, and it stays valuable at run time: later stages raise an edge-triggered warning when the
+collector becomes unreachable and a notice when delivery recovers. Route it wherever the device
+already routes faults — here, the same console as everything else, so a fault lands in the run
+report next to the rest of what the device did.
+
+Every axis of an event has a name, the one the library's documentation uses: the severity, the
+category a device would switch on, and the detail code within the source that raised it. The handler
+prints all four, so a report can be read against the documentation without a table of the device's
+own. A platform's own code, where the event carries one, is printed after them.
+
+**When you need it.** Every device, and first. Without it, a misconfigured logger cannot be told
+from a working one.
 
 ## License
 
