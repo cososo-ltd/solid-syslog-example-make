@@ -14,7 +14,7 @@ $(SOLIDSYSLOG_DIR)/solidsyslog.mk:
 	git -C $(SOLIDSYSLOG_DIR) fetch -q --depth 1 https://github.com/cososo-ltd/solid-syslog.git $(SOLIDSYSLOG_PIN)
 	git -C $(SOLIDSYSLOG_DIR) checkout -q FETCH_HEAD
 
-SOLIDSYSLOG_PLATFORMS := LwipRaw StdAtomic
+SOLIDSYSLOG_PLATFORMS := LwipRaw StdAtomic FreeRtos
 include $(SOLIDSYSLOG_DIR)/solidsyslog.mk
 
 SOLIDSYSLOG_LIB := $(BUILD)/libSolidSyslog.a
