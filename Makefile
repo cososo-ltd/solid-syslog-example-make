@@ -55,6 +55,7 @@ APP_SRCS := \
 	$(APP_DIR)/net/EthernetIf.c \
 	$(APP_DIR)/storage/diskio.c \
 	$(APP_DIR)/storage/SemihostingDisk.c \
+	$(APP_DIR)/syslog/Syslog.c \
 	$(APP_DIR)/syslog/SyslogErrorHandler.c
 
 UPSTREAM_SRCS := \
