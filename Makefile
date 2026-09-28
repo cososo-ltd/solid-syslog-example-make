@@ -96,6 +96,9 @@ $(APP_OBJS) $(UPSTREAM_OBJS) $(SOLIDSYSLOG_PLATFORM_OBJS): | $(FATFS_STAGED_HEAD
 $(APP_OBJS) $(SOLIDSYSLOG_PLATFORM_OBJS): CFLAGS := $(COMMON_CFLAGS) $(APP_WARNINGS) $(APP_INCLUDES) $(MBEDTLS_USER_CONFIG)
 $(UPSTREAM_OBJS): CFLAGS := $(COMMON_CFLAGS) $(UPSTREAM_WARNINGS) $(UPSTREAM_INCLUDES)
 
+# The version the product already carries, so a release bumps it in one place.
+$(APP_OBJS): CFLAGS += -DSYSLOG_SW_VERSION=\"$(VERSION)\"
+
 # Our objects, the upstream ones and the platform packs link in loose; mbedTLS
 # and SolidSyslog Core link as archives.
 # Under --gc-sections that is not a free choice: the linker takes every loose
