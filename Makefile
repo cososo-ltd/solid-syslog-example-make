@@ -34,6 +34,7 @@ include make/freertos.mk
 include make/lwip.mk
 include make/fatfs.mk
 include make/mbedtls.mk
+include make/solidsyslog.mk
 
 APP_SRCS := \
 	$(APP_DIR)/main.c \
@@ -74,7 +75,8 @@ APP_INCLUDES := \
 	-I$(APP_DIR)/net/smsc9220 \
 	-I$(APP_DIR)/platform \
 	-I$(APP_DIR)/storage \
-	$(FREERTOS_INCLUDES) $(LWIP_INCLUDES) $(FATFS_INCLUDES) $(MBEDTLS_INCLUDES)
+	$(FREERTOS_INCLUDES) $(LWIP_INCLUDES) $(FATFS_INCLUDES) $(MBEDTLS_INCLUDES) \
+	$(SOLIDSYSLOG_INCLUDES)
 
 UPSTREAM_INCLUDES := \
 	-I$(APP_DIR)/config \
@@ -85,18 +87,21 @@ UPSTREAM_INCLUDES := \
 # library, or context struct sizes diverge between consumer and library.
 # The staged FatFs headers have to exist before anything that includes them
 # compiles; -MMD tracks them properly from then on.
-$(APP_OBJS) $(UPSTREAM_OBJS): | $(FATFS_STAGED_HEADERS)
+$(APP_OBJS) $(UPSTREAM_OBJS) $(SOLIDSYSLOG_PLATFORM_OBJS): | $(FATFS_STAGED_HEADERS)
 
-$(APP_OBJS):      CFLAGS := $(COMMON_CFLAGS) $(APP_WARNINGS) $(APP_INCLUDES) $(MBEDTLS_USER_CONFIG)
+$(APP_OBJS) $(SOLIDSYSLOG_PLATFORM_OBJS): CFLAGS := $(COMMON_CFLAGS) $(APP_WARNINGS) $(APP_INCLUDES) $(MBEDTLS_USER_CONFIG)
 $(UPSTREAM_OBJS): CFLAGS := $(COMMON_CFLAGS) $(UPSTREAM_WARNINGS) $(UPSTREAM_INCLUDES)
 
-# Our objects and the upstream ones link in loose; mbedTLS links as archives.
+# Our objects, the upstream ones and the platform packs link in loose; mbedTLS
+# and SolidSyslog Core link as archives.
 # Under --gc-sections that is not a free choice: the linker takes every loose
 # object and then discards unreachable sections, but pulls an archive member in
 # only if it resolves something. Same sources, different image.
-$(ELF): $(APP_OBJS) $(UPSTREAM_OBJS) $(MBEDTLS_LIBS) $(APP_DIR)/platform/mps2-an385.ld
+$(ELF): $(APP_OBJS) $(UPSTREAM_OBJS) $(SOLIDSYSLOG_PLATFORM_OBJS) $(SOLIDSYSLOG_LIB) \
+        $(MBEDTLS_LIBS) $(APP_DIR)/platform/mps2-an385.ld
 	@mkdir -p $(@D)
-	$(CC) $(LDFLAGS) $(APP_OBJS) $(UPSTREAM_OBJS) $(MBEDTLS_LIBS) -o $@
+	$(CC) $(LDFLAGS) $(APP_OBJS) $(UPSTREAM_OBJS) $(SOLIDSYSLOG_PLATFORM_OBJS) \
+		$(SOLIDSYSLOG_LIB) $(MBEDTLS_LIBS) -o $@
 
 # Every object depends on the makefiles, so a changed flag rebuilds what it
 # changed rather than being linked into a stale image.
@@ -115,4 +120,5 @@ clean:
 	rm -rf $(BUILD)
 	$(MAKE) -C $(MBEDTLS_DIR)/library clean
 
--include $(APP_OBJS:.o=.d) $(UPSTREAM_OBJS:.o=.d)
+-include $(APP_OBJS:.o=.d) $(UPSTREAM_OBJS:.o=.d) \
+	$(SOLIDSYSLOG_CORE_OBJS:.o=.d) $(SOLIDSYSLOG_PLATFORM_OBJS:.o=.d)

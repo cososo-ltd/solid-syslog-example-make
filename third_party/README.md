@@ -1,8 +1,8 @@
-# Upstream dependencies
+# Dependencies
 
-Four upstream projects, none of them modified. Each is consumed the way it publishes itself, which
-is why two are submodules and two are vendored — the mechanism follows the project, not a house
-rule.
+Five projects, none of them modified. Each is consumed the way it publishes itself, which is why
+two are submodules, two are vendored and one is fetched at build time — the mechanism follows the
+project, not a house rule.
 
 | | Version | How | Pin |
 |---|---|---|---|
@@ -10,15 +10,25 @@ rule.
 | `lwip` | STABLE-2_2_1_RELEASE | submodule | `77dcd25a72509eb83f72b033d219b1d40cd8eb95` |
 | `mbedtls` | 3.6.2 | vendored release | `mbedtls-3.6.2.tar.bz2`, sha256 `8b54fb9b…5ccbdca` |
 | `fatfs` | R0.16 patch 1 | vendored source | see below |
+| `solid-syslog` | see the pin | fetched at build time | `solid-syslog.pin` |
 
 Clone with `--recurse-submodules`, or run `git submodule update --init --recursive`. mbedTLS and
-FatFs need neither — they are in the tree.
+FatFs need neither — they are in the tree. SolidSyslog needs network access on the first build.
 
 ## The two submodules
 
 FreeRTOS-Kernel and lwIP both publish a git repository with release tags, so a submodule pins them
 exactly and an upgrade is a one-line SHA change. lwIP also ships `src/Filelists.mk`, which
 `make/lwip.mk` includes rather than re-typing its source list.
+
+## SolidSyslog — fetched at the commit in `solid-syslog.pin`
+
+SolidSyslog is the subject of this example, so it is pinned rather than copied in: a reader
+comparing two commits should see the wiring change, not a snapshot of the library.
+`solid-syslog.pin` holds one full commit SHA, which cannot move the way a tag can, and
+`make/solidsyslog.mk` fetches exactly that commit into `build/_deps/solid-syslog-<sha>` the first
+time the build needs it. Moving to another release changes that one file, and because the directory
+is named after the commit, the build fetches the new one rather than reusing the old.
 
 ## mbedTLS — vendored from the release tarball, not from git
 
@@ -56,6 +66,7 @@ are upstream's, kept for provenance and not built: this example supplies its own
 
 ## Licences
 
-All four are permissive and are used unmodified with their notices intact: FreeRTOS-Kernel MIT,
-lwIP BSD-3-Clause, mbedTLS Apache-2.0, FatFs 1-clause BSD. Each project's own licence file is in
-its directory.
+All five are used unmodified with their notices intact. The four upstreams are permissive —
+FreeRTOS-Kernel MIT, lwIP BSD-3-Clause, mbedTLS Apache-2.0, FatFs 1-clause BSD — and each one's own
+licence file is in its directory. SolidSyslog is offered under three alternative licences, which
+its own [LICENSE.md](https://github.com/cososo-ltd/solid-syslog/blob/main/LICENSE.md) sets out.
