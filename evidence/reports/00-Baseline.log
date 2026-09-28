@@ -1,0 +1,1284 @@
+ broker Pulling 
+ certs Pulling 
+ syslog-ng Pulling 
+ 68629629b516 Pulling fs layer 
+ 5105630eb283 Pulling fs layer 
+ 8c4e8bf58b7f Pulling fs layer 
+ 63a2db179435 Pulling fs layer 
+ 48c584ee2fba Pulling fs layer 
+ 411666b8791a Pulling fs layer 
+ 9258a85aeb45 Pulling fs layer 
+ 71a1d5e471bc Pulling fs layer 
+ 4b47d808f57e Pulling fs layer 
+ 919bed938aa7 Pulling fs layer 
+ 92912f53fb14 Pulling fs layer 
+ 4f4fb700ef54 Pulling fs layer 
+ aa1002bf400f Pulling fs layer 
+ bee4b0f2cea7 Pulling fs layer 
+ df90804087fa Pulling fs layer 
+ 486f6dc34c36 Pulling fs layer 
+ d5fc61442672 Pulling fs layer 
+ eb7106491d9b Pulling fs layer 
+ a8242027f59d Pulling fs layer 
+ 8c1b5161fdb3 Pulling fs layer 
+ c2bb6fcacb33 Pulling fs layer 
+ ee932954728e Pulling fs layer 
+ aa1002bf400f Waiting 
+ bee4b0f2cea7 Waiting 
+ df90804087fa Waiting 
+ 486f6dc34c36 Waiting 
+ d5fc61442672 Waiting 
+ eb7106491d9b Waiting 
+ a8242027f59d Waiting 
+ 8c1b5161fdb3 Waiting 
+ c2bb6fcacb33 Waiting 
+ ee932954728e Waiting 
+ 9258a85aeb45 Waiting 
+ 71a1d5e471bc Waiting 
+ 4b47d808f57e Waiting 
+ 48c584ee2fba Waiting 
+ 411666b8791a Waiting 
+ 63a2db179435 Waiting 
+ 919bed938aa7 Waiting 
+ 92912f53fb14 Waiting 
+ 4f4fb700ef54 Waiting 
+ 68629629b516 Pulling fs layer 
+ 5105630eb283 Pulling fs layer 
+ 8c4e8bf58b7f Pulling fs layer 
+ 63a2db179435 Pulling fs layer 
+ 48c584ee2fba Pulling fs layer 
+ 411666b8791a Pulling fs layer 
+ 9258a85aeb45 Pulling fs layer 
+ 71a1d5e471bc Pulling fs layer 
+ 4b47d808f57e Pulling fs layer 
+ 919bed938aa7 Pulling fs layer 
+ 92912f53fb14 Pulling fs layer 
+ 4f4fb700ef54 Pulling fs layer 
+ aa1002bf400f Pulling fs layer 
+ 9258a85aeb45 Waiting 
+ bee4b0f2cea7 Pulling fs layer 
+ 63a2db179435 Waiting 
+ 48c584ee2fba Waiting 
+ 411666b8791a Waiting 
+ df90804087fa Pulling fs layer 
+ 919bed938aa7 Waiting 
+ 71a1d5e471bc Waiting 
+ 486f6dc34c36 Pulling fs layer 
+ 4b47d808f57e Waiting 
+ d5fc61442672 Pulling fs layer 
+ aa1002bf400f Waiting 
+ 92912f53fb14 Waiting 
+ 4f4fb700ef54 Waiting 
+ bee4b0f2cea7 Waiting 
+ df90804087fa Waiting 
+ 486f6dc34c36 Waiting 
+ eb7106491d9b Pulling fs layer 
+ d5fc61442672 Waiting 
+ a8242027f59d Pulling fs layer 
+ 8c1b5161fdb3 Pulling fs layer 
+ c2bb6fcacb33 Pulling fs layer 
+ ee932954728e Pulling fs layer 
+ 8c1b5161fdb3 Waiting 
+ c2bb6fcacb33 Waiting 
+ ee932954728e Waiting 
+ eb7106491d9b Waiting 
+ a8242027f59d Waiting 
+ f014853ae203 Pulling fs layer 
+ 0ccd223df873 Pulling fs layer 
+ df3e9df5bc77 Pulling fs layer 
+ a8a5ee71434c Pulling fs layer 
+ 99197f11d5df Pulling fs layer 
+ 33994c44a28f Pulling fs layer 
+ 561f45a82a55 Pulling fs layer 
+ 4f4fb700ef54 Pulling fs layer 
+ f014853ae203 Waiting 
+ 0ccd223df873 Waiting 
+ df3e9df5bc77 Waiting 
+ a8a5ee71434c Waiting 
+ 99197f11d5df Waiting 
+ 33994c44a28f Waiting 
+ 4f4fb700ef54 Waiting 
+ 561f45a82a55 Waiting 
+ 68629629b516 Downloading [>                                                  ]  294.9kB/28.24MB
+ 68629629b516 Downloading [>                                                  ]  294.9kB/28.24MB
+ 5105630eb283 Downloading [>                                                  ]  112.6kB/10.05MB
+ 5105630eb283 Downloading [>                                                  ]  112.6kB/10.05MB
+ 8c4e8bf58b7f Downloading [>                                                  ]  539.3kB/484.2MB
+ 8c4e8bf58b7f Downloading [>                                                  ]  539.3kB/484.2MB
+ 68629629b516 Downloading [================================>                  ]  18.38MB/28.24MB
+ 68629629b516 Downloading [================================>                  ]  18.38MB/28.24MB
+ 5105630eb283 Download complete 
+ 5105630eb283 Verifying Checksum 
+ 5105630eb283 Download complete 
+ 68629629b516 Verifying Checksum 
+ 68629629b516 Download complete 
+ 68629629b516 Verifying Checksum 
+ 68629629b516 Download complete 
+ 68629629b516 Extracting [>                                                  ]  294.9kB/28.24MB
+ 68629629b516 Extracting [>                                                  ]  294.9kB/28.24MB
+ 8c4e8bf58b7f Downloading [=>                                                 ]  10.73MB/484.2MB
+ 8c4e8bf58b7f Downloading [=>                                                 ]  10.73MB/484.2MB
+ 48c584ee2fba Downloading [==================================================>]     118B/118B
+ 48c584ee2fba Verifying Checksum 
+ 48c584ee2fba Download complete 
+ 48c584ee2fba Verifying Checksum 
+ 48c584ee2fba Download complete 
+ 63a2db179435 Downloading [==================================================>]     847B/847B
+ 63a2db179435 Verifying Checksum 
+ 63a2db179435 Download complete 
+ 63a2db179435 Downloading [==================================================>]     847B/847B
+ 63a2db179435 Verifying Checksum 
+ 63a2db179435 Download complete 
+ 68629629b516 Extracting [==========>                                        ]  5.898MB/28.24MB
+ 68629629b516 Extracting [==========>                                        ]  5.898MB/28.24MB
+ 8c4e8bf58b7f Downloading [==>                                                ]  21.51MB/484.2MB
+ 8c4e8bf58b7f Downloading [==>                                                ]  21.51MB/484.2MB
+ 9258a85aeb45 Downloading [==================================================>]     123B/123B
+ 9258a85aeb45 Verifying Checksum 
+ 9258a85aeb45 Verifying Checksum 
+ 9258a85aeb45 Download complete 
+ 9258a85aeb45 Download complete 
+ 411666b8791a Downloading [>                                                  ]  81.92kB/6.99MB
+ 411666b8791a Downloading [>                                                  ]  81.92kB/6.99MB
+ 68629629b516 Extracting [================>                                  ]  9.437MB/28.24MB
+ 68629629b516 Extracting [================>                                  ]  9.437MB/28.24MB
+ 8c4e8bf58b7f Downloading [===>                                               ]  33.87MB/484.2MB
+ 8c4e8bf58b7f Downloading [===>                                               ]  33.87MB/484.2MB
+ 71a1d5e471bc Downloading [>                                                  ]  11.02kB/995.6kB
+ 71a1d5e471bc Downloading [>                                                  ]  11.02kB/995.6kB
+ 68629629b516 Extracting [========================>                          ]  13.57MB/28.24MB
+ 68629629b516 Extracting [========================>                          ]  13.57MB/28.24MB
+ 71a1d5e471bc Download complete 
+ 71a1d5e471bc Download complete 
+ 411666b8791a Downloading [=================================================> ]  6.959MB/6.99MB
+ 411666b8791a Downloading [=================================================> ]  6.959MB/6.99MB
+ 411666b8791a Verifying Checksum 
+ 411666b8791a Verifying Checksum 
+ 411666b8791a Download complete 
+ 411666b8791a Download complete 
+ 8c4e8bf58b7f Downloading [====>                                              ]  43.06MB/484.2MB
+ 8c4e8bf58b7f Downloading [====>                                              ]  43.06MB/484.2MB
+ 68629629b516 Extracting [=====================================>             ]  21.23MB/28.24MB
+ 68629629b516 Extracting [=====================================>             ]  21.23MB/28.24MB
+ 4b47d808f57e Downloading [==================================================>]     117B/117B
+ 4b47d808f57e Download complete 
+ 4b47d808f57e Download complete 
+ 919bed938aa7 Downloading [>                                                  ]  16.38kB/1.231MB
+ 919bed938aa7 Downloading [>                                                  ]  16.38kB/1.231MB
+ 8c4e8bf58b7f Downloading [=====>                                             ]  52.74MB/484.2MB
+ 8c4e8bf58b7f Downloading [=====>                                             ]  52.74MB/484.2MB
+ 919bed938aa7 Verifying Checksum 
+ 919bed938aa7 Download complete 
+ 919bed938aa7 Verifying Checksum 
+ 919bed938aa7 Download complete 
+ 4f4fb700ef54 Downloading [==================================================>]      32B/32B
+ 4f4fb700ef54 Verifying Checksum 
+ 4f4fb700ef54 Download complete 
+ 4f4fb700ef54 Downloading [==================================================>]      32B/32B
+ 4f4fb700ef54 Verifying Checksum 
+ 4f4fb700ef54 Download complete 
+ 8c4e8bf58b7f Downloading [======>                                            ]     63MB/484.2MB
+ 8c4e8bf58b7f Downloading [======>                                            ]     63MB/484.2MB
+ 92912f53fb14 Downloading [>                                                  ]  81.92kB/6.622MB
+ 92912f53fb14 Downloading [>                                                  ]  81.92kB/6.622MB
+ 68629629b516 Extracting [==========================================>        ]  23.89MB/28.24MB
+ 68629629b516 Extracting [==========================================>        ]  23.89MB/28.24MB
+ aa1002bf400f Downloading [>                                                  ]  2.756kB/170.1kB
+ aa1002bf400f Downloading [>                                                  ]  2.756kB/170.1kB
+ 92912f53fb14 Download complete 
+ 92912f53fb14 Download complete 
+ aa1002bf400f Downloading [==================================================>]  170.1kB/170.1kB
+ aa1002bf400f Download complete 
+ aa1002bf400f Download complete 
+ 8c4e8bf58b7f Downloading [=======>                                           ]  73.76MB/484.2MB
+ 8c4e8bf58b7f Downloading [=======>                                           ]  73.76MB/484.2MB
+ 68629629b516 Extracting [===============================================>   ]  26.84MB/28.24MB
+ 68629629b516 Extracting [===============================================>   ]  26.84MB/28.24MB
+ 8c4e8bf58b7f Downloading [========>                                          ]  85.08MB/484.2MB
+ 8c4e8bf58b7f Downloading [========>                                          ]  85.08MB/484.2MB
+ bee4b0f2cea7 Downloading [>                                                  ]  65.54kB/5.553MB
+ bee4b0f2cea7 Downloading [>                                                  ]  65.54kB/5.553MB
+ df90804087fa Downloading [>                                                  ]  34.45kB/3.324MB
+ df90804087fa Downloading [>                                                  ]  34.45kB/3.324MB
+ bee4b0f2cea7 Verifying Checksum 
+ bee4b0f2cea7 Download complete 
+ bee4b0f2cea7 Verifying Checksum 
+ bee4b0f2cea7 Download complete 
+ df90804087fa Downloading [==================================================>]  3.324MB/3.324MB
+ df90804087fa Verifying Checksum 
+ df90804087fa Download complete 
+ df90804087fa Verifying Checksum 
+ df90804087fa Download complete 
+ 8c4e8bf58b7f Downloading [=========>                                         ]  94.73MB/484.2MB
+ 8c4e8bf58b7f Downloading [=========>                                         ]  94.73MB/484.2MB
+ 68629629b516 Extracting [================================================>  ]  27.43MB/28.24MB
+ 68629629b516 Extracting [================================================>  ]  27.43MB/28.24MB
+ 8c4e8bf58b7f Downloading [===========>                                       ]  112.5MB/484.2MB
+ 8c4e8bf58b7f Downloading [===========>                                       ]  112.5MB/484.2MB
+ d5fc61442672 Downloading [>                                                  ]  48.08kB/3.607MB
+ d5fc61442672 Downloading [>                                                  ]  48.08kB/3.607MB
+ 486f6dc34c36 Downloading [>                                                  ]   6.89kB/673.9kB
+ 486f6dc34c36 Downloading [>                                                  ]   6.89kB/673.9kB
+ 486f6dc34c36 Verifying Checksum 
+ 486f6dc34c36 Download complete 
+ 486f6dc34c36 Verifying Checksum 
+ 486f6dc34c36 Download complete 
+ d5fc61442672 Verifying Checksum 
+ d5fc61442672 Download complete 
+ d5fc61442672 Verifying Checksum 
+ d5fc61442672 Download complete 
+ 68629629b516 Extracting [==================================================>]  28.24MB/28.24MB
+ 68629629b516 Extracting [==================================================>]  28.24MB/28.24MB
+ 68629629b516 Pull complete 
+ 68629629b516 Pull complete 
+ 8c4e8bf58b7f Downloading [=============>                                     ]  125.9MB/484.2MB
+ 8c4e8bf58b7f Downloading [=============>                                     ]  125.9MB/484.2MB
+ 5105630eb283 Extracting [>                                                  ]  131.1kB/10.05MB
+ 5105630eb283 Extracting [>                                                  ]  131.1kB/10.05MB
+ eb7106491d9b Downloading [>                                                  ]  42.42kB/4.195MB
+ eb7106491d9b Downloading [>                                                  ]  42.42kB/4.195MB
+ a8242027f59d Downloading [>                                                  ]  131.1kB/12.94MB
+ a8242027f59d Downloading [>                                                  ]  131.1kB/12.94MB
+ eb7106491d9b Verifying Checksum 
+ eb7106491d9b Download complete 
+ eb7106491d9b Verifying Checksum 
+ eb7106491d9b Download complete 
+ 8c4e8bf58b7f Downloading [==============>                                    ]  138.8MB/484.2MB
+ 8c4e8bf58b7f Downloading [==============>                                    ]  138.8MB/484.2MB
+ 5105630eb283 Extracting [==================>                                ]   3.67MB/10.05MB
+ 5105630eb283 Extracting [==================>                                ]   3.67MB/10.05MB
+ a8242027f59d Downloading [========================================>          ]  10.53MB/12.94MB
+ a8242027f59d Downloading [========================================>          ]  10.53MB/12.94MB
+ a8242027f59d Verifying Checksum 
+ a8242027f59d Download complete 
+ a8242027f59d Verifying Checksum 
+ a8242027f59d Download complete 
+ 8c4e8bf58b7f Downloading [===============>                                   ]  154.9MB/484.2MB
+ 8c4e8bf58b7f Downloading [===============>                                   ]  154.9MB/484.2MB
+ 5105630eb283 Extracting [==============================================>    ]  9.437MB/10.05MB
+ 5105630eb283 Extracting [==============================================>    ]  9.437MB/10.05MB
+ 8c1b5161fdb3 Downloading [>                                                  ]    310kB/30.29MB
+ 8c1b5161fdb3 Downloading [>                                                  ]    310kB/30.29MB
+ 8c4e8bf58b7f Downloading [=================>                                 ]  167.2MB/484.2MB
+ 8c4e8bf58b7f Downloading [=================>                                 ]  167.2MB/484.2MB
+ 5105630eb283 Extracting [==================================================>]  10.05MB/10.05MB
+ 5105630eb283 Extracting [==================================================>]  10.05MB/10.05MB
+ c2bb6fcacb33 Downloading [>                                                  ]  539.3kB/234.6MB
+ c2bb6fcacb33 Downloading [>                                                  ]  539.3kB/234.6MB
+ 8c1b5161fdb3 Downloading [=================>                                 ]  10.58MB/30.29MB
+ 8c1b5161fdb3 Downloading [=================>                                 ]  10.58MB/30.29MB
+ c2bb6fcacb33 Downloading [==>                                                ]  10.75MB/234.6MB
+ c2bb6fcacb33 Downloading [==>                                                ]  10.75MB/234.6MB
+ 8c4e8bf58b7f Downloading [==================>                                ]  178.6MB/484.2MB
+ 8c4e8bf58b7f Downloading [==================>                                ]  178.6MB/484.2MB
+ 8c1b5161fdb3 Downloading [=====================================>             ]  22.67MB/30.29MB
+ 8c1b5161fdb3 Downloading [=====================================>             ]  22.67MB/30.29MB
+ 8c4e8bf58b7f Downloading [===================>                               ]  193.1MB/484.2MB
+ 8c4e8bf58b7f Downloading [===================>                               ]  193.1MB/484.2MB
+ c2bb6fcacb33 Downloading [====>                                              ]     21MB/234.6MB
+ c2bb6fcacb33 Downloading [====>                                              ]     21MB/234.6MB
+ 8c1b5161fdb3 Downloading [================================================>  ]  29.52MB/30.29MB
+ 8c1b5161fdb3 Downloading [================================================>  ]  29.52MB/30.29MB
+ 8c1b5161fdb3 Verifying Checksum 
+ 8c1b5161fdb3 Download complete 
+ 8c1b5161fdb3 Verifying Checksum 
+ 8c1b5161fdb3 Download complete 
+ 8c4e8bf58b7f Downloading [====================>                              ]  199.6MB/484.2MB
+ 8c4e8bf58b7f Downloading [====================>                              ]  199.6MB/484.2MB
+ c2bb6fcacb33 Downloading [=====>                                             ]   25.3MB/234.6MB
+ c2bb6fcacb33 Downloading [=====>                                             ]   25.3MB/234.6MB
+ ee932954728e Downloading [>                                                  ]  8.268kB/811.8kB
+ ee932954728e Downloading [>                                                  ]  8.268kB/811.8kB
+ ee932954728e Downloading [==================================================>]  811.8kB/811.8kB
+ ee932954728e Verifying Checksum 
+ ee932954728e Download complete 
+ ee932954728e Verifying Checksum 
+ ee932954728e Download complete 
+ c2bb6fcacb33 Downloading [=======>                                           ]  36.08MB/234.6MB
+ c2bb6fcacb33 Downloading [=======>                                           ]  36.08MB/234.6MB
+ 8c4e8bf58b7f Downloading [=====================>                             ]  209.8MB/484.2MB
+ 8c4e8bf58b7f Downloading [=====================>                             ]  209.8MB/484.2MB
+ f014853ae203 Downloading [>                                                  ]  490.9kB/48.49MB
+ c2bb6fcacb33 Downloading [============>                                      ]  59.28MB/234.6MB
+ c2bb6fcacb33 Downloading [============>                                      ]  59.28MB/234.6MB
+ 8c4e8bf58b7f Downloading [=======================>                           ]  231.2MB/484.2MB
+ 8c4e8bf58b7f Downloading [=======================>                           ]  231.2MB/484.2MB
+ f014853ae203 Downloading [==>                                                ]  1.965MB/48.49MB
+ c2bb6fcacb33 Downloading [==============>                                    ]  68.44MB/234.6MB
+ c2bb6fcacb33 Downloading [==============>                                    ]  68.44MB/234.6MB
+ f014853ae203 Downloading [=====>                                             ]  4.915MB/48.49MB
+ 8c4e8bf58b7f Downloading [========================>                          ]  241.4MB/484.2MB
+ 8c4e8bf58b7f Downloading [========================>                          ]  241.4MB/484.2MB
+ c2bb6fcacb33 Downloading [===============>                                   ]  74.91MB/234.6MB
+ c2bb6fcacb33 Downloading [===============>                                   ]  74.91MB/234.6MB
+ f014853ae203 Downloading [==========>                                        ]  10.32MB/48.49MB
+ 8c4e8bf58b7f Downloading [==========================>                        ]  252.1MB/484.2MB
+ 8c4e8bf58b7f Downloading [==========================>                        ]  252.1MB/484.2MB
+ c2bb6fcacb33 Downloading [=================>                                 ]  84.05MB/234.6MB
+ c2bb6fcacb33 Downloading [=================>                                 ]  84.05MB/234.6MB
+ f014853ae203 Downloading [====================>                              ]  19.66MB/48.49MB
+ 8c4e8bf58b7f Downloading [===========================>                       ]  262.4MB/484.2MB
+ 8c4e8bf58b7f Downloading [===========================>                       ]  262.4MB/484.2MB
+ c2bb6fcacb33 Downloading [====================>                              ]  96.89MB/234.6MB
+ c2bb6fcacb33 Downloading [====================>                              ]  96.89MB/234.6MB
+ f014853ae203 Downloading [===============================>                   ]  30.97MB/48.49MB
+ c2bb6fcacb33 Downloading [=======================>                           ]  108.2MB/234.6MB
+ c2bb6fcacb33 Downloading [=======================>                           ]  108.2MB/234.6MB
+ f014853ae203 Verifying Checksum 
+ f014853ae203 Download complete 
+ 8c4e8bf58b7f Downloading [============================>                      ]  273.1MB/484.2MB
+ 8c4e8bf58b7f Downloading [============================>                      ]  273.1MB/484.2MB
+ c2bb6fcacb33 Downloading [========================>                          ]  115.7MB/234.6MB
+ c2bb6fcacb33 Downloading [========================>                          ]  115.7MB/234.6MB
+ 8c4e8bf58b7f Downloading [=============================>                     ]  286.1MB/484.2MB
+ 8c4e8bf58b7f Downloading [=============================>                     ]  286.1MB/484.2MB
+ f014853ae203 Extracting [>                                                  ]  491.5kB/48.49MB
+ c2bb6fcacb33 Downloading [==========================>                        ]  126.5MB/234.6MB
+ c2bb6fcacb33 Downloading [==========================>                        ]  126.5MB/234.6MB
+ 0ccd223df873 Downloading [>                                                  ]  190.7kB/18.44MB
+ 8c4e8bf58b7f Downloading [===============================>                   ]  300.6MB/484.2MB
+ 8c4e8bf58b7f Downloading [===============================>                   ]  300.6MB/484.2MB
+ f014853ae203 Extracting [=====>                                             ]  5.407MB/48.49MB
+ c2bb6fcacb33 Downloading [=============================>                     ]  138.9MB/234.6MB
+ c2bb6fcacb33 Downloading [=============================>                     ]  138.9MB/234.6MB
+ 0ccd223df873 Downloading [========================================>          ]  14.78MB/18.44MB
+ 0ccd223df873 Verifying Checksum 
+ 0ccd223df873 Download complete 
+ 8c4e8bf58b7f Downloading [===============================>                   ]  304.3MB/484.2MB
+ 8c4e8bf58b7f Downloading [===============================>                   ]  304.3MB/484.2MB
+ f014853ae203 Extracting [=========>                                         ]  9.339MB/48.49MB
+ c2bb6fcacb33 Downloading [===============================>                   ]    148MB/234.6MB
+ c2bb6fcacb33 Downloading [===============================>                   ]    148MB/234.6MB
+ df3e9df5bc77 Downloading [==================================================>]   2.74kB/2.74kB
+ df3e9df5bc77 Verifying Checksum 
+ df3e9df5bc77 Download complete 
+ f014853ae203 Extracting [============>                                      ]  12.29MB/48.49MB
+ 8c4e8bf58b7f Downloading [================================>                  ]  315.1MB/484.2MB
+ 8c4e8bf58b7f Downloading [================================>                  ]  315.1MB/484.2MB
+ c2bb6fcacb33 Downloading [==================================>                ]    162MB/234.6MB
+ c2bb6fcacb33 Downloading [==================================>                ]    162MB/234.6MB
+ f014853ae203 Extracting [====================>                              ]  19.66MB/48.49MB
+ c2bb6fcacb33 Downloading [====================================>              ]    169MB/234.6MB
+ c2bb6fcacb33 Downloading [====================================>              ]    169MB/234.6MB
+ a8a5ee71434c Downloading [>                                                  ]  528.1kB/118.9MB
+ 8c4e8bf58b7f Downloading [=================================>                 ]  327.5MB/484.2MB
+ 8c4e8bf58b7f Downloading [=================================>                 ]  327.5MB/484.2MB
+ c2bb6fcacb33 Downloading [======================================>            ]  178.7MB/234.6MB
+ c2bb6fcacb33 Downloading [======================================>            ]  178.7MB/234.6MB
+ a8a5ee71434c Downloading [==>                                                ]  6.843MB/118.9MB
+ 8c4e8bf58b7f Downloading [===================================>               ]  344.2MB/484.2MB
+ 8c4e8bf58b7f Downloading [===================================>               ]  344.2MB/484.2MB
+ a8a5ee71434c Downloading [======>                                            ]  15.34MB/118.9MB
+ c2bb6fcacb33 Downloading [========================================>          ]  188.9MB/234.6MB
+ c2bb6fcacb33 Downloading [========================================>          ]  188.9MB/234.6MB
+ f014853ae203 Extracting [========================>                          ]  24.08MB/48.49MB
+ 8c4e8bf58b7f Downloading [===================================>               ]  346.4MB/484.2MB
+ 8c4e8bf58b7f Downloading [===================================>               ]  346.4MB/484.2MB
+ f014853ae203 Extracting [===========================>                       ]  27.03MB/48.49MB
+ c2bb6fcacb33 Downloading [==========================================>        ]  199.7MB/234.6MB
+ c2bb6fcacb33 Downloading [==========================================>        ]  199.7MB/234.6MB
+ a8a5ee71434c Downloading [===========>                                       ]  28.16MB/118.9MB
+ 8c4e8bf58b7f Downloading [====================================>              ]  356.6MB/484.2MB
+ 8c4e8bf58b7f Downloading [====================================>              ]  356.6MB/484.2MB
+ f014853ae203 Extracting [================================>                  ]  31.95MB/48.49MB
+ a8a5ee71434c Downloading [=============>                                     ]  31.91MB/118.9MB
+ c2bb6fcacb33 Downloading [============================================>      ]  209.9MB/234.6MB
+ c2bb6fcacb33 Downloading [============================================>      ]  209.9MB/234.6MB
+ 8c4e8bf58b7f Downloading [=====================================>             ]  366.8MB/484.2MB
+ 8c4e8bf58b7f Downloading [=====================================>             ]  366.8MB/484.2MB
+ f014853ae203 Extracting [====================================>              ]  35.88MB/48.49MB
+ c2bb6fcacb33 Downloading [===============================================>   ]  222.2MB/234.6MB
+ c2bb6fcacb33 Downloading [===============================================>   ]  222.2MB/234.6MB
+ 8c4e8bf58b7f Downloading [======================================>            ]  371.1MB/484.2MB
+ 8c4e8bf58b7f Downloading [======================================>            ]  371.1MB/484.2MB
+ a8a5ee71434c Downloading [==============>                                    ]  34.03MB/118.9MB
+ f014853ae203 Extracting [========================================>          ]  39.32MB/48.49MB
+ 8c4e8bf58b7f Downloading [=======================================>           ]  381.9MB/484.2MB
+ 8c4e8bf58b7f Downloading [=======================================>           ]  381.9MB/484.2MB
+ c2bb6fcacb33 Downloading [=================================================> ]  230.8MB/234.6MB
+ c2bb6fcacb33 Downloading [=================================================> ]  230.8MB/234.6MB
+ c2bb6fcacb33 Verifying Checksum 
+ c2bb6fcacb33 Download complete 
+ c2bb6fcacb33 Download complete 
+ a8a5ee71434c Downloading [===================>                               ]   46.8MB/118.9MB
+ f014853ae203 Extracting [===========================================>       ]  42.27MB/48.49MB
+ 8c4e8bf58b7f Downloading [========================================>          ]  388.3MB/484.2MB
+ 8c4e8bf58b7f Downloading [========================================>          ]  388.3MB/484.2MB
+ 99197f11d5df Downloading [==================================================>]     182B/182B
+ 99197f11d5df Verifying Checksum 
+ 99197f11d5df Download complete 
+ a8a5ee71434c Downloading [========================>                          ]  59.06MB/118.9MB
+ 33994c44a28f Downloading [==================================================>]     768B/768B
+ 33994c44a28f Verifying Checksum 
+ 33994c44a28f Download complete 
+ f014853ae203 Extracting [==============================================>    ]  45.22MB/48.49MB
+ 8c4e8bf58b7f Downloading [=========================================>         ]  398.5MB/484.2MB
+ 8c4e8bf58b7f Downloading [=========================================>         ]  398.5MB/484.2MB
+ a8a5ee71434c Downloading [==========================>                        ]  62.27MB/118.9MB
+ 561f45a82a55 Downloading [==================================================>]     849B/849B
+ 561f45a82a55 Verifying Checksum 
+ 561f45a82a55 Download complete 
+ 8c4e8bf58b7f Downloading [==========================================>        ]  409.3MB/484.2MB
+ 8c4e8bf58b7f Downloading [==========================================>        ]  409.3MB/484.2MB
+ f014853ae203 Extracting [================================================>  ]  46.69MB/48.49MB
+ 4f4fb700ef54 Downloading [==================================================>]      32B/32B
+ 4f4fb700ef54 Verifying Checksum 
+ 4f4fb700ef54 Download complete 
+ 8c4e8bf58b7f Downloading [===========================================>       ]  419.5MB/484.2MB
+ 8c4e8bf58b7f Downloading [===========================================>       ]  419.5MB/484.2MB
+ a8a5ee71434c Downloading [============================>                      ]   67.6MB/118.9MB
+ a8a5ee71434c Downloading [==============================>                    ]  72.39MB/118.9MB
+ 8c4e8bf58b7f Downloading [============================================>      ]  430.2MB/484.2MB
+ 8c4e8bf58b7f Downloading [============================================>      ]  430.2MB/484.2MB
+ f014853ae203 Extracting [=================================================> ]  47.68MB/48.49MB
+ a8a5ee71434c Downloading [================================>                  ]   77.7MB/118.9MB
+ 8c4e8bf58b7f Downloading [=============================================>     ]  440.9MB/484.2MB
+ 8c4e8bf58b7f Downloading [=============================================>     ]  440.9MB/484.2MB
+ a8a5ee71434c Downloading [======================================>            ]  90.47MB/118.9MB
+ 5105630eb283 Pull complete 
+ 5105630eb283 Pull complete 
+ f014853ae203 Extracting [==================================================>]  48.49MB/48.49MB
+ 8c4e8bf58b7f Downloading [==============================================>    ]  451.6MB/484.2MB
+ 8c4e8bf58b7f Downloading [==============================================>    ]  451.6MB/484.2MB
+ f014853ae203 Pull complete 
+ 0ccd223df873 Extracting [>                                                  ]  196.6kB/18.44MB
+ 8c4e8bf58b7f Downloading [===============================================>   ]  461.9MB/484.2MB
+ 8c4e8bf58b7f Downloading [===============================================>   ]  461.9MB/484.2MB
+ 0ccd223df873 Extracting [==============>                                    ]  5.505MB/18.44MB
+ a8a5ee71434c Downloading [========================================>          ]  95.28MB/118.9MB
+ 0ccd223df873 Extracting [=============================>                     ]  10.81MB/18.44MB
+ 8c4e8bf58b7f Downloading [================================================>  ]  472.1MB/484.2MB
+ 8c4e8bf58b7f Downloading [================================================>  ]  472.1MB/484.2MB
+ a8a5ee71434c Downloading [=========================================>         ]  98.99MB/118.9MB
+ 8c4e8bf58b7f Verifying Checksum 
+ 8c4e8bf58b7f Verifying Checksum 
+ 8c4e8bf58b7f Download complete 
+ 8c4e8bf58b7f Download complete 
+ 0ccd223df873 Extracting [==========================================>        ]  15.53MB/18.44MB
+ 8c4e8bf58b7f Extracting [>                                                  ]  557.1kB/484.2MB
+ 8c4e8bf58b7f Extracting [>                                                  ]  557.1kB/484.2MB
+ 0ccd223df873 Extracting [===============================================>   ]   17.5MB/18.44MB
+ 8c4e8bf58b7f Extracting [>                                                  ]  8.913MB/484.2MB
+ 8c4e8bf58b7f Extracting [>                                                  ]  8.913MB/484.2MB
+ 0ccd223df873 Extracting [==================================================>]  18.44MB/18.44MB
+ a8a5ee71434c Downloading [==========================================>        ]  101.1MB/118.9MB
+ 8c4e8bf58b7f Extracting [=>                                                 ]   15.6MB/484.2MB
+ 8c4e8bf58b7f Extracting [=>                                                 ]   15.6MB/484.2MB
+ a8a5ee71434c Downloading [==============================================>    ]  110.1MB/118.9MB
+ 8c4e8bf58b7f Extracting [==>                                                ]  22.84MB/484.2MB
+ 8c4e8bf58b7f Extracting [==>                                                ]  22.84MB/484.2MB
+ a8a5ee71434c Downloading [=================================================> ]  117.1MB/118.9MB
+ a8a5ee71434c Verifying Checksum 
+ a8a5ee71434c Download complete 
+ 8c4e8bf58b7f Extracting [===>                                               ]   31.2MB/484.2MB
+ 8c4e8bf58b7f Extracting [===>                                               ]   31.2MB/484.2MB
+ 8c4e8bf58b7f Extracting [===>                                               ]  38.44MB/484.2MB
+ 8c4e8bf58b7f Extracting [===>                                               ]  38.44MB/484.2MB
+ 8c4e8bf58b7f Extracting [====>                                              ]  46.79MB/484.2MB
+ 8c4e8bf58b7f Extracting [====>                                              ]  46.79MB/484.2MB
+ 8c4e8bf58b7f Extracting [=====>                                             ]  56.26MB/484.2MB
+ 8c4e8bf58b7f Extracting [=====>                                             ]  56.26MB/484.2MB
+ 8c4e8bf58b7f Extracting [======>                                            ]  62.95MB/484.2MB
+ 8c4e8bf58b7f Extracting [======>                                            ]  62.95MB/484.2MB
+ 8c4e8bf58b7f Extracting [======>                                            ]  64.06MB/484.2MB
+ 8c4e8bf58b7f Extracting [======>                                            ]  64.06MB/484.2MB
+ 8c4e8bf58b7f Extracting [======>                                            ]  65.18MB/484.2MB
+ 8c4e8bf58b7f Extracting [======>                                            ]  65.18MB/484.2MB
+ 0ccd223df873 Pull complete 
+ df3e9df5bc77 Extracting [==================================================>]   2.74kB/2.74kB
+ df3e9df5bc77 Extracting [==================================================>]   2.74kB/2.74kB
+ 8c4e8bf58b7f Extracting [======>                                            ]  65.73MB/484.2MB
+ 8c4e8bf58b7f Extracting [======>                                            ]  65.73MB/484.2MB
+ 8c4e8bf58b7f Extracting [======>                                            ]  66.85MB/484.2MB
+ 8c4e8bf58b7f Extracting [======>                                            ]  66.85MB/484.2MB
+ df3e9df5bc77 Pull complete 
+ a8a5ee71434c Extracting [>                                                  ]  557.1kB/118.9MB
+ 8c4e8bf58b7f Extracting [=======>                                           ]  67.96MB/484.2MB
+ 8c4e8bf58b7f Extracting [=======>                                           ]  67.96MB/484.2MB
+ a8a5ee71434c Extracting [=======>                                           ]  17.27MB/118.9MB
+ 8c4e8bf58b7f Extracting [=======>                                           ]  68.52MB/484.2MB
+ 8c4e8bf58b7f Extracting [=======>                                           ]  68.52MB/484.2MB
+ a8a5ee71434c Extracting [========>                                          ]  20.61MB/118.9MB
+ 8c4e8bf58b7f Extracting [=======>                                           ]  69.63MB/484.2MB
+ 8c4e8bf58b7f Extracting [=======>                                           ]  69.63MB/484.2MB
+ a8a5ee71434c Extracting [==========>                                        ]  25.62MB/118.9MB
+ 8c4e8bf58b7f Extracting [=======>                                           ]  70.75MB/484.2MB
+ 8c4e8bf58b7f Extracting [=======>                                           ]  70.75MB/484.2MB
+ a8a5ee71434c Extracting [===========>                                       ]   27.3MB/118.9MB
+ 8c4e8bf58b7f Extracting [=======>                                           ]   71.3MB/484.2MB
+ 8c4e8bf58b7f Extracting [=======>                                           ]   71.3MB/484.2MB
+ a8a5ee71434c Extracting [============>                                      ]  29.52MB/118.9MB
+ 8c4e8bf58b7f Extracting [=======>                                           ]  72.42MB/484.2MB
+ 8c4e8bf58b7f Extracting [=======>                                           ]  72.42MB/484.2MB
+ a8a5ee71434c Extracting [=============>                                     ]  31.75MB/118.9MB
+ 8c4e8bf58b7f Extracting [=======>                                           ]  72.97MB/484.2MB
+ 8c4e8bf58b7f Extracting [=======>                                           ]  72.97MB/484.2MB
+ a8a5ee71434c Extracting [==============>                                    ]  35.09MB/118.9MB
+ 8c4e8bf58b7f Extracting [========>                                          ]  77.99MB/484.2MB
+ 8c4e8bf58b7f Extracting [========>                                          ]  77.99MB/484.2MB
+ a8a5ee71434c Extracting [================>                                  ]  40.11MB/118.9MB
+ 8c4e8bf58b7f Extracting [========>                                          ]  85.23MB/484.2MB
+ 8c4e8bf58b7f Extracting [========>                                          ]  85.23MB/484.2MB
+ a8a5ee71434c Extracting [====================>                              ]  47.91MB/118.9MB
+ 8c4e8bf58b7f Extracting [=========>                                         ]  93.03MB/484.2MB
+ 8c4e8bf58b7f Extracting [=========>                                         ]  93.03MB/484.2MB
+ a8a5ee71434c Extracting [=======================>                           ]  55.71MB/118.9MB
+ 8c4e8bf58b7f Extracting [==========>                                        ]  99.71MB/484.2MB
+ 8c4e8bf58b7f Extracting [==========>                                        ]  99.71MB/484.2MB
+ a8a5ee71434c Extracting [==========================>                        ]   63.5MB/118.9MB
+ 8c4e8bf58b7f Extracting [==========>                                        ]  103.6MB/484.2MB
+ 8c4e8bf58b7f Extracting [==========>                                        ]  103.6MB/484.2MB
+ a8a5ee71434c Extracting [=============================>                     ]  70.19MB/118.9MB
+ 8c4e8bf58b7f Extracting [===========>                                       ]  109.2MB/484.2MB
+ 8c4e8bf58b7f Extracting [===========>                                       ]  109.2MB/484.2MB
+ a8a5ee71434c Extracting [===============================>                   ]  74.65MB/118.9MB
+ 8c4e8bf58b7f Extracting [============>                                      ]    117MB/484.2MB
+ 8c4e8bf58b7f Extracting [============>                                      ]    117MB/484.2MB
+ a8a5ee71434c Extracting [================================>                  ]  77.43MB/118.9MB
+ 8c4e8bf58b7f Extracting [============>                                      ]  122.6MB/484.2MB
+ 8c4e8bf58b7f Extracting [============>                                      ]  122.6MB/484.2MB
+ a8a5ee71434c Extracting [=================================>                 ]   79.1MB/118.9MB
+ 8c4e8bf58b7f Extracting [=============>                                     ]  130.4MB/484.2MB
+ 8c4e8bf58b7f Extracting [=============>                                     ]  130.4MB/484.2MB
+ a8a5ee71434c Extracting [===================================>               ]  84.67MB/118.9MB
+ 8c4e8bf58b7f Extracting [==============>                                    ]    137MB/484.2MB
+ 8c4e8bf58b7f Extracting [==============>                                    ]    137MB/484.2MB
+ a8a5ee71434c Extracting [====================================>              ]  86.34MB/118.9MB
+ 8c4e8bf58b7f Extracting [==============>                                    ]  144.3MB/484.2MB
+ 8c4e8bf58b7f Extracting [==============>                                    ]  144.3MB/484.2MB
+ a8a5ee71434c Extracting [====================================>              ]  88.01MB/118.9MB
+ 8c4e8bf58b7f Extracting [===============>                                   ]  150.4MB/484.2MB
+ 8c4e8bf58b7f Extracting [===============>                                   ]  150.4MB/484.2MB
+ 8c4e8bf58b7f Extracting [================>                                  ]  157.6MB/484.2MB
+ 8c4e8bf58b7f Extracting [================>                                  ]  157.6MB/484.2MB
+ 8c4e8bf58b7f Extracting [=================>                                 ]  165.4MB/484.2MB
+ 8c4e8bf58b7f Extracting [=================>                                 ]  165.4MB/484.2MB
+ a8a5ee71434c Extracting [=====================================>             ]  90.24MB/118.9MB
+ 8c4e8bf58b7f Extracting [=================>                                 ]  172.7MB/484.2MB
+ 8c4e8bf58b7f Extracting [=================>                                 ]  172.7MB/484.2MB
+ a8a5ee71434c Extracting [======================================>            ]  91.36MB/118.9MB
+ 8c4e8bf58b7f Extracting [==================>                                ]  177.1MB/484.2MB
+ 8c4e8bf58b7f Extracting [==================>                                ]  177.1MB/484.2MB
+ a8a5ee71434c Extracting [=======================================>           ]  93.03MB/118.9MB
+ 8c4e8bf58b7f Extracting [==================>                                ]  178.3MB/484.2MB
+ 8c4e8bf58b7f Extracting [==================>                                ]  178.3MB/484.2MB
+ a8a5ee71434c Extracting [=======================================>           ]   94.7MB/118.9MB
+ 8c4e8bf58b7f Extracting [==================>                                ]  179.4MB/484.2MB
+ 8c4e8bf58b7f Extracting [==================>                                ]  179.4MB/484.2MB
+ a8a5ee71434c Extracting [========================================>          ]  95.26MB/118.9MB
+ 8c4e8bf58b7f Extracting [==================>                                ]  180.5MB/484.2MB
+ 8c4e8bf58b7f Extracting [==================>                                ]  180.5MB/484.2MB
+ 8c4e8bf58b7f Extracting [==================>                                ]    181MB/484.2MB
+ 8c4e8bf58b7f Extracting [==================>                                ]    181MB/484.2MB
+ a8a5ee71434c Extracting [=========================================>         ]   98.6MB/118.9MB
+ 8c4e8bf58b7f Extracting [==================>                                ]  183.3MB/484.2MB
+ 8c4e8bf58b7f Extracting [==================>                                ]  183.3MB/484.2MB
+ 8c4e8bf58b7f Extracting [===================>                               ]  187.2MB/484.2MB
+ 8c4e8bf58b7f Extracting [===================>                               ]  187.2MB/484.2MB
+ a8a5ee71434c Extracting [==========================================>        ]  100.3MB/118.9MB
+ 8c4e8bf58b7f Extracting [===================>                               ]  191.6MB/484.2MB
+ 8c4e8bf58b7f Extracting [===================>                               ]  191.6MB/484.2MB
+ a8a5ee71434c Extracting [==========================================>        ]  101.4MB/118.9MB
+ 8c4e8bf58b7f Extracting [====================>                              ]  196.6MB/484.2MB
+ 8c4e8bf58b7f Extracting [====================>                              ]  196.6MB/484.2MB
+ a8a5ee71434c Extracting [===========================================>       ]  103.6MB/118.9MB
+ 8c4e8bf58b7f Extracting [====================>                              ]  202.8MB/484.2MB
+ 8c4e8bf58b7f Extracting [====================>                              ]  202.8MB/484.2MB
+ a8a5ee71434c Extracting [============================================>      ]  104.7MB/118.9MB
+ 8c4e8bf58b7f Extracting [=====================>                             ]  208.9MB/484.2MB
+ 8c4e8bf58b7f Extracting [=====================>                             ]  208.9MB/484.2MB
+ a8a5ee71434c Extracting [============================================>      ]  105.8MB/118.9MB
+ 8c4e8bf58b7f Extracting [======================>                            ]  214.5MB/484.2MB
+ 8c4e8bf58b7f Extracting [======================>                            ]  214.5MB/484.2MB
+ a8a5ee71434c Extracting [============================================>      ]    107MB/118.9MB
+ 8c4e8bf58b7f Extracting [======================>                            ]    220MB/484.2MB
+ 8c4e8bf58b7f Extracting [======================>                            ]    220MB/484.2MB
+ 8c4e8bf58b7f Extracting [=======================>                           ]  225.6MB/484.2MB
+ 8c4e8bf58b7f Extracting [=======================>                           ]  225.6MB/484.2MB
+ a8a5ee71434c Extracting [=============================================>     ]  108.6MB/118.9MB
+ 8c4e8bf58b7f Extracting [=======================>                           ]  229.5MB/484.2MB
+ 8c4e8bf58b7f Extracting [=======================>                           ]  229.5MB/484.2MB
+ a8a5ee71434c Extracting [==============================================>    ]  109.7MB/118.9MB
+ 8c4e8bf58b7f Extracting [========================>                          ]  233.4MB/484.2MB
+ 8c4e8bf58b7f Extracting [========================>                          ]  233.4MB/484.2MB
+ 8c4e8bf58b7f Extracting [========================>                          ]  237.9MB/484.2MB
+ 8c4e8bf58b7f Extracting [========================>                          ]  237.9MB/484.2MB
+ 8c4e8bf58b7f Extracting [=========================>                         ]  243.4MB/484.2MB
+ 8c4e8bf58b7f Extracting [=========================>                         ]  243.4MB/484.2MB
+ 8c4e8bf58b7f Extracting [=========================>                         ]  248.4MB/484.2MB
+ 8c4e8bf58b7f Extracting [=========================>                         ]  248.4MB/484.2MB
+ a8a5ee71434c Extracting [==============================================>    ]  110.9MB/118.9MB
+ 8c4e8bf58b7f Extracting [==========================>                        ]    254MB/484.2MB
+ 8c4e8bf58b7f Extracting [==========================>                        ]    254MB/484.2MB
+ a8a5ee71434c Extracting [===============================================>   ]    112MB/118.9MB
+ 8c4e8bf58b7f Extracting [==========================>                        ]  257.4MB/484.2MB
+ 8c4e8bf58b7f Extracting [==========================>                        ]  257.4MB/484.2MB
+ 8c4e8bf58b7f Extracting [==========================>                        ]  260.7MB/484.2MB
+ 8c4e8bf58b7f Extracting [==========================>                        ]  260.7MB/484.2MB
+ a8a5ee71434c Extracting [===============================================>   ]  113.6MB/118.9MB
+ 8c4e8bf58b7f Extracting [===========================>                       ]  265.2MB/484.2MB
+ 8c4e8bf58b7f Extracting [===========================>                       ]  265.2MB/484.2MB
+ a8a5ee71434c Extracting [================================================>  ]  114.8MB/118.9MB
+ 8c4e8bf58b7f Extracting [===========================>                       ]  270.2MB/484.2MB
+ 8c4e8bf58b7f Extracting [===========================>                       ]  270.2MB/484.2MB
+ a8a5ee71434c Extracting [================================================>  ]  115.3MB/118.9MB
+ 8c4e8bf58b7f Extracting [============================>                      ]  275.7MB/484.2MB
+ 8c4e8bf58b7f Extracting [============================>                      ]  275.7MB/484.2MB
+ a8a5ee71434c Extracting [================================================>  ]  116.4MB/118.9MB
+ 8c4e8bf58b7f Extracting [============================>                      ]  279.6MB/484.2MB
+ 8c4e8bf58b7f Extracting [============================>                      ]  279.6MB/484.2MB
+ 8c4e8bf58b7f Extracting [=============================>                     ]  283.5MB/484.2MB
+ 8c4e8bf58b7f Extracting [=============================>                     ]  283.5MB/484.2MB
+ a8a5ee71434c Extracting [=================================================> ]  117.5MB/118.9MB
+ 8c4e8bf58b7f Extracting [=============================>                     ]  288.6MB/484.2MB
+ 8c4e8bf58b7f Extracting [=============================>                     ]  288.6MB/484.2MB
+ a8a5ee71434c Extracting [=================================================> ]  118.7MB/118.9MB
+ a8a5ee71434c Extracting [==================================================>]  118.9MB/118.9MB
+ 8c4e8bf58b7f Extracting [==============================>                    ]  293.6MB/484.2MB
+ 8c4e8bf58b7f Extracting [==============================>                    ]  293.6MB/484.2MB
+ 8c4e8bf58b7f Extracting [==============================>                    ]  299.1MB/484.2MB
+ 8c4e8bf58b7f Extracting [==============================>                    ]  299.1MB/484.2MB
+ 8c4e8bf58b7f Extracting [===============================>                   ]  304.2MB/484.2MB
+ 8c4e8bf58b7f Extracting [===============================>                   ]  304.2MB/484.2MB
+ 8c4e8bf58b7f Extracting [===============================>                   ]  309.2MB/484.2MB
+ 8c4e8bf58b7f Extracting [===============================>                   ]  309.2MB/484.2MB
+ 8c4e8bf58b7f Extracting [===============================>                   ]  309.7MB/484.2MB
+ 8c4e8bf58b7f Extracting [===============================>                   ]  309.7MB/484.2MB
+ 8c4e8bf58b7f Extracting [================================>                  ]    312MB/484.2MB
+ 8c4e8bf58b7f Extracting [================================>                  ]    312MB/484.2MB
+ 8c4e8bf58b7f Extracting [================================>                  ]  313.1MB/484.2MB
+ 8c4e8bf58b7f Extracting [================================>                  ]  313.1MB/484.2MB
+ 8c4e8bf58b7f Extracting [================================>                  ]  316.4MB/484.2MB
+ 8c4e8bf58b7f Extracting [================================>                  ]  316.4MB/484.2MB
+ 8c4e8bf58b7f Extracting [================================>                  ]  317.5MB/484.2MB
+ 8c4e8bf58b7f Extracting [================================>                  ]  317.5MB/484.2MB
+ 8c4e8bf58b7f Extracting [=================================>                 ]  320.3MB/484.2MB
+ 8c4e8bf58b7f Extracting [=================================>                 ]  320.3MB/484.2MB
+ 8c4e8bf58b7f Extracting [=================================>                 ]  321.4MB/484.2MB
+ 8c4e8bf58b7f Extracting [=================================>                 ]  321.4MB/484.2MB
+ 8c4e8bf58b7f Extracting [=================================>                 ]  325.9MB/484.2MB
+ 8c4e8bf58b7f Extracting [=================================>                 ]  325.9MB/484.2MB
+ 8c4e8bf58b7f Extracting [==================================>                ]  334.8MB/484.2MB
+ 8c4e8bf58b7f Extracting [==================================>                ]  334.8MB/484.2MB
+ 8c4e8bf58b7f Extracting [===================================>               ]  343.7MB/484.2MB
+ 8c4e8bf58b7f Extracting [===================================>               ]  343.7MB/484.2MB
+ 8c4e8bf58b7f Extracting [====================================>              ]  352.6MB/484.2MB
+ 8c4e8bf58b7f Extracting [====================================>              ]  352.6MB/484.2MB
+ 8c4e8bf58b7f Extracting [====================================>              ]  357.6MB/484.2MB
+ 8c4e8bf58b7f Extracting [====================================>              ]  357.6MB/484.2MB
+ 8c4e8bf58b7f Extracting [=====================================>             ]  365.4MB/484.2MB
+ 8c4e8bf58b7f Extracting [=====================================>             ]  365.4MB/484.2MB
+ 8c4e8bf58b7f Extracting [======================================>            ]  372.7MB/484.2MB
+ 8c4e8bf58b7f Extracting [======================================>            ]  372.7MB/484.2MB
+ 8c4e8bf58b7f Extracting [=======================================>           ]    381MB/484.2MB
+ 8c4e8bf58b7f Extracting [=======================================>           ]    381MB/484.2MB
+ 8c4e8bf58b7f Extracting [========================================>          ]  388.3MB/484.2MB
+ 8c4e8bf58b7f Extracting [========================================>          ]  388.3MB/484.2MB
+ 8c4e8bf58b7f Extracting [========================================>          ]  396.6MB/484.2MB
+ 8c4e8bf58b7f Extracting [========================================>          ]  396.6MB/484.2MB
+ 8c4e8bf58b7f Extracting [=========================================>         ]  404.4MB/484.2MB
+ 8c4e8bf58b7f Extracting [=========================================>         ]  404.4MB/484.2MB
+ 8c4e8bf58b7f Extracting [==========================================>        ]  413.3MB/484.2MB
+ 8c4e8bf58b7f Extracting [==========================================>        ]  413.3MB/484.2MB
+ 8c4e8bf58b7f Extracting [===========================================>       ]  423.4MB/484.2MB
+ 8c4e8bf58b7f Extracting [===========================================>       ]  423.4MB/484.2MB
+ 8c4e8bf58b7f Extracting [============================================>      ]  433.9MB/484.2MB
+ 8c4e8bf58b7f Extracting [============================================>      ]  433.9MB/484.2MB
+ 8c4e8bf58b7f Extracting [=============================================>     ]  442.3MB/484.2MB
+ 8c4e8bf58b7f Extracting [=============================================>     ]  442.3MB/484.2MB
+ 8c4e8bf58b7f Extracting [==============================================>    ]  449.5MB/484.2MB
+ 8c4e8bf58b7f Extracting [==============================================>    ]  449.5MB/484.2MB
+ a8a5ee71434c Pull complete 
+ 99197f11d5df Extracting [==================================================>]     182B/182B
+ 99197f11d5df Extracting [==================================================>]     182B/182B
+ 8c4e8bf58b7f Extracting [===============================================>   ]  456.8MB/484.2MB
+ 8c4e8bf58b7f Extracting [===============================================>   ]  456.8MB/484.2MB
+ 8c4e8bf58b7f Extracting [================================================>  ]  465.1MB/484.2MB
+ 8c4e8bf58b7f Extracting [================================================>  ]  465.1MB/484.2MB
+ 8c4e8bf58b7f Extracting [================================================>  ]  470.7MB/484.2MB
+ 8c4e8bf58b7f Extracting [================================================>  ]  470.7MB/484.2MB
+ 8c4e8bf58b7f Extracting [=================================================> ]  474.6MB/484.2MB
+ 8c4e8bf58b7f Extracting [=================================================> ]  474.6MB/484.2MB
+ 8c4e8bf58b7f Extracting [=================================================> ]  475.2MB/484.2MB
+ 8c4e8bf58b7f Extracting [=================================================> ]  475.2MB/484.2MB
+ 99197f11d5df Pull complete 
+ 33994c44a28f Extracting [==================================================>]     768B/768B
+ 33994c44a28f Extracting [==================================================>]     768B/768B
+ 33994c44a28f Pull complete 
+ 561f45a82a55 Extracting [==================================================>]     849B/849B
+ 561f45a82a55 Extracting [==================================================>]     849B/849B
+ 561f45a82a55 Pull complete 
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Pull complete 
+ syslog-ng Pulled 
+ 8c4e8bf58b7f Extracting [=================================================> ]  476.3MB/484.2MB
+ 8c4e8bf58b7f Extracting [=================================================> ]  476.3MB/484.2MB
+ 8c4e8bf58b7f Extracting [=================================================> ]  476.8MB/484.2MB
+ 8c4e8bf58b7f Extracting [=================================================> ]  476.8MB/484.2MB
+ 8c4e8bf58b7f Extracting [=================================================> ]  477.4MB/484.2MB
+ 8c4e8bf58b7f Extracting [=================================================> ]  477.4MB/484.2MB
+ 8c4e8bf58b7f Extracting [=================================================> ]    478MB/484.2MB
+ 8c4e8bf58b7f Extracting [=================================================> ]    478MB/484.2MB
+ 8c4e8bf58b7f Extracting [=================================================> ]  479.6MB/484.2MB
+ 8c4e8bf58b7f Extracting [=================================================> ]  479.6MB/484.2MB
+ 8c4e8bf58b7f Extracting [=================================================> ]  481.3MB/484.2MB
+ 8c4e8bf58b7f Extracting [=================================================> ]  481.3MB/484.2MB
+ 8c4e8bf58b7f Extracting [=================================================> ]    483MB/484.2MB
+ 8c4e8bf58b7f Extracting [=================================================> ]    483MB/484.2MB
+ 8c4e8bf58b7f Extracting [=================================================> ]  484.1MB/484.2MB
+ 8c4e8bf58b7f Extracting [=================================================> ]  484.1MB/484.2MB
+ 8c4e8bf58b7f Extracting [==================================================>]  484.2MB/484.2MB
+ 8c4e8bf58b7f Extracting [==================================================>]  484.2MB/484.2MB
+ 8c4e8bf58b7f Pull complete 
+ 8c4e8bf58b7f Pull complete 
+ 63a2db179435 Extracting [==================================================>]     847B/847B
+ 63a2db179435 Extracting [==================================================>]     847B/847B
+ 63a2db179435 Extracting [==================================================>]     847B/847B
+ 63a2db179435 Extracting [==================================================>]     847B/847B
+ 63a2db179435 Pull complete 
+ 63a2db179435 Pull complete 
+ 48c584ee2fba Extracting [==================================================>]     118B/118B
+ 48c584ee2fba Extracting [==================================================>]     118B/118B
+ 48c584ee2fba Extracting [==================================================>]     118B/118B
+ 48c584ee2fba Extracting [==================================================>]     118B/118B
+ 48c584ee2fba Pull complete 
+ 48c584ee2fba Pull complete 
+ 411666b8791a Extracting [>                                                  ]   98.3kB/6.99MB
+ 411666b8791a Extracting [>                                                  ]   98.3kB/6.99MB
+ 411666b8791a Extracting [============================>                      ]  3.932MB/6.99MB
+ 411666b8791a Extracting [============================>                      ]  3.932MB/6.99MB
+ 411666b8791a Extracting [=========================================>         ]    5.8MB/6.99MB
+ 411666b8791a Extracting [=========================================>         ]    5.8MB/6.99MB
+ 411666b8791a Extracting [==================================================>]   6.99MB/6.99MB
+ 411666b8791a Extracting [==================================================>]   6.99MB/6.99MB
+ 411666b8791a Pull complete 
+ 411666b8791a Pull complete 
+ 9258a85aeb45 Extracting [==================================================>]     123B/123B
+ 9258a85aeb45 Extracting [==================================================>]     123B/123B
+ 9258a85aeb45 Extracting [==================================================>]     123B/123B
+ 9258a85aeb45 Extracting [==================================================>]     123B/123B
+ 9258a85aeb45 Pull complete 
+ 9258a85aeb45 Pull complete 
+ 71a1d5e471bc Extracting [=>                                                 ]  32.77kB/995.6kB
+ 71a1d5e471bc Extracting [=>                                                 ]  32.77kB/995.6kB
+ 71a1d5e471bc Extracting [==================================================>]  995.6kB/995.6kB
+ 71a1d5e471bc Extracting [==================================================>]  995.6kB/995.6kB
+ 71a1d5e471bc Pull complete 
+ 71a1d5e471bc Pull complete 
+ 4b47d808f57e Extracting [==================================================>]     117B/117B
+ 4b47d808f57e Extracting [==================================================>]     117B/117B
+ 4b47d808f57e Extracting [==================================================>]     117B/117B
+ 4b47d808f57e Extracting [==================================================>]     117B/117B
+ 4b47d808f57e Pull complete 
+ 4b47d808f57e Pull complete 
+ 919bed938aa7 Extracting [=>                                                 ]  32.77kB/1.231MB
+ 919bed938aa7 Extracting [=>                                                 ]  32.77kB/1.231MB
+ 919bed938aa7 Extracting [==================================================>]  1.231MB/1.231MB
+ 919bed938aa7 Extracting [==================================================>]  1.231MB/1.231MB
+ 919bed938aa7 Extracting [==================================================>]  1.231MB/1.231MB
+ 919bed938aa7 Extracting [==================================================>]  1.231MB/1.231MB
+ 919bed938aa7 Pull complete 
+ 919bed938aa7 Pull complete 
+ 92912f53fb14 Extracting [>                                                  ]   98.3kB/6.622MB
+ 92912f53fb14 Extracting [>                                                  ]   98.3kB/6.622MB
+ 92912f53fb14 Extracting [====================>                              ]  2.654MB/6.622MB
+ 92912f53fb14 Extracting [====================>                              ]  2.654MB/6.622MB
+ 92912f53fb14 Extracting [=================================>                 ]  4.424MB/6.622MB
+ 92912f53fb14 Extracting [=================================>                 ]  4.424MB/6.622MB
+ 92912f53fb14 Extracting [============================================>      ]  5.898MB/6.622MB
+ 92912f53fb14 Extracting [============================================>      ]  5.898MB/6.622MB
+ 92912f53fb14 Extracting [==================================================>]  6.622MB/6.622MB
+ 92912f53fb14 Extracting [==================================================>]  6.622MB/6.622MB
+ 92912f53fb14 Pull complete 
+ 92912f53fb14 Pull complete 
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Pull complete 
+ 4f4fb700ef54 Pull complete 
+ aa1002bf400f Extracting [=========>                                         ]  32.77kB/170.1kB
+ aa1002bf400f Extracting [=========>                                         ]  32.77kB/170.1kB
+ aa1002bf400f Extracting [==================================================>]  170.1kB/170.1kB
+ aa1002bf400f Extracting [==================================================>]  170.1kB/170.1kB
+ aa1002bf400f Extracting [==================================================>]  170.1kB/170.1kB
+ aa1002bf400f Extracting [==================================================>]  170.1kB/170.1kB
+ aa1002bf400f Pull complete 
+ aa1002bf400f Pull complete 
+ bee4b0f2cea7 Extracting [>                                                  ]  65.54kB/5.553MB
+ bee4b0f2cea7 Extracting [>                                                  ]  65.54kB/5.553MB
+ bee4b0f2cea7 Extracting [=================================>                 ]  3.736MB/5.553MB
+ bee4b0f2cea7 Extracting [=================================>                 ]  3.736MB/5.553MB
+ bee4b0f2cea7 Extracting [==========================================>        ]  4.719MB/5.553MB
+ bee4b0f2cea7 Extracting [==========================================>        ]  4.719MB/5.553MB
+ bee4b0f2cea7 Extracting [=================================================> ]  5.505MB/5.553MB
+ bee4b0f2cea7 Extracting [=================================================> ]  5.505MB/5.553MB
+ bee4b0f2cea7 Extracting [==================================================>]  5.553MB/5.553MB
+ bee4b0f2cea7 Extracting [==================================================>]  5.553MB/5.553MB
+ bee4b0f2cea7 Pull complete 
+ bee4b0f2cea7 Pull complete 
+ df90804087fa Extracting [>                                                  ]  65.54kB/3.324MB
+ df90804087fa Extracting [>                                                  ]  65.54kB/3.324MB
+ df90804087fa Extracting [==========================================>        ]  2.818MB/3.324MB
+ df90804087fa Extracting [==========================================>        ]  2.818MB/3.324MB
+ df90804087fa Extracting [===============================================>   ]  3.146MB/3.324MB
+ df90804087fa Extracting [===============================================>   ]  3.146MB/3.324MB
+ df90804087fa Extracting [==================================================>]  3.324MB/3.324MB
+ df90804087fa Extracting [==================================================>]  3.324MB/3.324MB
+ df90804087fa Extracting [==================================================>]  3.324MB/3.324MB
+ df90804087fa Extracting [==================================================>]  3.324MB/3.324MB
+ df90804087fa Pull complete 
+ df90804087fa Pull complete 
+ 486f6dc34c36 Extracting [==>                                                ]  32.77kB/673.9kB
+ 486f6dc34c36 Extracting [==>                                                ]  32.77kB/673.9kB
+ 486f6dc34c36 Extracting [==================================================>]  673.9kB/673.9kB
+ 486f6dc34c36 Extracting [==================================================>]  673.9kB/673.9kB
+ 486f6dc34c36 Extracting [==================================================>]  673.9kB/673.9kB
+ 486f6dc34c36 Extracting [==================================================>]  673.9kB/673.9kB
+ 486f6dc34c36 Pull complete 
+ 486f6dc34c36 Pull complete 
+ d5fc61442672 Extracting [>                                                  ]  65.54kB/3.607MB
+ d5fc61442672 Extracting [>                                                  ]  65.54kB/3.607MB
+ d5fc61442672 Extracting [====================================>              ]  2.621MB/3.607MB
+ d5fc61442672 Extracting [====================================>              ]  2.621MB/3.607MB
+ d5fc61442672 Extracting [==================================================>]  3.607MB/3.607MB
+ d5fc61442672 Extracting [==================================================>]  3.607MB/3.607MB
+ d5fc61442672 Pull complete 
+ d5fc61442672 Pull complete 
+ eb7106491d9b Extracting [>                                                  ]  65.54kB/4.195MB
+ eb7106491d9b Extracting [>                                                  ]  65.54kB/4.195MB
+ eb7106491d9b Extracting [==================================================>]  4.195MB/4.195MB
+ eb7106491d9b Extracting [==================================================>]  4.195MB/4.195MB
+ eb7106491d9b Pull complete 
+ eb7106491d9b Pull complete 
+ a8242027f59d Extracting [>                                                  ]  131.1kB/12.94MB
+ a8242027f59d Extracting [>                                                  ]  131.1kB/12.94MB
+ a8242027f59d Extracting [==============================>                    ]  7.864MB/12.94MB
+ a8242027f59d Extracting [==============================>                    ]  7.864MB/12.94MB
+ a8242027f59d Extracting [================================>                  ]  8.389MB/12.94MB
+ a8242027f59d Extracting [================================>                  ]  8.389MB/12.94MB
+ a8242027f59d Extracting [=====================================>             ]   9.83MB/12.94MB
+ a8242027f59d Extracting [=====================================>             ]   9.83MB/12.94MB
+ a8242027f59d Extracting [==========================================>        ]  10.88MB/12.94MB
+ a8242027f59d Extracting [==========================================>        ]  10.88MB/12.94MB
+ a8242027f59d Extracting [=================================================> ]  12.85MB/12.94MB
+ a8242027f59d Extracting [=================================================> ]  12.85MB/12.94MB
+ a8242027f59d Extracting [==================================================>]  12.94MB/12.94MB
+ a8242027f59d Extracting [==================================================>]  12.94MB/12.94MB
+ a8242027f59d Pull complete 
+ a8242027f59d Pull complete 
+ 8c1b5161fdb3 Extracting [>                                                  ]  327.7kB/30.29MB
+ 8c1b5161fdb3 Extracting [>                                                  ]  327.7kB/30.29MB
+ 8c1b5161fdb3 Extracting [=========>                                         ]  5.571MB/30.29MB
+ 8c1b5161fdb3 Extracting [=========>                                         ]  5.571MB/30.29MB
+ 8c1b5161fdb3 Extracting [=============>                                     ]  8.192MB/30.29MB
+ 8c1b5161fdb3 Extracting [=============>                                     ]  8.192MB/30.29MB
+ 8c1b5161fdb3 Extracting [==============>                                    ]  8.847MB/30.29MB
+ 8c1b5161fdb3 Extracting [==============>                                    ]  8.847MB/30.29MB
+ 8c1b5161fdb3 Extracting [===============>                                   ]  9.503MB/30.29MB
+ 8c1b5161fdb3 Extracting [===============>                                   ]  9.503MB/30.29MB
+ 8c1b5161fdb3 Extracting [================>                                  ]  10.16MB/30.29MB
+ 8c1b5161fdb3 Extracting [================>                                  ]  10.16MB/30.29MB
+ 8c1b5161fdb3 Extracting [=====================>                             ]  12.78MB/30.29MB
+ 8c1b5161fdb3 Extracting [=====================>                             ]  12.78MB/30.29MB
+ 8c1b5161fdb3 Extracting [======================>                            ]  13.43MB/30.29MB
+ 8c1b5161fdb3 Extracting [======================>                            ]  13.43MB/30.29MB
+ 8c1b5161fdb3 Extracting [=======================>                           ]  14.09MB/30.29MB
+ 8c1b5161fdb3 Extracting [=======================>                           ]  14.09MB/30.29MB
+ 8c1b5161fdb3 Extracting [===========================>                       ]  16.38MB/30.29MB
+ 8c1b5161fdb3 Extracting [===========================>                       ]  16.38MB/30.29MB
+ 8c1b5161fdb3 Extracting [============================>                      ]  17.37MB/30.29MB
+ 8c1b5161fdb3 Extracting [============================>                      ]  17.37MB/30.29MB
+ 8c1b5161fdb3 Extracting [=========================================>         ]   24.9MB/30.29MB
+ 8c1b5161fdb3 Extracting [=========================================>         ]   24.9MB/30.29MB
+ 8c1b5161fdb3 Extracting [=========================================>         ]  25.23MB/30.29MB
+ 8c1b5161fdb3 Extracting [=========================================>         ]  25.23MB/30.29MB
+ 8c1b5161fdb3 Extracting [==========================================>        ]  25.89MB/30.29MB
+ 8c1b5161fdb3 Extracting [==========================================>        ]  25.89MB/30.29MB
+ 8c1b5161fdb3 Extracting [============================================>      ]   27.2MB/30.29MB
+ 8c1b5161fdb3 Extracting [============================================>      ]   27.2MB/30.29MB
+ 8c1b5161fdb3 Extracting [=============================================>     ]  27.85MB/30.29MB
+ 8c1b5161fdb3 Extracting [=============================================>     ]  27.85MB/30.29MB
+ 8c1b5161fdb3 Extracting [=================================================> ]  29.82MB/30.29MB
+ 8c1b5161fdb3 Extracting [=================================================> ]  29.82MB/30.29MB
+ 8c1b5161fdb3 Extracting [==================================================>]  30.29MB/30.29MB
+ 8c1b5161fdb3 Extracting [==================================================>]  30.29MB/30.29MB
+ 8c1b5161fdb3 Pull complete 
+ 8c1b5161fdb3 Pull complete 
+ c2bb6fcacb33 Extracting [>                                                  ]  557.1kB/234.6MB
+ c2bb6fcacb33 Extracting [>                                                  ]  557.1kB/234.6MB
+ c2bb6fcacb33 Extracting [==>                                                ]  10.03MB/234.6MB
+ c2bb6fcacb33 Extracting [==>                                                ]  10.03MB/234.6MB
+ c2bb6fcacb33 Extracting [====>                                              ]   19.5MB/234.6MB
+ c2bb6fcacb33 Extracting [====>                                              ]   19.5MB/234.6MB
+ c2bb6fcacb33 Extracting [=====>                                             ]  27.85MB/234.6MB
+ c2bb6fcacb33 Extracting [=====>                                             ]  27.85MB/234.6MB
+ c2bb6fcacb33 Extracting [=======>                                           ]  35.09MB/234.6MB
+ c2bb6fcacb33 Extracting [=======>                                           ]  35.09MB/234.6MB
+ c2bb6fcacb33 Extracting [========>                                          ]  41.22MB/234.6MB
+ c2bb6fcacb33 Extracting [========>                                          ]  41.22MB/234.6MB
+ c2bb6fcacb33 Extracting [==========>                                        ]  48.46MB/234.6MB
+ c2bb6fcacb33 Extracting [==========>                                        ]  48.46MB/234.6MB
+ c2bb6fcacb33 Extracting [===========>                                       ]  55.71MB/234.6MB
+ c2bb6fcacb33 Extracting [===========>                                       ]  55.71MB/234.6MB
+ c2bb6fcacb33 Extracting [=============>                                     ]  62.95MB/234.6MB
+ c2bb6fcacb33 Extracting [=============>                                     ]  62.95MB/234.6MB
+ c2bb6fcacb33 Extracting [==============>                                    ]  70.19MB/234.6MB
+ c2bb6fcacb33 Extracting [==============>                                    ]  70.19MB/234.6MB
+ c2bb6fcacb33 Extracting [================>                                  ]  77.43MB/234.6MB
+ c2bb6fcacb33 Extracting [================>                                  ]  77.43MB/234.6MB
+ c2bb6fcacb33 Extracting [==================>                                ]  84.67MB/234.6MB
+ c2bb6fcacb33 Extracting [==================>                                ]  84.67MB/234.6MB
+ c2bb6fcacb33 Extracting [===================>                               ]  91.91MB/234.6MB
+ c2bb6fcacb33 Extracting [===================>                               ]  91.91MB/234.6MB
+ c2bb6fcacb33 Extracting [=====================>                             ]  99.16MB/234.6MB
+ c2bb6fcacb33 Extracting [=====================>                             ]  99.16MB/234.6MB
+ c2bb6fcacb33 Extracting [======================>                            ]  106.4MB/234.6MB
+ c2bb6fcacb33 Extracting [======================>                            ]  106.4MB/234.6MB
+ c2bb6fcacb33 Extracting [========================>                          ]  113.6MB/234.6MB
+ c2bb6fcacb33 Extracting [========================>                          ]  113.6MB/234.6MB
+ c2bb6fcacb33 Extracting [=========================>                         ]  120.9MB/234.6MB
+ c2bb6fcacb33 Extracting [=========================>                         ]  120.9MB/234.6MB
+ c2bb6fcacb33 Extracting [===========================>                       ]  128.1MB/234.6MB
+ c2bb6fcacb33 Extracting [===========================>                       ]  128.1MB/234.6MB
+ c2bb6fcacb33 Extracting [============================>                      ]  135.4MB/234.6MB
+ c2bb6fcacb33 Extracting [============================>                      ]  135.4MB/234.6MB
+ c2bb6fcacb33 Extracting [==============================>                    ]  142.6MB/234.6MB
+ c2bb6fcacb33 Extracting [==============================>                    ]  142.6MB/234.6MB
+ c2bb6fcacb33 Extracting [===============================>                   ]  149.8MB/234.6MB
+ c2bb6fcacb33 Extracting [===============================>                   ]  149.8MB/234.6MB
+ c2bb6fcacb33 Extracting [================================>                  ]  154.3MB/234.6MB
+ c2bb6fcacb33 Extracting [================================>                  ]  154.3MB/234.6MB
+ c2bb6fcacb33 Extracting [==================================>                ]  163.8MB/234.6MB
+ c2bb6fcacb33 Extracting [==================================>                ]  163.8MB/234.6MB
+ c2bb6fcacb33 Extracting [=====================================>             ]  173.8MB/234.6MB
+ c2bb6fcacb33 Extracting [=====================================>             ]  173.8MB/234.6MB
+ c2bb6fcacb33 Extracting [======================================>            ]  179.4MB/234.6MB
+ c2bb6fcacb33 Extracting [======================================>            ]  179.4MB/234.6MB
+ c2bb6fcacb33 Extracting [========================================>          ]  188.8MB/234.6MB
+ c2bb6fcacb33 Extracting [========================================>          ]  188.8MB/234.6MB
+ c2bb6fcacb33 Extracting [========================================>          ]  191.1MB/234.6MB
+ c2bb6fcacb33 Extracting [========================================>          ]  191.1MB/234.6MB
+ c2bb6fcacb33 Extracting [=========================================>         ]  193.3MB/234.6MB
+ c2bb6fcacb33 Extracting [=========================================>         ]  193.3MB/234.6MB
+ c2bb6fcacb33 Extracting [=========================================>         ]  196.1MB/234.6MB
+ c2bb6fcacb33 Extracting [=========================================>         ]  196.1MB/234.6MB
+ c2bb6fcacb33 Extracting [==========================================>        ]  198.9MB/234.6MB
+ c2bb6fcacb33 Extracting [==========================================>        ]  198.9MB/234.6MB
+ c2bb6fcacb33 Extracting [==========================================>        ]  201.7MB/234.6MB
+ c2bb6fcacb33 Extracting [==========================================>        ]  201.7MB/234.6MB
+ c2bb6fcacb33 Extracting [===========================================>       ]  204.4MB/234.6MB
+ c2bb6fcacb33 Extracting [===========================================>       ]  204.4MB/234.6MB
+ c2bb6fcacb33 Extracting [============================================>      ]  207.2MB/234.6MB
+ c2bb6fcacb33 Extracting [============================================>      ]  207.2MB/234.6MB
+ c2bb6fcacb33 Extracting [============================================>      ]    210MB/234.6MB
+ c2bb6fcacb33 Extracting [============================================>      ]    210MB/234.6MB
+ c2bb6fcacb33 Extracting [=============================================>     ]  212.8MB/234.6MB
+ c2bb6fcacb33 Extracting [=============================================>     ]  212.8MB/234.6MB
+ c2bb6fcacb33 Extracting [=============================================>     ]  215.6MB/234.6MB
+ c2bb6fcacb33 Extracting [=============================================>     ]  215.6MB/234.6MB
+ c2bb6fcacb33 Extracting [==============================================>    ]  217.3MB/234.6MB
+ c2bb6fcacb33 Extracting [==============================================>    ]  217.3MB/234.6MB
+ c2bb6fcacb33 Extracting [==============================================>    ]  219.5MB/234.6MB
+ c2bb6fcacb33 Extracting [==============================================>    ]  219.5MB/234.6MB
+ c2bb6fcacb33 Extracting [===============================================>   ]  221.2MB/234.6MB
+ c2bb6fcacb33 Extracting [===============================================>   ]  221.2MB/234.6MB
+ c2bb6fcacb33 Extracting [===============================================>   ]  222.8MB/234.6MB
+ c2bb6fcacb33 Extracting [===============================================>   ]  222.8MB/234.6MB
+ c2bb6fcacb33 Extracting [=================================================> ]  230.1MB/234.6MB
+ c2bb6fcacb33 Extracting [=================================================> ]  230.1MB/234.6MB
+ c2bb6fcacb33 Extracting [=================================================> ]  232.8MB/234.6MB
+ c2bb6fcacb33 Extracting [=================================================> ]  232.8MB/234.6MB
+ c2bb6fcacb33 Extracting [==================================================>]  234.6MB/234.6MB
+ c2bb6fcacb33 Extracting [==================================================>]  234.6MB/234.6MB
+ c2bb6fcacb33 Pull complete 
+ c2bb6fcacb33 Pull complete 
+ ee932954728e Extracting [==>                                                ]  32.77kB/811.8kB
+ ee932954728e Extracting [==>                                                ]  32.77kB/811.8kB
+ ee932954728e Extracting [==================================================>]  811.8kB/811.8kB
+ ee932954728e Extracting [==================================================>]  811.8kB/811.8kB
+ ee932954728e Extracting [==================================================>]  811.8kB/811.8kB
+ ee932954728e Extracting [==================================================>]  811.8kB/811.8kB
+ ee932954728e Pull complete 
+ ee932954728e Pull complete 
+ certs Pulled 
+ broker Pulled 
+ Network solid-syslog-sweep_default  Creating
+ Network solid-syslog-sweep_default  Created
+ Volume "solid-syslog-sweep_oracle-output"  Creating
+ Volume "solid-syslog-sweep_oracle-output"  Created
+ Container solid-syslog-sweep-certs-1  Creating
+ Container solid-syslog-sweep-certs-1  Created
+ Container solid-syslog-sweep-syslog-ng-1  Creating
+ Container solid-syslog-sweep-syslog-ng-1  Created
+ Container solid-syslog-sweep-broker-1  Creating
+ Container solid-syslog-sweep-broker-1  Created
+ Container solid-syslog-sweep-certs-1  Starting
+ Container solid-syslog-sweep-certs-1  Started
+ Container solid-syslog-sweep-certs-1  Waiting
+ Container solid-syslog-sweep-certs-1  Exited
+ Container solid-syslog-sweep-syslog-ng-1  Starting
+ Container solid-syslog-sweep-syslog-ng-1  Started
+ Container solid-syslog-sweep-certs-1  Waiting
+ Container solid-syslog-sweep-certs-1  Exited
+ Container solid-syslog-sweep-broker-1  Starting
+ Container solid-syslog-sweep-broker-1  Started
+=== build (Baseline) ===
+cp third_party/fatfs/source/ff.h build/fatfs/ff.h
+cp third_party/fatfs/source/diskio.h build/fatfs/diskio.h
+cp app/config/ffconf.h build/fatfs/ffconf.h
+cp third_party/fatfs/source/ff.c build/fatfs/ff.c
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wall -Wextra -Iapp -Iapp/config -Iapp/sim -Iapp/tasks -Iapp/measure -Iapp/net -Iapp/net/smsc9220 -Iapp/platform -Iapp/storage -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -Ithird_party/mbedtls/include -DMBEDTLS_USER_CONFIG_FILE=\"/w/app/config/mbedtls_user_config.h\" -MMD -MP -c app/main.c -o build/obj/app/main.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wall -Wextra -Iapp -Iapp/config -Iapp/sim -Iapp/tasks -Iapp/measure -Iapp/net -Iapp/net/smsc9220 -Iapp/platform -Iapp/storage -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -Ithird_party/mbedtls/include -DMBEDTLS_USER_CONFIG_FILE=\"/w/app/config/mbedtls_user_config.h\" -MMD -MP -c app/sim/SimulatedExistingApp.c -o build/obj/app/sim/SimulatedExistingApp.o
+make[1]: Entering directory '/w/third_party/mbedtls/library'
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wall -Wextra -Iapp -Iapp/config -Iapp/sim -Iapp/tasks -Iapp/measure -Iapp/net -Iapp/net/smsc9220 -Iapp/platform -Iapp/storage -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -Ithird_party/mbedtls/include -DMBEDTLS_USER_CONFIG_FILE=\"/w/app/config/mbedtls_user_config.h\" -MMD -MP -c app/sim/SimulatedBrokerSession.c -o build/obj/app/sim/SimulatedBrokerSession.o
+make[1]: Leaving directory '/w/third_party/mbedtls/library'
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wall -Wextra -Iapp -Iapp/config -Iapp/sim -Iapp/tasks -Iapp/measure -Iapp/net -Iapp/net/smsc9220 -Iapp/platform -Iapp/storage -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -Ithird_party/mbedtls/include -DMBEDTLS_USER_CONFIG_FILE=\"/w/app/config/mbedtls_user_config.h\" -MMD -MP -c app/sim/SimulatedCollector.c -o build/obj/app/sim/SimulatedCollector.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wall -Wextra -Iapp -Iapp/config -Iapp/sim -Iapp/tasks -Iapp/measure -Iapp/net -Iapp/net/smsc9220 -Iapp/platform -Iapp/storage -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -Ithird_party/mbedtls/include -DMBEDTLS_USER_CONFIG_FILE=\"/w/app/config/mbedtls_user_config.h\" -MMD -MP -c app/tasks/LogTask.c -o build/obj/app/tasks/LogTask.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wall -Wextra -Iapp -Iapp/config -Iapp/sim -Iapp/tasks -Iapp/measure -Iapp/net -Iapp/net/smsc9220 -Iapp/platform -Iapp/storage -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -Ithird_party/mbedtls/include -DMBEDTLS_USER_CONFIG_FILE=\"/w/app/config/mbedtls_user_config.h\" -MMD -MP -c app/tasks/ServiceTask.c -o build/obj/app/tasks/ServiceTask.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wall -Wextra -Iapp -Iapp/config -Iapp/sim -Iapp/tasks -Iapp/measure -Iapp/net -Iapp/net/smsc9220 -Iapp/platform -Iapp/storage -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -Ithird_party/mbedtls/include -DMBEDTLS_USER_CONFIG_FILE=\"/w/app/config/mbedtls_user_config.h\" -MMD -MP -c app/measure/Measure.c -o build/obj/app/measure/Measure.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wall -Wextra -Iapp -Iapp/config -Iapp/sim -Iapp/tasks -Iapp/measure -Iapp/net -Iapp/net/smsc9220 -Iapp/platform -Iapp/storage -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -Ithird_party/mbedtls/include -DMBEDTLS_USER_CONFIG_FILE=\"/w/app/config/mbedtls_user_config.h\" -MMD -MP -c app/measure/Baseline.c -o build/obj/app/measure/Baseline.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wall -Wextra -Iapp -Iapp/config -Iapp/sim -Iapp/tasks -Iapp/measure -Iapp/net -Iapp/net/smsc9220 -Iapp/platform -Iapp/storage -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -Ithird_party/mbedtls/include -DMBEDTLS_USER_CONFIG_FILE=\"/w/app/config/mbedtls_user_config.h\" -MMD -MP -c app/platform/Startup.c -o build/obj/app/platform/Startup.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wall -Wextra -Iapp -Iapp/config -Iapp/sim -Iapp/tasks -Iapp/measure -Iapp/net -Iapp/net/smsc9220 -Iapp/platform -Iapp/storage -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -Ithird_party/mbedtls/include -DMBEDTLS_USER_CONFIG_FILE=\"/w/app/config/mbedtls_user_config.h\" -MMD -MP -c app/platform/CmsdkUart.c -o build/obj/app/platform/CmsdkUart.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wall -Wextra -Iapp -Iapp/config -Iapp/sim -Iapp/tasks -Iapp/measure -Iapp/net -Iapp/net/smsc9220 -Iapp/platform -Iapp/storage -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -Ithird_party/mbedtls/include -DMBEDTLS_USER_CONFIG_FILE=\"/w/app/config/mbedtls_user_config.h\" -MMD -MP -c app/platform/DeviceClock.c -o build/obj/app/platform/DeviceClock.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wall -Wextra -Iapp -Iapp/config -Iapp/sim -Iapp/tasks -Iapp/measure -Iapp/net -Iapp/net/smsc9220 -Iapp/platform -Iapp/storage -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -Ithird_party/mbedtls/include -DMBEDTLS_USER_CONFIG_FILE=\"/w/app/config/mbedtls_user_config.h\" -MMD -MP -c app/platform/DeviceCertStore.c -o build/obj/app/platform/DeviceCertStore.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wall -Wextra -Iapp -Iapp/config -Iapp/sim -Iapp/tasks -Iapp/measure -Iapp/net -Iapp/net/smsc9220 -Iapp/platform -Iapp/storage -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -Ithird_party/mbedtls/include -DMBEDTLS_USER_CONFIG_FILE=\"/w/app/config/mbedtls_user_config.h\" -MMD -MP -c app/platform/Syscalls.c -o build/obj/app/platform/Syscalls.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wall -Wextra -Iapp -Iapp/config -Iapp/sim -Iapp/tasks -Iapp/measure -Iapp/net -Iapp/net/smsc9220 -Iapp/platform -Iapp/storage -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -Ithird_party/mbedtls/include -DMBEDTLS_USER_CONFIG_FILE=\"/w/app/config/mbedtls_user_config.h\" -MMD -MP -c app/platform/SemihostingExit.c -o build/obj/app/platform/SemihostingExit.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wall -Wextra -Iapp -Iapp/config -Iapp/sim -Iapp/tasks -Iapp/measure -Iapp/net -Iapp/net/smsc9220 -Iapp/platform -Iapp/storage -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -Ithird_party/mbedtls/include -DMBEDTLS_USER_CONFIG_FILE=\"/w/app/config/mbedtls_user_config.h\" -MMD -MP -c app/platform/SemihostingIo.c -o build/obj/app/platform/SemihostingIo.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wall -Wextra -Iapp -Iapp/config -Iapp/sim -Iapp/tasks -Iapp/measure -Iapp/net -Iapp/net/smsc9220 -Iapp/platform -Iapp/storage -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -Ithird_party/mbedtls/include -DMBEDTLS_USER_CONFIG_FILE=\"/w/app/config/mbedtls_user_config.h\" -MMD -MP -c app/net/EthernetIf.c -o build/obj/app/net/EthernetIf.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wall -Wextra -Iapp -Iapp/config -Iapp/sim -Iapp/tasks -Iapp/measure -Iapp/net -Iapp/net/smsc9220 -Iapp/platform -Iapp/storage -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -Ithird_party/mbedtls/include -DMBEDTLS_USER_CONFIG_FILE=\"/w/app/config/mbedtls_user_config.h\" -MMD -MP -c app/storage/diskio.c -o build/obj/app/storage/diskio.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wall -Wextra -Iapp -Iapp/config -Iapp/sim -Iapp/tasks -Iapp/measure -Iapp/net -Iapp/net/smsc9220 -Iapp/platform -Iapp/storage -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -Ithird_party/mbedtls/include -DMBEDTLS_USER_CONFIG_FILE=\"/w/app/config/mbedtls_user_config.h\" -MMD -MP -c app/storage/SemihostingDisk.c -o build/obj/app/storage/SemihostingDisk.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wno-unused-parameter -Wno-unused-but-set-variable -Wno-implicit-fallthrough -Wno-array-bounds -Wno-conversion -Wno-sign-conversion -Wno-shadow -Wno-pedantic -Iapp/config -Iapp/net/smsc9220 -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -MMD -MP -c third_party/FreeRTOS-Kernel/tasks.c -o build/obj/third_party/FreeRTOS-Kernel/tasks.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wno-unused-parameter -Wno-unused-but-set-variable -Wno-implicit-fallthrough -Wno-array-bounds -Wno-conversion -Wno-sign-conversion -Wno-shadow -Wno-pedantic -Iapp/config -Iapp/net/smsc9220 -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -MMD -MP -c third_party/FreeRTOS-Kernel/queue.c -o build/obj/third_party/FreeRTOS-Kernel/queue.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wno-unused-parameter -Wno-unused-but-set-variable -Wno-implicit-fallthrough -Wno-array-bounds -Wno-conversion -Wno-sign-conversion -Wno-shadow -Wno-pedantic -Iapp/config -Iapp/net/smsc9220 -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -MMD -MP -c third_party/FreeRTOS-Kernel/list.c -o build/obj/third_party/FreeRTOS-Kernel/list.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wno-unused-parameter -Wno-unused-but-set-variable -Wno-implicit-fallthrough -Wno-array-bounds -Wno-conversion -Wno-sign-conversion -Wno-shadow -Wno-pedantic -Iapp/config -Iapp/net/smsc9220 -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -MMD -MP -c third_party/FreeRTOS-Kernel/timers.c -o build/obj/third_party/FreeRTOS-Kernel/timers.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wno-unused-parameter -Wno-unused-but-set-variable -Wno-implicit-fallthrough -Wno-array-bounds -Wno-conversion -Wno-sign-conversion -Wno-shadow -Wno-pedantic -Iapp/config -Iapp/net/smsc9220 -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -MMD -MP -c third_party/FreeRTOS-Kernel/event_groups.c -o build/obj/third_party/FreeRTOS-Kernel/event_groups.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wno-unused-parameter -Wno-unused-but-set-variable -Wno-implicit-fallthrough -Wno-array-bounds -Wno-conversion -Wno-sign-conversion -Wno-shadow -Wno-pedantic -Iapp/config -Iapp/net/smsc9220 -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -MMD -MP -c third_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3/port.c -o build/obj/third_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3/port.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wno-unused-parameter -Wno-unused-but-set-variable -Wno-implicit-fallthrough -Wno-array-bounds -Wno-conversion -Wno-sign-conversion -Wno-shadow -Wno-pedantic -Iapp/config -Iapp/net/smsc9220 -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -MMD -MP -c third_party/FreeRTOS-Kernel/portable/MemMang/heap_1.c -o build/obj/third_party/FreeRTOS-Kernel/portable/MemMang/heap_1.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wno-unused-parameter -Wno-unused-but-set-variable -Wno-implicit-fallthrough -Wno-array-bounds -Wno-conversion -Wno-sign-conversion -Wno-shadow -Wno-pedantic -Iapp/config -Iapp/net/smsc9220 -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -MMD -MP -c third_party/lwip/src/core/init.c -o build/obj/third_party/lwip/src/core/init.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wno-unused-parameter -Wno-unused-but-set-variable -Wno-implicit-fallthrough -Wno-array-bounds -Wno-conversion -Wno-sign-conversion -Wno-shadow -Wno-pedantic -Iapp/config -Iapp/net/smsc9220 -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -MMD -MP -c third_party/lwip/src/core/def.c -o build/obj/third_party/lwip/src/core/def.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wno-unused-parameter -Wno-unused-but-set-variable -Wno-implicit-fallthrough -Wno-array-bounds -Wno-conversion -Wno-sign-conversion -Wno-shadow -Wno-pedantic -Iapp/config -Iapp/net/smsc9220 -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -MMD -MP -c third_party/lwip/src/core/dns.c -o build/obj/third_party/lwip/src/core/dns.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wno-unused-parameter -Wno-unused-but-set-variable -Wno-implicit-fallthrough -Wno-array-bounds -Wno-conversion -Wno-sign-conversion -Wno-shadow -Wno-pedantic -Iapp/config -Iapp/net/smsc9220 -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -MMD -MP -c third_party/lwip/src/core/inet_chksum.c -o build/obj/third_party/lwip/src/core/inet_chksum.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wno-unused-parameter -Wno-unused-but-set-variable -Wno-implicit-fallthrough -Wno-array-bounds -Wno-conversion -Wno-sign-conversion -Wno-shadow -Wno-pedantic -Iapp/config -Iapp/net/smsc9220 -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -MMD -MP -c third_party/lwip/src/core/ip.c -o build/obj/third_party/lwip/src/core/ip.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wno-unused-parameter -Wno-unused-but-set-variable -Wno-implicit-fallthrough -Wno-array-bounds -Wno-conversion -Wno-sign-conversion -Wno-shadow -Wno-pedantic -Iapp/config -Iapp/net/smsc9220 -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -MMD -MP -c third_party/lwip/src/core/mem.c -o build/obj/third_party/lwip/src/core/mem.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wno-unused-parameter -Wno-unused-but-set-variable -Wno-implicit-fallthrough -Wno-array-bounds -Wno-conversion -Wno-sign-conversion -Wno-shadow -Wno-pedantic -Iapp/config -Iapp/net/smsc9220 -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -MMD -MP -c third_party/lwip/src/core/memp.c -o build/obj/third_party/lwip/src/core/memp.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wno-unused-parameter -Wno-unused-but-set-variable -Wno-implicit-fallthrough -Wno-array-bounds -Wno-conversion -Wno-sign-conversion -Wno-shadow -Wno-pedantic -Iapp/config -Iapp/net/smsc9220 -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -MMD -MP -c third_party/lwip/src/core/netif.c -o build/obj/third_party/lwip/src/core/netif.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wno-unused-parameter -Wno-unused-but-set-variable -Wno-implicit-fallthrough -Wno-array-bounds -Wno-conversion -Wno-sign-conversion -Wno-shadow -Wno-pedantic -Iapp/config -Iapp/net/smsc9220 -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -MMD -MP -c third_party/lwip/src/core/pbuf.c -o build/obj/third_party/lwip/src/core/pbuf.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wno-unused-parameter -Wno-unused-but-set-variable -Wno-implicit-fallthrough -Wno-array-bounds -Wno-conversion -Wno-sign-conversion -Wno-shadow -Wno-pedantic -Iapp/config -Iapp/net/smsc9220 -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -MMD -MP -c third_party/lwip/src/core/raw.c -o build/obj/third_party/lwip/src/core/raw.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wno-unused-parameter -Wno-unused-but-set-variable -Wno-implicit-fallthrough -Wno-array-bounds -Wno-conversion -Wno-sign-conversion -Wno-shadow -Wno-pedantic -Iapp/config -Iapp/net/smsc9220 -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -MMD -MP -c third_party/lwip/src/core/stats.c -o build/obj/third_party/lwip/src/core/stats.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wno-unused-parameter -Wno-unused-but-set-variable -Wno-implicit-fallthrough -Wno-array-bounds -Wno-conversion -Wno-sign-conversion -Wno-shadow -Wno-pedantic -Iapp/config -Iapp/net/smsc9220 -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -MMD -MP -c third_party/lwip/src/core/sys.c -o build/obj/third_party/lwip/src/core/sys.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wno-unused-parameter -Wno-unused-but-set-variable -Wno-implicit-fallthrough -Wno-array-bounds -Wno-conversion -Wno-sign-conversion -Wno-shadow -Wno-pedantic -Iapp/config -Iapp/net/smsc9220 -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -MMD -MP -c third_party/lwip/src/core/altcp.c -o build/obj/third_party/lwip/src/core/altcp.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wno-unused-parameter -Wno-unused-but-set-variable -Wno-implicit-fallthrough -Wno-array-bounds -Wno-conversion -Wno-sign-conversion -Wno-shadow -Wno-pedantic -Iapp/config -Iapp/net/smsc9220 -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -MMD -MP -c third_party/lwip/src/core/altcp_alloc.c -o build/obj/third_party/lwip/src/core/altcp_alloc.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wno-unused-parameter -Wno-unused-but-set-variable -Wno-implicit-fallthrough -Wno-array-bounds -Wno-conversion -Wno-sign-conversion -Wno-shadow -Wno-pedantic -Iapp/config -Iapp/net/smsc9220 -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -MMD -MP -c third_party/lwip/src/core/altcp_tcp.c -o build/obj/third_party/lwip/src/core/altcp_tcp.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wno-unused-parameter -Wno-unused-but-set-variable -Wno-implicit-fallthrough -Wno-array-bounds -Wno-conversion -Wno-sign-conversion -Wno-shadow -Wno-pedantic -Iapp/config -Iapp/net/smsc9220 -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -MMD -MP -c third_party/lwip/src/core/tcp.c -o build/obj/third_party/lwip/src/core/tcp.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wno-unused-parameter -Wno-unused-but-set-variable -Wno-implicit-fallthrough -Wno-array-bounds -Wno-conversion -Wno-sign-conversion -Wno-shadow -Wno-pedantic -Iapp/config -Iapp/net/smsc9220 -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -MMD -MP -c third_party/lwip/src/core/tcp_in.c -o build/obj/third_party/lwip/src/core/tcp_in.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wno-unused-parameter -Wno-unused-but-set-variable -Wno-implicit-fallthrough -Wno-array-bounds -Wno-conversion -Wno-sign-conversion -Wno-shadow -Wno-pedantic -Iapp/config -Iapp/net/smsc9220 -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -MMD -MP -c third_party/lwip/src/core/tcp_out.c -o build/obj/third_party/lwip/src/core/tcp_out.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wno-unused-parameter -Wno-unused-but-set-variable -Wno-implicit-fallthrough -Wno-array-bounds -Wno-conversion -Wno-sign-conversion -Wno-shadow -Wno-pedantic -Iapp/config -Iapp/net/smsc9220 -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -MMD -MP -c third_party/lwip/src/core/timeouts.c -o build/obj/third_party/lwip/src/core/timeouts.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wno-unused-parameter -Wno-unused-but-set-variable -Wno-implicit-fallthrough -Wno-array-bounds -Wno-conversion -Wno-sign-conversion -Wno-shadow -Wno-pedantic -Iapp/config -Iapp/net/smsc9220 -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -MMD -MP -c third_party/lwip/src/core/udp.c -o build/obj/third_party/lwip/src/core/udp.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wno-unused-parameter -Wno-unused-but-set-variable -Wno-implicit-fallthrough -Wno-array-bounds -Wno-conversion -Wno-sign-conversion -Wno-shadow -Wno-pedantic -Iapp/config -Iapp/net/smsc9220 -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -MMD -MP -c third_party/lwip/src/core/ipv4/acd.c -o build/obj/third_party/lwip/src/core/ipv4/acd.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wno-unused-parameter -Wno-unused-but-set-variable -Wno-implicit-fallthrough -Wno-array-bounds -Wno-conversion -Wno-sign-conversion -Wno-shadow -Wno-pedantic -Iapp/config -Iapp/net/smsc9220 -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -MMD -MP -c third_party/lwip/src/core/ipv4/autoip.c -o build/obj/third_party/lwip/src/core/ipv4/autoip.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wno-unused-parameter -Wno-unused-but-set-variable -Wno-implicit-fallthrough -Wno-array-bounds -Wno-conversion -Wno-sign-conversion -Wno-shadow -Wno-pedantic -Iapp/config -Iapp/net/smsc9220 -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -MMD -MP -c third_party/lwip/src/core/ipv4/dhcp.c -o build/obj/third_party/lwip/src/core/ipv4/dhcp.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wno-unused-parameter -Wno-unused-but-set-variable -Wno-implicit-fallthrough -Wno-array-bounds -Wno-conversion -Wno-sign-conversion -Wno-shadow -Wno-pedantic -Iapp/config -Iapp/net/smsc9220 -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -MMD -MP -c third_party/lwip/src/core/ipv4/etharp.c -o build/obj/third_party/lwip/src/core/ipv4/etharp.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wno-unused-parameter -Wno-unused-but-set-variable -Wno-implicit-fallthrough -Wno-array-bounds -Wno-conversion -Wno-sign-conversion -Wno-shadow -Wno-pedantic -Iapp/config -Iapp/net/smsc9220 -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -MMD -MP -c third_party/lwip/src/core/ipv4/icmp.c -o build/obj/third_party/lwip/src/core/ipv4/icmp.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wno-unused-parameter -Wno-unused-but-set-variable -Wno-implicit-fallthrough -Wno-array-bounds -Wno-conversion -Wno-sign-conversion -Wno-shadow -Wno-pedantic -Iapp/config -Iapp/net/smsc9220 -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -MMD -MP -c third_party/lwip/src/core/ipv4/igmp.c -o build/obj/third_party/lwip/src/core/ipv4/igmp.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wno-unused-parameter -Wno-unused-but-set-variable -Wno-implicit-fallthrough -Wno-array-bounds -Wno-conversion -Wno-sign-conversion -Wno-shadow -Wno-pedantic -Iapp/config -Iapp/net/smsc9220 -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -MMD -MP -c third_party/lwip/src/core/ipv4/ip4_frag.c -o build/obj/third_party/lwip/src/core/ipv4/ip4_frag.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wno-unused-parameter -Wno-unused-but-set-variable -Wno-implicit-fallthrough -Wno-array-bounds -Wno-conversion -Wno-sign-conversion -Wno-shadow -Wno-pedantic -Iapp/config -Iapp/net/smsc9220 -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -MMD -MP -c third_party/lwip/src/core/ipv4/ip4.c -o build/obj/third_party/lwip/src/core/ipv4/ip4.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wno-unused-parameter -Wno-unused-but-set-variable -Wno-implicit-fallthrough -Wno-array-bounds -Wno-conversion -Wno-sign-conversion -Wno-shadow -Wno-pedantic -Iapp/config -Iapp/net/smsc9220 -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -MMD -MP -c third_party/lwip/src/core/ipv4/ip4_addr.c -o build/obj/third_party/lwip/src/core/ipv4/ip4_addr.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wno-unused-parameter -Wno-unused-but-set-variable -Wno-implicit-fallthrough -Wno-array-bounds -Wno-conversion -Wno-sign-conversion -Wno-shadow -Wno-pedantic -Iapp/config -Iapp/net/smsc9220 -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -MMD -MP -c third_party/lwip/src/api/api_lib.c -o build/obj/third_party/lwip/src/api/api_lib.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wno-unused-parameter -Wno-unused-but-set-variable -Wno-implicit-fallthrough -Wno-array-bounds -Wno-conversion -Wno-sign-conversion -Wno-shadow -Wno-pedantic -Iapp/config -Iapp/net/smsc9220 -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -MMD -MP -c third_party/lwip/src/api/api_msg.c -o build/obj/third_party/lwip/src/api/api_msg.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wno-unused-parameter -Wno-unused-but-set-variable -Wno-implicit-fallthrough -Wno-array-bounds -Wno-conversion -Wno-sign-conversion -Wno-shadow -Wno-pedantic -Iapp/config -Iapp/net/smsc9220 -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -MMD -MP -c third_party/lwip/src/api/err.c -o build/obj/third_party/lwip/src/api/err.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wno-unused-parameter -Wno-unused-but-set-variable -Wno-implicit-fallthrough -Wno-array-bounds -Wno-conversion -Wno-sign-conversion -Wno-shadow -Wno-pedantic -Iapp/config -Iapp/net/smsc9220 -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -MMD -MP -c third_party/lwip/src/api/if_api.c -o build/obj/third_party/lwip/src/api/if_api.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wno-unused-parameter -Wno-unused-but-set-variable -Wno-implicit-fallthrough -Wno-array-bounds -Wno-conversion -Wno-sign-conversion -Wno-shadow -Wno-pedantic -Iapp/config -Iapp/net/smsc9220 -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -MMD -MP -c third_party/lwip/src/api/netbuf.c -o build/obj/third_party/lwip/src/api/netbuf.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wno-unused-parameter -Wno-unused-but-set-variable -Wno-implicit-fallthrough -Wno-array-bounds -Wno-conversion -Wno-sign-conversion -Wno-shadow -Wno-pedantic -Iapp/config -Iapp/net/smsc9220 -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -MMD -MP -c third_party/lwip/src/api/netdb.c -o build/obj/third_party/lwip/src/api/netdb.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wno-unused-parameter -Wno-unused-but-set-variable -Wno-implicit-fallthrough -Wno-array-bounds -Wno-conversion -Wno-sign-conversion -Wno-shadow -Wno-pedantic -Iapp/config -Iapp/net/smsc9220 -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -MMD -MP -c third_party/lwip/src/api/netifapi.c -o build/obj/third_party/lwip/src/api/netifapi.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wno-unused-parameter -Wno-unused-but-set-variable -Wno-implicit-fallthrough -Wno-array-bounds -Wno-conversion -Wno-sign-conversion -Wno-shadow -Wno-pedantic -Iapp/config -Iapp/net/smsc9220 -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -MMD -MP -c third_party/lwip/src/api/sockets.c -o build/obj/third_party/lwip/src/api/sockets.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wno-unused-parameter -Wno-unused-but-set-variable -Wno-implicit-fallthrough -Wno-array-bounds -Wno-conversion -Wno-sign-conversion -Wno-shadow -Wno-pedantic -Iapp/config -Iapp/net/smsc9220 -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -MMD -MP -c third_party/lwip/src/api/tcpip.c -o build/obj/third_party/lwip/src/api/tcpip.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wno-unused-parameter -Wno-unused-but-set-variable -Wno-implicit-fallthrough -Wno-array-bounds -Wno-conversion -Wno-sign-conversion -Wno-shadow -Wno-pedantic -Iapp/config -Iapp/net/smsc9220 -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -MMD -MP -c third_party/lwip/src/netif/ethernet.c -o build/obj/third_party/lwip/src/netif/ethernet.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wno-unused-parameter -Wno-unused-but-set-variable -Wno-implicit-fallthrough -Wno-array-bounds -Wno-conversion -Wno-sign-conversion -Wno-shadow -Wno-pedantic -Iapp/config -Iapp/net/smsc9220 -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -MMD -MP -c third_party/lwip/contrib/ports/freertos/sys_arch.c -o build/obj/third_party/lwip/contrib/ports/freertos/sys_arch.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wno-unused-parameter -Wno-unused-but-set-variable -Wno-implicit-fallthrough -Wno-array-bounds -Wno-conversion -Wno-sign-conversion -Wno-shadow -Wno-pedantic -Iapp/config -Iapp/net/smsc9220 -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -MMD -MP -c app/net/smsc9220/smsc9220_eth_drv.c -o build/obj/app/net/smsc9220/smsc9220_eth_drv.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wno-unused-parameter -Wno-unused-but-set-variable -Wno-implicit-fallthrough -Wno-array-bounds -Wno-conversion -Wno-sign-conversion -Wno-shadow -Wno-pedantic -Iapp/config -Iapp/net/smsc9220 -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -MMD -MP -c app/storage/ffsystem.c -o build/obj/app/storage/ffsystem.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wno-unused-parameter -Wno-unused-but-set-variable -Wno-implicit-fallthrough -Wno-array-bounds -Wno-conversion -Wno-sign-conversion -Wno-shadow -Wno-pedantic -Iapp/config -Iapp/net/smsc9220 -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -MMD -MP -c build/fatfs/ff.c -o build/obj/fatfs/ff.o
+make -C third_party/mbedtls/library libmbedtls.a libmbedx509.a libmbedcrypto.a CC=arm-none-eabi-gcc AR=arm-none-eabi-ar \
+	CFLAGS='-mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -std=c99 -DMBEDTLS_USER_CONFIG_FILE=\"/w/app/config/mbedtls_user_config.h\"' WARNING_CFLAGS=-w
+make[1]: Entering directory '/w/third_party/mbedtls/library'
+  CC    debug.c
+  CC    mps_reader.c
+  CC    mps_trace.c
+  CC    net_sockets.c
+  CC    ssl_cache.c
+  CC    ssl_ciphersuites.c
+  CC    ssl_client.c
+  CC    ssl_cookie.c
+  CC    ssl_debug_helpers_generated.c
+  CC    ssl_msg.c
+  CC    ssl_ticket.c
+  CC    ssl_tls.c
+  CC    ssl_tls12_client.c
+  CC    ssl_tls12_server.c
+  CC    ssl_tls13_keys.c
+  CC    ssl_tls13_client.c
+  CC    ssl_tls13_server.c
+  CC    ssl_tls13_generic.c
+  CC    x509.c
+  CC    x509_create.c
+  CC    x509_crl.c
+  CC    x509_crt.c
+  CC    x509_csr.c
+  CC    x509write.c
+  CC    x509write_crt.c
+  CC    x509write_csr.c
+  CC    pkcs7.c
+  CC    aes.c
+  CC    aesni.c
+  CC    aesce.c
+  CC    aria.c
+  CC    asn1parse.c
+  CC    asn1write.c
+  CC    base64.c
+  CC    bignum.c
+  CC    bignum_core.c
+  CC    bignum_mod.c
+  CC    bignum_mod_raw.c
+  CC    block_cipher.c
+  CC    camellia.c
+  CC    ccm.c
+  CC    chacha20.c
+  CC    chachapoly.c
+  CC    cipher.c
+  CC    cipher_wrap.c
+  CC    cmac.c
+  CC    constant_time.c
+  CC    ctr_drbg.c
+  CC    des.c
+  CC    dhm.c
+  CC    ecdh.c
+  CC    ecdsa.c
+  CC    ecjpake.c
+  CC    ecp.c
+  CC    ecp_curves.c
+  CC    ecp_curves_new.c
+  CC    entropy.c
+  CC    entropy_poll.c
+  CC    error.c
+  CC    gcm.c
+  CC    hkdf.c
+  CC    hmac_drbg.c
+  CC    lmots.c
+  CC    lms.c
+  CC    md.c
+  CC    md5.c
+  CC    memory_buffer_alloc.c
+  CC    nist_kw.c
+  CC    oid.c
+  CC    padlock.c
+  CC    pem.c
+  CC    pk.c
+  CC    pk_ecc.c
+  CC    pk_wrap.c
+  CC    pkcs12.c
+  CC    pkcs5.c
+  CC    pkparse.c
+  CC    pkwrite.c
+  CC    platform.c
+  CC    platform_util.c
+  CC    poly1305.c
+  CC    psa_crypto.c
+  CC    psa_crypto_aead.c
+  CC    psa_crypto_cipher.c
+  CC    psa_crypto_client.c
+  CC    psa_crypto_driver_wrappers_no_static.c
+  CC    psa_crypto_ecp.c
+  CC    psa_crypto_ffdh.c
+  CC    psa_crypto_hash.c
+  CC    psa_crypto_mac.c
+  CC    psa_crypto_pake.c
+  CC    psa_crypto_rsa.c
+  CC    psa_crypto_se.c
+  CC    psa_crypto_slot_management.c
+  CC    psa_crypto_storage.c
+  CC    psa_its_file.c
+  CC    psa_util.c
+  CC    ripemd160.c
+  CC    rsa.c
+  CC    rsa_alt_helpers.c
+  CC    sha1.c
+  CC    sha256.c
+  CC    sha512.c
+  CC    sha3.c
+  CC    threading.c
+  CC    timing.c
+  CC    version.c
+  CC    version_features.c
+  CC    ../3rdparty//everest/library/everest.c
+  CC    ../3rdparty//everest/library/x25519.c
+  CC    ../3rdparty//everest/library/Hacl_Curve25519_joined.c
+  CC    ../3rdparty//p256-m//p256-m_driver_entrypoints.c
+  CC    ../3rdparty//p256-m//p256-m/p256-m.c
+  AR    libmbedtls.a
+  AR    libmbedx509.a
+  AR    libmbedcrypto.a
+make[1]: Leaving directory '/w/third_party/mbedtls/library'
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -Tapp/platform/mps2-an385.ld --specs=nano.specs --specs=nosys.specs -Wl,--gc-sections -Wl,-Map=build/baseline.elf.map build/obj/app/main.o build/obj/app/sim/SimulatedExistingApp.o build/obj/app/sim/SimulatedBrokerSession.o build/obj/app/sim/SimulatedCollector.o build/obj/app/tasks/LogTask.o build/obj/app/tasks/ServiceTask.o build/obj/app/measure/Measure.o build/obj/app/measure/Baseline.o build/obj/app/platform/Startup.o build/obj/app/platform/CmsdkUart.o build/obj/app/platform/DeviceClock.o build/obj/app/platform/DeviceCertStore.o build/obj/app/platform/Syscalls.o build/obj/app/platform/SemihostingExit.o build/obj/app/platform/SemihostingIo.o build/obj/app/net/EthernetIf.o build/obj/app/storage/diskio.o build/obj/app/storage/SemihostingDisk.o build/obj/third_party/FreeRTOS-Kernel/tasks.o build/obj/third_party/FreeRTOS-Kernel/queue.o build/obj/third_party/FreeRTOS-Kernel/list.o build/obj/third_party/FreeRTOS-Kernel/timers.o build/obj/third_party/FreeRTOS-Kernel/event_groups.o build/obj/third_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3/port.o build/obj/third_party/FreeRTOS-Kernel/portable/MemMang/heap_1.o build/obj/third_party/lwip/src/core/init.o build/obj/third_party/lwip/src/core/def.o build/obj/third_party/lwip/src/core/dns.o build/obj/third_party/lwip/src/core/inet_chksum.o build/obj/third_party/lwip/src/core/ip.o build/obj/third_party/lwip/src/core/mem.o build/obj/third_party/lwip/src/core/memp.o build/obj/third_party/lwip/src/core/netif.o build/obj/third_party/lwip/src/core/pbuf.o build/obj/third_party/lwip/src/core/raw.o build/obj/third_party/lwip/src/core/stats.o build/obj/third_party/lwip/src/core/sys.o build/obj/third_party/lwip/src/core/altcp.o build/obj/third_party/lwip/src/core/altcp_alloc.o build/obj/third_party/lwip/src/core/altcp_tcp.o build/obj/third_party/lwip/src/core/tcp.o build/obj/third_party/lwip/src/core/tcp_in.o build/obj/third_party/lwip/src/core/tcp_out.o build/obj/third_party/lwip/src/core/timeouts.o build/obj/third_party/lwip/src/core/udp.o build/obj/third_party/lwip/src/core/ipv4/acd.o build/obj/third_party/lwip/src/core/ipv4/autoip.o build/obj/third_party/lwip/src/core/ipv4/dhcp.o build/obj/third_party/lwip/src/core/ipv4/etharp.o build/obj/third_party/lwip/src/core/ipv4/icmp.o build/obj/third_party/lwip/src/core/ipv4/igmp.o build/obj/third_party/lwip/src/core/ipv4/ip4_frag.o build/obj/third_party/lwip/src/core/ipv4/ip4.o build/obj/third_party/lwip/src/core/ipv4/ip4_addr.o build/obj/third_party/lwip/src/api/api_lib.o build/obj/third_party/lwip/src/api/api_msg.o build/obj/third_party/lwip/src/api/err.o build/obj/third_party/lwip/src/api/if_api.o build/obj/third_party/lwip/src/api/netbuf.o build/obj/third_party/lwip/src/api/netdb.o build/obj/third_party/lwip/src/api/netifapi.o build/obj/third_party/lwip/src/api/sockets.o build/obj/third_party/lwip/src/api/tcpip.o build/obj/third_party/lwip/src/netif/ethernet.o build/obj/third_party/lwip/contrib/ports/freertos/sys_arch.o build/obj/app/net/smsc9220/smsc9220_eth_drv.o build/obj/app/storage/ffsystem.o build/obj/fatfs/ff.o third_party/mbedtls/library/libmbedtls.a third_party/mbedtls/library/libmbedx509.a third_party/mbedtls/library/libmbedcrypto.a -o build/baseline.elf
+=== prove the listeners ===
+  OK    udp    5514
+  OK    tcp    5601
+  OK    tls    6514
+  OK    mtls   6515
+  OK    mtls   6515 — refused a client with no certificate
+  OK    broker 8883
+  OK    broker 8883 — refused a client with no certificate
+=== run under QEMU (oracle up; the app reaches it via slirp) ===
+# solid-syslog-example — run (Baseline)
+
+## Device (self-measured)
+
+```text
+[device] solid-syslog-example (FreeRTOS + lwIP + mbedTLS + FatFs)
+[device] starting simulated existing application...
+[sim] broker session to 10.0.2.2:8883: TLSv1.3, TLS1-3-CHACHA20-POLY1305-SHA256
+[device]   sim app (lwIP up, FatFs mounted, broker session held over mTLS): ready
+[report] --- SolidSyslog cost above baseline (simulated existing application) ---
+[report] key,current,baseline,used_above_baseline
+[report] flash_text,352620,352620,0
+[report] flash_data,320,320,0
+[report] static_bss,111136,111136,0
+[report] heap_used,4440,4440,0
+[report] mbedtls_peak,21320,21360,-40
+[report] mbedtls_free,11448,11408,40
+[report] lwip_mem_free,7576,7576,0
+[report] lwip_pbufs_free,13,13,0
+[report] stack_log,116,116,0
+[report] stack_service,56,56,0
+[report] stack_harness,2840,2840,0
+[report] --- end ---
+[device]   records logged: 0
+[device] ready
+```
+
+### Size cross-check
+
+```text
+   text	   data	    bss	    dec	    hex	filename
+ 352612	    328	 111136	 464076	  714cc	/w/build/baseline.elf
+```
+
+## Listeners (proved before the device ran)
+
+```text
+  OK    udp    5514
+  OK    tcp    5601
+  OK    tls    6514
+  OK    mtls   6515
+  OK    mtls   6515 — refused a client with no certificate
+  OK    broker 8883
+  OK    broker 8883 — refused a client with no certificate
+```
+
+## Collector (syslog-ng) received
+
+```text
+(nothing — this device sends no records yet)
+```
+
+**RESULT: PASS**
