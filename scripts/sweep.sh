@@ -59,7 +59,9 @@ fi
 
 # ---- one PKI for every stage -------------------------------------------------
 WORK="$(mktemp -d)"
-compose() { docker compose -p solid-syslog-sweep -f "$(hostpath "$1/docker/docker-compose.yml")" -f "$(hostpath "$WORK/override.yml")" "${@:2}"; }
+# A project per run, so concurrent sweeps on one daemon do not tear down each
+# other's stack between stages.
+compose() { docker compose -p "solid-syslog-sweep-$$" -f "$(hostpath "$1/docker/docker-compose.yml")" -f "$(hostpath "$WORK/override.yml")" "${@:2}"; }
 # mbedTLS builds inside its vendored tree, so its objects land beside the source
 # as well as under build/. Removed through the certs service, which runs as root
 # and, unlike the run service, does not need the collector's network namespace,
