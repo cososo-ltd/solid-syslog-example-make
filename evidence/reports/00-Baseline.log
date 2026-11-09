@@ -1,0 +1,1422 @@
+ Image ghcr.io/cososo-ltd/cpputest-freertos-cross:sha-ad10bf2@sha256:481267bea7200641fac41d7136e7e08deeba1b311e9873aa6d1c311db5b4cf58 Pulling 
+ Image balabit/syslog-ng:4.8.2@sha256:728cc5b63b9044ad5f18062bac73fd5c30bb7ad256c2aa12799d924d4f6f1e72 Pulling 
+ Image ghcr.io/cososo-ltd/cpputest-freertos-cross:sha-ad10bf2@sha256:481267bea7200641fac41d7136e7e08deeba1b311e9873aa6d1c311db5b4cf58 Pulling 
+ 68629629b516 Pulling fs layer 0B
+ 4f4fb700ef54 Pulling fs layer 0B
+ 4f4fb700ef54 Pulling fs layer 0B
+ 411666b8791a Pulling fs layer 0B
+ aa1002bf400f Pulling fs layer 0B
+ 5105630eb283 Pulling fs layer 0B
+ bee4b0f2cea7 Pulling fs layer 0B
+ a8242027f59d Pulling fs layer 0B
+ 63a2db179435 Pulling fs layer 0B
+ 8c1b5161fdb3 Pulling fs layer 0B
+ df90804087fa Pulling fs layer 0B
+ 48c584ee2fba Pulling fs layer 0B
+ 4f4fb700ef54 Pulling fs layer 0B
+ d5fc61442672 Pulling fs layer 0B
+ eb7106491d9b Pulling fs layer 0B
+ c2bb6fcacb33 Pulling fs layer 0B
+ 4b47d808f57e Pulling fs layer 0B
+ 486f6dc34c36 Pulling fs layer 0B
+ 919bed938aa7 Pulling fs layer 0B
+ 8c4e8bf58b7f Pulling fs layer 0B
+ 9258a85aeb45 Pulling fs layer 0B
+ 92912f53fb14 Pulling fs layer 0B
+ ee932954728e Pulling fs layer 0B
+ 71a1d5e471bc Pulling fs layer 0B
+ 4f4fb700ef54 Already exists 0B
+ 4f4fb700ef54 Pulling fs layer 0B
+ 4f4fb700ef54 Pulling fs layer 0B
+ aa1002bf400f Pulling fs layer 0B
+ 68629629b516 Pulling fs layer 0B
+ bee4b0f2cea7 Pulling fs layer 0B
+ df90804087fa Pulling fs layer 0B
+ 5105630eb283 Pulling fs layer 0B
+ 486f6dc34c36 Pulling fs layer 0B
+ 8c4e8bf58b7f Pulling fs layer 0B
+ 63a2db179435 Pulling fs layer 0B
+ eb7106491d9b Pulling fs layer 0B
+ 48c584ee2fba Pulling fs layer 0B
+ a8242027f59d Pulling fs layer 0B
+ 411666b8791a Pulling fs layer 0B
+ 9258a85aeb45 Pulling fs layer 0B
+ 8c1b5161fdb3 Pulling fs layer 0B
+ 71a1d5e471bc Pulling fs layer 0B
+ 4f4fb700ef54 Pulling fs layer 0B
+ 4b47d808f57e Pulling fs layer 0B
+ ee932954728e Pulling fs layer 0B
+ c2bb6fcacb33 Pulling fs layer 0B
+ 919bed938aa7 Pulling fs layer 0B
+ 92912f53fb14 Pulling fs layer 0B
+ d5fc61442672 Pulling fs layer 0B
+ 4f4fb700ef54 Pulling fs layer 0B
+ a8a5ee71434c Pulling fs layer 0B
+ 99197f11d5df Pulling fs layer 0B
+ 33994c44a28f Pulling fs layer 0B
+ 561f45a82a55 Pulling fs layer 0B
+ f014853ae203 Pulling fs layer 0B
+ 0ccd223df873 Pulling fs layer 0B
+ df3e9df5bc77 Pulling fs layer 0B
+ 68629629b516 Downloading 2.097MB
+ 4f4fb700ef54 Already exists 0B
+ 48c584ee2fba Download complete 0B
+ aa1002bf400f Download complete 0B
+ 4b47d808f57e Download complete 0B
+ 63a2db179435 Download complete 0B
+ 68629629b516 Downloading 2.097MB
+ 8c1b5161fdb3 Downloading 2.097MB
+ 9258a85aeb45 Download complete 0B
+ 71a1d5e471bc Download complete 0B
+ 63a2db179435 Download complete 0B
+ 48c584ee2fba Download complete 0B
+ 71a1d5e471bc Download complete 0B
+ 9258a85aeb45 Download complete 0B
+ 4f4fb700ef54 Already exists 0B
+ aa1002bf400f Download complete 0B
+ 8c1b5161fdb3 Downloading 2.097MB
+ d5fc61442672 Downloading 2.097MB
+ 4b47d808f57e Download complete 0B
+ d5fc61442672 Downloading 2.097MB
+ 68629629b516 Downloading 6.291MB
+ 292a6bc0aecd Download complete 0B
+ bee4b0f2cea7 Downloading 3.146MB
+ a8242027f59d Downloading 2.097MB
+ eb7106491d9b Downloading 3.146MB
+ 8c4e8bf58b7f Downloading 3.146MB
+ 5105630eb283 Downloading 3.146MB
+ df90804087fa Downloading 3.324MB
+ c2bb6fcacb33 Downloading 3.146MB
+ 8c1b5161fdb3 Downloading 5.243MB
+ ee932954728e Download complete 0B
+ ee932954728e Download complete 0B
+ 92912f53fb14 Downloading 3.146MB
+ 411666b8791a Downloading 3.146MB
+ 8c1b5161fdb3 Downloading 5.243MB
+ 486f6dc34c36 Downloading 673.9kB
+ 919bed938aa7 Downloading 1.231MB
+ 919bed938aa7 Downloading 1.231MB
+ 92912f53fb14 Downloading 3.146MB
+ a8242027f59d Downloading 2.097MB
+ c2bb6fcacb33 Downloading 3.146MB
+ bee4b0f2cea7 Downloading 3.146MB
+ a8a5ee71434c Downloading 1.049MB
+ 99197f11d5df Downloading 182B
+ 561f45a82a55 Downloading 849B
+ f014853ae203 Downloading 1.049MB
+ df3e9df5bc77 Downloading 2.74kB
+ 33994c44a28f Download complete 0B
+ 0d4cb699af04 Downloading 1.334kB
+ 292a6bc0aecd Download complete 0B
+ 5105630eb283 Downloading 3.146MB
+ 486f6dc34c36 Downloading 673.9kB
+ 8c4e8bf58b7f Downloading 3.146MB
+ eb7106491d9b Downloading 3.146MB
+ 411666b8791a Downloading 3.146MB
+ 68629629b516 Downloading 6.291MB
+ df90804087fa Downloading 3.324MB
+ 8c1b5161fdb3 Downloading 9.437MB
+ a8a5ee71434c Downloading 5.243MB
+ d5fc61442672 Download complete 0B
+ 99197f11d5df Download complete 0B
+ 486f6dc34c36 Download complete 0B
+ 561f45a82a55 Downloading 849B
+ f014853ae203 Downloading 4.194MB
+ 919bed938aa7 Download complete 0B
+ 68629629b516 Downloading 10.49MB
+ df3e9df5bc77 Download complete 0B
+ 0ccd223df873 Downloading 3.146MB
+ eb7106491d9b Downloading 4.195MB
+ 411666b8791a Downloading 6.99MB
+ 68629629b516 Downloading 10.49MB
+ df90804087fa Downloading 3.324MB
+ 8c1b5161fdb3 Downloading 9.437MB
+ 919bed938aa7 Download complete 0B
+ 92912f53fb14 Downloading 6.622MB
+ a8242027f59d Downloading 6.291MB
+ c2bb6fcacb33 Downloading 7.34MB
+ bee4b0f2cea7 Downloading 5.553MB
+ 0d4cb699af04 Download complete 0B
+ bee4b0f2cea7 Downloading 5.553MB
+ a8242027f59d Downloading 6.291MB
+ eb7106491d9b Downloading 4.195MB
+ 8c4e8bf58b7f Downloading 7.34MB
+ 5105630eb283 Downloading 7.34MB
+ df90804087fa Downloading 3.324MB
+ c2bb6fcacb33 Downloading 7.34MB
+ 92912f53fb14 Downloading 6.622MB
+ 411666b8791a Downloading 6.99MB
+ d5fc61442672 Download complete 0B
+ 5105630eb283 Downloading 7.34MB
+ 486f6dc34c36 Download complete 0B
+ 8c4e8bf58b7f Downloading 7.34MB
+ 0ccd223df873 Downloading 11.53MB
+ a8a5ee71434c Downloading 12.58MB
+ 561f45a82a55 Download complete 0B
+ f014853ae203 Downloading 11.53MB
+ 411666b8791a Downloading 6.99MB
+ 8c1b5161fdb3 Downloading 16.78MB
+ 68629629b516 Downloading 17.83MB
+ bee4b0f2cea7 Downloading 5.553MB
+ a8242027f59d Downloading 12.94MB
+ eb7106491d9b Downloading 4.195MB
+ 8c4e8bf58b7f Downloading 15.73MB
+ 5105630eb283 Downloading 10.05MB
+ 5105630eb283 Downloading 10.05MB
+ 8c4e8bf58b7f Downloading 15.73MB
+ eb7106491d9b Downloading 4.195MB
+ 411666b8791a Downloading 6.99MB
+ 68629629b516 Downloading 17.83MB
+ df90804087fa Download complete 0B
+ df90804087fa Download complete 0B
+ 8c1b5161fdb3 Downloading 17.83MB
+ 92912f53fb14 Downloading 6.622MB
+ a8242027f59d Downloading 12.94MB
+ c2bb6fcacb33 Downloading 15.73MB
+ bee4b0f2cea7 Downloading 5.553MB
+ c2bb6fcacb33 Downloading 15.73MB
+ 92912f53fb14 Downloading 6.622MB
+ 0ccd223df873 Downloading 18.44MB
+ a8a5ee71434c Downloading 23.07MB
+ f014853ae203 Downloading 22.02MB
+ a8a5ee71434c Downloading 23.07MB
+ f014853ae203 Downloading 22.02MB
+ 0ccd223df873 Downloading 18.44MB
+ 8c4e8bf58b7f Downloading 25.17MB
+ eb7106491d9b Downloading 4.195MB
+ 411666b8791a Downloading 6.99MB
+ 68629629b516 Downloading 28.24MB
+ 8c1b5161fdb3 Downloading 25.17MB
+ 92912f53fb14 Downloading 6.622MB
+ a8242027f59d Downloading 12.94MB
+ c2bb6fcacb33 Downloading 26.21MB
+ bee4b0f2cea7 Downloading 5.553MB
+ 5105630eb283 Downloading 10.05MB
+ a8242027f59d Downloading 12.94MB
+ c2bb6fcacb33 Downloading 26.21MB
+ bee4b0f2cea7 Downloading 5.553MB
+ 5105630eb283 Downloading 10.05MB
+ 8c4e8bf58b7f Downloading 25.17MB
+ eb7106491d9b Downloading 4.195MB
+ 411666b8791a Downloading 6.99MB
+ 68629629b516 Downloading 28.24MB
+ 8c1b5161fdb3 Downloading 25.17MB
+ 92912f53fb14 Downloading 6.622MB
+ 68629629b516 Downloading 28.24MB
+ bee4b0f2cea7 Downloading 5.553MB
+ a8242027f59d Downloading 12.94MB
+ eb7106491d9b Downloading 4.195MB
+ 8c4e8bf58b7f Downloading 25.17MB
+ 5105630eb283 Downloading 10.05MB
+ c2bb6fcacb33 Downloading 26.21MB
+ 92912f53fb14 Downloading 6.622MB
+ 411666b8791a Downloading 6.99MB
+ 8c1b5161fdb3 Downloading 25.17MB
+ 8c1b5161fdb3 Downloading 25.17MB
+ 68629629b516 Downloading 28.24MB
+ bee4b0f2cea7 Downloading 5.553MB
+ a8242027f59d Downloading 12.94MB
+ eb7106491d9b Downloading 4.195MB
+ 8c4e8bf58b7f Downloading 25.17MB
+ 5105630eb283 Downloading 10.05MB
+ c2bb6fcacb33 Downloading 26.21MB
+ 92912f53fb14 Downloading 6.622MB
+ 411666b8791a Downloading 6.99MB
+ f014853ae203 Downloading 23.07MB
+ 0ccd223df873 Downloading 18.44MB
+ a8a5ee71434c Downloading 24.12MB
+ 8c1b5161fdb3 Downloading 26.21MB
+ 92912f53fb14 Downloading 6.622MB
+ a8242027f59d Downloading 12.94MB
+ c2bb6fcacb33 Downloading 27.26MB
+ bee4b0f2cea7 Downloading 5.553MB
+ 5105630eb283 Downloading 10.05MB
+ 8c4e8bf58b7f Downloading 26.21MB
+ eb7106491d9b Downloading 4.195MB
+ 411666b8791a Downloading 6.99MB
+ 68629629b516 Downloading 28.24MB
+ c2bb6fcacb33 Downloading 27.26MB
+ 92912f53fb14 Downloading 6.622MB
+ 411666b8791a Downloading 6.99MB
+ 8c1b5161fdb3 Downloading 26.21MB
+ 68629629b516 Downloading 28.24MB
+ bee4b0f2cea7 Downloading 5.553MB
+ a8242027f59d Downloading 12.94MB
+ eb7106491d9b Downloading 4.195MB
+ 8c4e8bf58b7f Downloading 26.21MB
+ 5105630eb283 Downloading 10.05MB
+ a8a5ee71434c Downloading 39.85MB
+ f014853ae203 Downloading 36.7MB
+ 92912f53fb14 Downloading 6.622MB
+ 411666b8791a Downloading 6.99MB
+ 8c1b5161fdb3 Downloading 30.29MB
+ 0ccd223df873 Download complete 0B
+ 68629629b516 Download complete 0B
+ 8c1b5161fdb3 Downloading 30.29MB
+ 92912f53fb14 Downloading 6.622MB
+ a8242027f59d Downloading 12.94MB
+ c2bb6fcacb33 Downloading 42.99MB
+ bee4b0f2cea7 Downloading 5.553MB
+ 5105630eb283 Download complete 0B
+ 8c4e8bf58b7f Downloading 40.89MB
+ 68629629b516 Download complete 0B
+ bee4b0f2cea7 Downloading 5.553MB
+ a8242027f59d Downloading 12.94MB
+ eb7106491d9b Download complete 0B
+ 8c4e8bf58b7f Downloading 41.94MB
+ eb7106491d9b Download complete 0B
+ 411666b8791a Downloading 6.99MB
+ 5105630eb283 Download complete 0B
+ c2bb6fcacb33 Downloading 42.99MB
+ 68629629b516 Extracting 1B
+ 68629629b516 Extracting 1B
+ a8a5ee71434c Downloading 53.48MB
+ f014853ae203 Downloading 48.49MB
+ 8c4e8bf58b7f Downloading 55.57MB
+ 411666b8791a Downloading 6.99MB
+ 8c1b5161fdb3 Downloading 30.29MB
+ 92912f53fb14 Downloading 6.622MB
+ a8242027f59d Downloading 12.94MB
+ c2bb6fcacb33 Downloading 55.57MB
+ bee4b0f2cea7 Downloading 5.553MB
+ 8c4e8bf58b7f Downloading 55.57MB
+ c2bb6fcacb33 Downloading 55.57MB
+ 92912f53fb14 Downloading 6.622MB
+ 411666b8791a Downloading 6.99MB
+ 8c1b5161fdb3 Downloading 30.29MB
+ bee4b0f2cea7 Downloading 5.553MB
+ a8242027f59d Downloading 12.94MB
+ 68629629b516 Extracting 1B
+ 68629629b516 Extracting 1B
+ f014853ae203 Downloading 48.49MB
+ a8a5ee71434c Downloading 67.11MB
+ c2bb6fcacb33 Downloading 69.21MB
+ 8c4e8bf58b7f Downloading 70.25MB
+ 411666b8791a Downloading 6.99MB
+ 8c1b5161fdb3 Downloading 30.29MB
+ 92912f53fb14 Downloading 6.622MB
+ a8242027f59d Downloading 12.94MB
+ 68629629b516 Extracting 1B
+ a8242027f59d Downloading 12.94MB
+ 8c4e8bf58b7f Downloading 70.25MB
+ c2bb6fcacb33 Downloading 69.21MB
+ 92912f53fb14 Downloading 6.622MB
+ 411666b8791a Downloading 6.99MB
+ 8c1b5161fdb3 Downloading 30.29MB
+ 68629629b516 Extracting 1B
+ a8a5ee71434c Downloading 79.69MB
+ f014853ae203 Downloading 48.49MB
+ 8c4e8bf58b7f Downloading 82.84MB
+ 8c1b5161fdb3 Downloading 30.29MB
+ 8c1b5161fdb3 Downloading 30.29MB
+ 92912f53fb14 Downloading 6.622MB
+ a8242027f59d Downloading 12.94MB
+ c2bb6fcacb33 Downloading 81.79MB
+ bee4b0f2cea7 Download complete 0B
+ a8242027f59d Downloading 12.94MB
+ 8c4e8bf58b7f Downloading 82.84MB
+ c2bb6fcacb33 Downloading 81.79MB
+ 92912f53fb14 Downloading 6.622MB
+ bee4b0f2cea7 Download complete 0B
+ 68629629b516 Extracting 1B
+ 68629629b516 Extracting 1B
+ a8242027f59d Downloading 12.94MB
+ 8c4e8bf58b7f Downloading 102.8MB
+ c2bb6fcacb33 Downloading 101.7MB
+ 8c4e8bf58b7f Downloading 102.8MB
+ a8a5ee71434c Downloading 101.7MB
+ f014853ae203 Downloading 48.49MB
+ 411666b8791a Download complete 0B
+ 8c1b5161fdb3 Downloading 30.29MB
+ 92912f53fb14 Download complete 0B
+ 92912f53fb14 Download complete 0B
+ 411666b8791a Download complete 0B
+ a8242027f59d Downloading 12.94MB
+ 8c1b5161fdb3 Downloading 30.29MB
+ c2bb6fcacb33 Downloading 101.7MB
+ 68629629b516 Extracting 1B
+ 68629629b516 Extracting 1B
+ a8a5ee71434c Downloading 112.2MB
+ 8c4e8bf58b7f Downloading 113.2MB
+ a8242027f59d Download complete 0B
+ 8c4e8bf58b7f Downloading 113.2MB
+ c2bb6fcacb33 Downloading 113.2MB
+ 8c1b5161fdb3 Download complete 0B
+ f014853ae203 Download complete 0B
+ 8c1b5161fdb3 Download complete 0B
+ a8242027f59d Download complete 0B
+ c2bb6fcacb33 Downloading 113.2MB
+ f014853ae203 Extracting 1B
+ 68629629b516 Extracting 1B
+ 68629629b516 Extracting 1B
+ 8c4e8bf58b7f Downloading 129MB
+ 8c4e8bf58b7f Downloading 129MB
+ c2bb6fcacb33 Downloading 124.8MB
+ c2bb6fcacb33 Downloading 125.8MB
+ a8a5ee71434c Downloading 118.9MB
+ f014853ae203 Extracting 1B
+ 68629629b516 Extracting 1B
+ 68629629b516 Extracting 1B
+ a8a5ee71434c Downloading 118.9MB
+ c2bb6fcacb33 Downloading 140.5MB
+ 8c4e8bf58b7f Downloading 144.7MB
+ c2bb6fcacb33 Downloading 140.5MB
+ 8c4e8bf58b7f Downloading 144.7MB
+ f014853ae203 Extracting 1B
+ 68629629b516 Extracting 1B
+ 68629629b516 Extracting 1B
+ a8a5ee71434c Downloading 118.9MB
+ 8c4e8bf58b7f Downloading 160.4MB
+ c2bb6fcacb33 Downloading 154.1MB
+ c2bb6fcacb33 Downloading 154.1MB
+ 8c4e8bf58b7f Downloading 160.4MB
+ f014853ae203 Extracting 1B
+ 68629629b516 Extracting 1B
+ 68629629b516 Extracting 1B
+ a8a5ee71434c Downloading 118.9MB
+ c2bb6fcacb33 Downloading 170.9MB
+ 8c4e8bf58b7f Downloading 178.3MB
+ 8c4e8bf58b7f Downloading 178.3MB
+ c2bb6fcacb33 Downloading 170.9MB
+ f014853ae203 Extracting 1B
+ 68629629b516 Extracting 1B
+ 68629629b516 Extracting 1B
+ 8c4e8bf58b7f Downloading 204.5MB
+ c2bb6fcacb33 Downloading 197.1MB
+ c2bb6fcacb33 Downloading 197.1MB
+ 8c4e8bf58b7f Downloading 204.5MB
+ a8a5ee71434c Downloading 118.9MB
+ f014853ae203 Extracting 1B
+ 68629629b516 Extracting 2B
+ 68629629b516 Extracting 1B
+ a8a5ee71434c Downloading 118.9MB
+ c2bb6fcacb33 Downloading 212.9MB
+ 8c4e8bf58b7f Downloading 220.2MB
+ 8c4e8bf58b7f Downloading 221.2MB
+ c2bb6fcacb33 Downloading 212.9MB
+ f014853ae203 Extracting 1B
+ 68629629b516 Extracting 2B
+ 68629629b516 Extracting 2B
+ a8a5ee71434c Download complete 0B
+ 8c4e8bf58b7f Downloading 238MB
+ c2bb6fcacb33 Downloading 228.6MB
+ 8c4e8bf58b7f Downloading 238MB
+ c2bb6fcacb33 Downloading 228.6MB
+ f014853ae203 Extracting 1B
+ 68629629b516 Extracting 2B
+ 68629629b516 Extracting 2B
+ 8c4e8bf58b7f Downloading 259MB
+ c2bb6fcacb33 Downloading 234.6MB
+ 8c4e8bf58b7f Downloading 260MB
+ c2bb6fcacb33 Downloading 234.6MB
+ f014853ae203 Extracting 1B
+ 68629629b516 Extracting 2B
+ 68629629b516 Extracting 2B
+ 8c4e8bf58b7f Downloading 282.1MB
+ c2bb6fcacb33 Downloading 234.6MB
+ 8c4e8bf58b7f Downloading 281MB
+ c2bb6fcacb33 Downloading 234.6MB
+ f014853ae203 Extracting 1B
+ 68629629b516 Extracting 2B
+ 68629629b516 Extracting 2B
+ c2bb6fcacb33 Downloading 234.6MB
+ 8c4e8bf58b7f Downloading 316.7MB
+ 8c4e8bf58b7f Downloading 316.7MB
+ c2bb6fcacb33 Downloading 234.6MB
+ f014853ae203 Extracting 1B
+ 68629629b516 Extracting 2B
+ 68629629b516 Extracting 2B
+ 8c4e8bf58b7f Downloading 346MB
+ c2bb6fcacb33 Downloading 234.6MB
+ c2bb6fcacb33 Downloading 234.6MB
+ 8c4e8bf58b7f Downloading 346MB
+ f014853ae203 Extracting 2B
+ 68629629b516 Extracting 2B
+ 68629629b516 Extracting 2B
+ c2bb6fcacb33 Downloading 234.6MB
+ 8c4e8bf58b7f Downloading 369.1MB
+ 8c4e8bf58b7f Downloading 369.1MB
+ c2bb6fcacb33 Downloading 234.6MB
+ f014853ae203 Extracting 2B
+ 68629629b516 Extracting 2B
+ 68629629b516 Extracting 2B
+ 8c4e8bf58b7f Downloading 391.1MB
+ c2bb6fcacb33 Downloading 234.6MB
+ 8c4e8bf58b7f Downloading 391.1MB
+ c2bb6fcacb33 Downloading 234.6MB
+ f014853ae203 Extracting 2B
+ 68629629b516 Extracting 2B
+ 68629629b516 Extracting 2B
+ 8c4e8bf58b7f Downloading 412.1MB
+ c2bb6fcacb33 Downloading 234.6MB
+ c2bb6fcacb33 Downloading 234.6MB
+ 8c4e8bf58b7f Downloading 412.1MB
+ f014853ae203 Extracting 2B
+ 68629629b516 Extracting 2B
+ 68629629b516 Extracting 2B
+ 8c4e8bf58b7f Downloading 437.3MB
+ c2bb6fcacb33 Downloading 234.6MB
+ c2bb6fcacb33 Downloading 234.6MB
+ 8c4e8bf58b7f Downloading 437.3MB
+ f014853ae203 Extracting 2B
+ 68629629b516 Extracting 2B
+ 68629629b516 Extracting 2B
+ 8c4e8bf58b7f Downloading 472.9MB
+ c2bb6fcacb33 Downloading 234.6MB
+ c2bb6fcacb33 Downloading 234.6MB
+ 8c4e8bf58b7f Downloading 474MB
+ f014853ae203 Extracting 2B
+ 68629629b516 Extracting 3B
+ 68629629b516 Extracting 3B
+ 8c4e8bf58b7f Downloading 484.2MB
+ c2bb6fcacb33 Downloading 234.6MB
+ c2bb6fcacb33 Downloading 234.6MB
+ 8c4e8bf58b7f Downloading 484.2MB
+ f014853ae203 Extracting 2B
+ 68629629b516 Extracting 3B
+ 68629629b516 Extracting 3B
+ c2bb6fcacb33 Downloading 234.6MB
+ 8c4e8bf58b7f Downloading 484.2MB
+ 8c4e8bf58b7f Downloading 484.2MB
+ c2bb6fcacb33 Downloading 234.6MB
+ f014853ae203 Extracting 2B
+ 68629629b516 Extracting 3B
+ 68629629b516 Extracting 3B
+ 8c4e8bf58b7f Downloading 484.2MB
+ c2bb6fcacb33 Downloading 234.6MB
+ c2bb6fcacb33 Downloading 234.6MB
+ 8c4e8bf58b7f Downloading 484.2MB
+ f014853ae203 Extracting 2B
+ 68629629b516 Extracting 3B
+ 68629629b516 Extracting 3B
+ c2bb6fcacb33 Downloading 234.6MB
+ 8c4e8bf58b7f Downloading 484.2MB
+ c2bb6fcacb33 Downloading 234.6MB
+ 8c4e8bf58b7f Downloading 484.2MB
+ f014853ae203 Extracting 2B
+ 68629629b516 Extracting 3B
+ 68629629b516 Extracting 3B
+ 8c4e8bf58b7f Downloading 484.2MB
+ c2bb6fcacb33 Downloading 234.6MB
+ 8c4e8bf58b7f Downloading 484.2MB
+ c2bb6fcacb33 Downloading 234.6MB
+ f014853ae203 Extracting 3B
+ 68629629b516 Extracting 3B
+ 68629629b516 Extracting 3B
+ 8c4e8bf58b7f Downloading 484.2MB
+ c2bb6fcacb33 Downloading 234.6MB
+ 8c4e8bf58b7f Downloading 484.2MB
+ c2bb6fcacb33 Downloading 234.6MB
+ f014853ae203 Extracting 3B
+ 68629629b516 Extracting 3B
+ 68629629b516 Extracting 3B
+ 8c4e8bf58b7f Downloading 484.2MB
+ c2bb6fcacb33 Downloading 234.6MB
+ c2bb6fcacb33 Downloading 234.6MB
+ 8c4e8bf58b7f Downloading 484.2MB
+ f014853ae203 Extracting 3B
+ 68629629b516 Pull complete 0B
+ 68629629b516 Pull complete 0B
+ 8c4e8bf58b7f Downloading 484.2MB
+ c2bb6fcacb33 Downloading 234.6MB
+ 8c4e8bf58b7f Downloading 484.2MB
+ c2bb6fcacb33 Downloading 234.6MB
+ f014853ae203 Extracting 3B
+ 8c4e8bf58b7f Downloading 484.2MB
+ c2bb6fcacb33 Downloading 234.6MB
+ 8c4e8bf58b7f Downloading 484.2MB
+ c2bb6fcacb33 Downloading 234.6MB
+ f014853ae203 Extracting 3B
+ c2bb6fcacb33 Downloading 234.6MB
+ 8c4e8bf58b7f Downloading 484.2MB
+ 8c4e8bf58b7f Downloading 484.2MB
+ c2bb6fcacb33 Downloading 234.6MB
+ f014853ae203 Extracting 3B
+ 8c4e8bf58b7f Downloading 484.2MB
+ c2bb6fcacb33 Downloading 234.6MB
+ 8c4e8bf58b7f Downloading 484.2MB
+ c2bb6fcacb33 Downloading 234.6MB
+ f014853ae203 Extracting 3B
+ 8c4e8bf58b7f Downloading 484.2MB
+ c2bb6fcacb33 Downloading 234.6MB
+ 8c4e8bf58b7f Downloading 484.2MB
+ c2bb6fcacb33 Downloading 234.6MB
+ f014853ae203 Extracting 3B
+ 8c4e8bf58b7f Downloading 484.2MB
+ c2bb6fcacb33 Downloading 234.6MB
+ 8c4e8bf58b7f Downloading 484.2MB
+ c2bb6fcacb33 Downloading 234.6MB
+ f014853ae203 Extracting 3B
+ c2bb6fcacb33 Downloading 234.6MB
+ 8c4e8bf58b7f Downloading 484.2MB
+ 8c4e8bf58b7f Downloading 484.2MB
+ c2bb6fcacb33 Downloading 234.6MB
+ f014853ae203 Extracting 3B
+ 8c4e8bf58b7f Downloading 484.2MB
+ c2bb6fcacb33 Downloading 234.6MB
+ c2bb6fcacb33 Downloading 234.6MB
+ 8c4e8bf58b7f Downloading 484.2MB
+ f014853ae203 Extracting 4B
+ 8c4e8bf58b7f Downloading 484.2MB
+ c2bb6fcacb33 Downloading 234.6MB
+ c2bb6fcacb33 Downloading 234.6MB
+ 8c4e8bf58b7f Downloading 484.2MB
+ f014853ae203 Extracting 4B
+ 8c4e8bf58b7f Downloading 484.2MB
+ c2bb6fcacb33 Downloading 234.6MB
+ 8c4e8bf58b7f Downloading 484.2MB
+ c2bb6fcacb33 Downloading 234.6MB
+ f014853ae203 Extracting 4B
+ c2bb6fcacb33 Downloading 234.6MB
+ 8c4e8bf58b7f Downloading 484.2MB
+ c2bb6fcacb33 Downloading 234.6MB
+ 8c4e8bf58b7f Downloading 484.2MB
+ f014853ae203 Extracting 4B
+ 8c4e8bf58b7f Downloading 484.2MB
+ 8c4e8bf58b7f Downloading 484.2MB
+ c2bb6fcacb33 Downloading 234.6MB
+ c2bb6fcacb33 Downloading 234.6MB
+ f014853ae203 Extracting 4B
+ 8c4e8bf58b7f Downloading 484.2MB
+ c2bb6fcacb33 Downloading 234.6MB
+ 8c4e8bf58b7f Downloading 484.2MB
+ c2bb6fcacb33 Downloading 234.6MB
+ c2bb6fcacb33 Downloading 234.6MB
+ 8c4e8bf58b7f Downloading 484.2MB
+ 8c4e8bf58b7f Downloading 484.2MB
+ c2bb6fcacb33 Downloading 234.6MB
+ c2bb6fcacb33 Downloading 234.6MB
+ 8c4e8bf58b7f Downloading 484.2MB
+ c2bb6fcacb33 Downloading 234.6MB
+ 8c4e8bf58b7f Downloading 484.2MB
+ f014853ae203 Pull complete 0B
+ 8c4e8bf58b7f Downloading 484.2MB
+ c2bb6fcacb33 Downloading 234.6MB
+ 8c4e8bf58b7f Downloading 484.2MB
+ c2bb6fcacb33 Downloading 234.6MB
+ 5105630eb283 Extracting 1B
+ 5105630eb283 Extracting 1B
+ 8c4e8bf58b7f Downloading 484.2MB
+ 8c4e8bf58b7f Downloading 484.2MB
+ 5105630eb283 Extracting 1B
+ 5105630eb283 Extracting 1B
+ 8c4e8bf58b7f Downloading 484.2MB
+ c2bb6fcacb33 Download complete 0B
+ 8c4e8bf58b7f Downloading 484.2MB
+ c2bb6fcacb33 Download complete 0B
+ 5105630eb283 Extracting 1B
+ 5105630eb283 Extracting 1B
+ 8c4e8bf58b7f Downloading 484.2MB
+ 8c4e8bf58b7f Downloading 484.2MB
+ 5105630eb283 Extracting 1B
+ 5105630eb283 Extracting 1B
+ 8c4e8bf58b7f Downloading 484.2MB
+ 8c4e8bf58b7f Downloading 484.2MB
+ 5105630eb283 Extracting 1B
+ 5105630eb283 Extracting 1B
+ 8c4e8bf58b7f Downloading 484.2MB
+ 8c4e8bf58b7f Downloading 484.2MB
+ 5105630eb283 Extracting 1B
+ 5105630eb283 Extracting 1B
+ 8c4e8bf58b7f Downloading 484.2MB
+ 8c4e8bf58b7f Downloading 484.2MB
+ 5105630eb283 Extracting 1B
+ 5105630eb283 Extracting 1B
+ 8c4e8bf58b7f Downloading 484.2MB
+ 8c4e8bf58b7f Downloading 484.2MB
+ 5105630eb283 Extracting 1B
+ 5105630eb283 Extracting 1B
+ 8c4e8bf58b7f Downloading 484.2MB
+ 8c4e8bf58b7f Downloading 484.2MB
+ 5105630eb283 Extracting 1B
+ 5105630eb283 Extracting 1B
+ 8c4e8bf58b7f Downloading 484.2MB
+ 8c4e8bf58b7f Downloading 484.2MB
+ 5105630eb283 Extracting 1B
+ 5105630eb283 Pull complete 0B
+ 8c4e8bf58b7f Download complete 0B
+ 8c4e8bf58b7f Download complete 0B
+ 0ccd223df873 Extracting 1B
+ 5105630eb283 Pull complete 0B
+ 8c4e8bf58b7f Extracting 1B
+ 8c4e8bf58b7f Extracting 1B
+ 0ccd223df873 Extracting 1B
+ 8c4e8bf58b7f Extracting 1B
+ 8c4e8bf58b7f Extracting 1B
+ 0ccd223df873 Extracting 1B
+ 8c4e8bf58b7f Extracting 1B
+ 8c4e8bf58b7f Extracting 1B
+ 8c4e8bf58b7f Extracting 1B
+ 8c4e8bf58b7f Extracting 1B
+ df3e9df5bc77 Pull complete 0B
+ 0ccd223df873 Pull complete 0B
+ a8a5ee71434c Extracting 1B
+ 8c4e8bf58b7f Extracting 1B
+ 8c4e8bf58b7f Extracting 1B
+ a8a5ee71434c Extracting 1B
+ 8c4e8bf58b7f Extracting 1B
+ 8c4e8bf58b7f Extracting 1B
+ a8a5ee71434c Extracting 1B
+ 8c4e8bf58b7f Extracting 1B
+ 8c4e8bf58b7f Extracting 1B
+ a8a5ee71434c Extracting 1B
+ 8c4e8bf58b7f Extracting 1B
+ 8c4e8bf58b7f Extracting 1B
+ a8a5ee71434c Extracting 1B
+ 8c4e8bf58b7f Extracting 1B
+ 8c4e8bf58b7f Extracting 1B
+ a8a5ee71434c Extracting 1B
+ 8c4e8bf58b7f Extracting 1B
+ 8c4e8bf58b7f Extracting 1B
+ a8a5ee71434c Extracting 1B
+ 8c4e8bf58b7f Extracting 1B
+ 8c4e8bf58b7f Extracting 1B
+ a8a5ee71434c Extracting 1B
+ 8c4e8bf58b7f Extracting 2B
+ 8c4e8bf58b7f Extracting 2B
+ a8a5ee71434c Extracting 1B
+ 8c4e8bf58b7f Extracting 2B
+ 8c4e8bf58b7f Extracting 2B
+ a8a5ee71434c Extracting 1B
+ 8c4e8bf58b7f Extracting 2B
+ 8c4e8bf58b7f Extracting 2B
+ a8a5ee71434c Extracting 1B
+ 8c4e8bf58b7f Extracting 2B
+ 8c4e8bf58b7f Extracting 2B
+ a8a5ee71434c Extracting 2B
+ 8c4e8bf58b7f Extracting 2B
+ 8c4e8bf58b7f Extracting 2B
+ a8a5ee71434c Extracting 2B
+ 8c4e8bf58b7f Extracting 2B
+ 8c4e8bf58b7f Extracting 2B
+ a8a5ee71434c Extracting 2B
+ 8c4e8bf58b7f Extracting 2B
+ 8c4e8bf58b7f Extracting 2B
+ a8a5ee71434c Extracting 2B
+ 8c4e8bf58b7f Extracting 2B
+ 8c4e8bf58b7f Extracting 2B
+ a8a5ee71434c Extracting 2B
+ 8c4e8bf58b7f Extracting 2B
+ 8c4e8bf58b7f Extracting 2B
+ a8a5ee71434c Extracting 2B
+ 8c4e8bf58b7f Extracting 2B
+ 8c4e8bf58b7f Extracting 2B
+ a8a5ee71434c Extracting 2B
+ 8c4e8bf58b7f Extracting 3B
+ 8c4e8bf58b7f Extracting 3B
+ a8a5ee71434c Extracting 2B
+ 8c4e8bf58b7f Extracting 3B
+ 8c4e8bf58b7f Extracting 3B
+ a8a5ee71434c Extracting 2B
+ 8c4e8bf58b7f Extracting 3B
+ 8c4e8bf58b7f Extracting 3B
+ a8a5ee71434c Extracting 2B
+ a8a5ee71434c Extracting 3B
+ a8a5ee71434c Extracting 3B
+ 8c4e8bf58b7f Extracting 3B
+ 8c4e8bf58b7f Extracting 3B
+ 8c4e8bf58b7f Extracting 3B
+ 8c4e8bf58b7f Extracting 3B
+ 8c4e8bf58b7f Extracting 3B
+ 8c4e8bf58b7f Extracting 3B
+ a8a5ee71434c Extracting 3B
+ 8c4e8bf58b7f Extracting 3B
+ 8c4e8bf58b7f Extracting 3B
+ a8a5ee71434c Extracting 3B
+ 8c4e8bf58b7f Extracting 3B
+ 8c4e8bf58b7f Extracting 3B
+ a8a5ee71434c Extracting 3B
+ 8c4e8bf58b7f Extracting 3B
+ 8c4e8bf58b7f Extracting 3B
+ a8a5ee71434c Extracting 3B
+ 8c4e8bf58b7f Extracting 3B
+ 8c4e8bf58b7f Extracting 3B
+ a8a5ee71434c Extracting 3B
+ 8c4e8bf58b7f Extracting 4B
+ 8c4e8bf58b7f Extracting 4B
+ a8a5ee71434c Extracting 3B
+ 8c4e8bf58b7f Extracting 4B
+ 8c4e8bf58b7f Extracting 4B
+ a8a5ee71434c Extracting 3B
+ 8c4e8bf58b7f Extracting 4B
+ 8c4e8bf58b7f Extracting 4B
+ a8a5ee71434c Extracting 4B
+ 8c4e8bf58b7f Extracting 4B
+ 8c4e8bf58b7f Extracting 4B
+ a8a5ee71434c Extracting 4B
+ 8c4e8bf58b7f Extracting 4B
+ 8c4e8bf58b7f Extracting 4B
+ a8a5ee71434c Extracting 4B
+ 8c4e8bf58b7f Extracting 4B
+ 8c4e8bf58b7f Extracting 4B
+ a8a5ee71434c Extracting 4B
+ 8c4e8bf58b7f Extracting 4B
+ 8c4e8bf58b7f Extracting 4B
+ a8a5ee71434c Extracting 4B
+ 8c4e8bf58b7f Extracting 4B
+ 8c4e8bf58b7f Extracting 4B
+ a8a5ee71434c Extracting 4B
+ 8c4e8bf58b7f Extracting 4B
+ 8c4e8bf58b7f Extracting 4B
+ a8a5ee71434c Extracting 4B
+ 8c4e8bf58b7f Extracting 4B
+ 8c4e8bf58b7f Extracting 4B
+ a8a5ee71434c Extracting 4B
+ 8c4e8bf58b7f Extracting 5B
+ 8c4e8bf58b7f Extracting 5B
+ a8a5ee71434c Extracting 4B
+ 8c4e8bf58b7f Extracting 5B
+ 8c4e8bf58b7f Extracting 5B
+ a8a5ee71434c Extracting 4B
+ 8c4e8bf58b7f Extracting 5B
+ 8c4e8bf58b7f Extracting 5B
+ a8a5ee71434c Extracting 4B
+ 8c4e8bf58b7f Extracting 5B
+ 8c4e8bf58b7f Extracting 5B
+ a8a5ee71434c Extracting 5B
+ 8c4e8bf58b7f Extracting 5B
+ 8c4e8bf58b7f Extracting 5B
+ a8a5ee71434c Extracting 5B
+ 8c4e8bf58b7f Extracting 5B
+ 8c4e8bf58b7f Extracting 5B
+ a8a5ee71434c Extracting 5B
+ 8c4e8bf58b7f Extracting 5B
+ 8c4e8bf58b7f Extracting 5B
+ a8a5ee71434c Pull complete 0B
+ 8c4e8bf58b7f Extracting 5B
+ 8c4e8bf58b7f Extracting 5B
+ 99197f11d5df Extracting 1B
+ 8c4e8bf58b7f Extracting 5B
+ 8c4e8bf58b7f Extracting 5B
+ 33994c44a28f Pull complete 0B
+ 99197f11d5df Pull complete 0B
+ 8c4e8bf58b7f Extracting 5B
+ 8c4e8bf58b7f Extracting 5B
+ 4f4fb700ef54 Pull complete 0B
+ 561f45a82a55 Pull complete 0B
+ Image balabit/syslog-ng:4.8.2@sha256:728cc5b63b9044ad5f18062bac73fd5c30bb7ad256c2aa12799d924d4f6f1e72 Pulled 
+ 4f4fb700ef54 Pull complete 0B
+ 4f4fb700ef54 Pull complete 0B
+ 8c4e8bf58b7f Extracting 6B
+ 8c4e8bf58b7f Extracting 6B
+ 8c4e8bf58b7f Extracting 6B
+ 8c4e8bf58b7f Extracting 6B
+ 8c4e8bf58b7f Extracting 6B
+ 8c4e8bf58b7f Extracting 6B
+ 8c4e8bf58b7f Extracting 6B
+ 8c4e8bf58b7f Extracting 6B
+ 8c4e8bf58b7f Extracting 6B
+ 8c4e8bf58b7f Extracting 6B
+ 8c4e8bf58b7f Extracting 6B
+ 8c4e8bf58b7f Extracting 6B
+ 8c4e8bf58b7f Extracting 6B
+ 8c4e8bf58b7f Extracting 6B
+ 8c4e8bf58b7f Extracting 6B
+ 8c4e8bf58b7f Extracting 6B
+ 8c4e8bf58b7f Extracting 6B
+ 8c4e8bf58b7f Extracting 6B
+ 8c4e8bf58b7f Extracting 6B
+ 8c4e8bf58b7f Extracting 6B
+ 8c4e8bf58b7f Extracting 7B
+ 8c4e8bf58b7f Extracting 7B
+ 8c4e8bf58b7f Extracting 7B
+ 8c4e8bf58b7f Extracting 7B
+ 8c4e8bf58b7f Extracting 7B
+ 8c4e8bf58b7f Extracting 7B
+ 8c4e8bf58b7f Extracting 7B
+ 8c4e8bf58b7f Extracting 7B
+ 8c4e8bf58b7f Extracting 7B
+ 8c4e8bf58b7f Extracting 7B
+ 8c4e8bf58b7f Extracting 7B
+ 8c4e8bf58b7f Extracting 7B
+ 8c4e8bf58b7f Extracting 7B
+ 8c4e8bf58b7f Extracting 7B
+ 8c4e8bf58b7f Extracting 7B
+ 8c4e8bf58b7f Extracting 7B
+ 8c4e8bf58b7f Extracting 7B
+ 8c4e8bf58b7f Extracting 7B
+ 8c4e8bf58b7f Extracting 7B
+ 8c4e8bf58b7f Extracting 7B
+ 8c4e8bf58b7f Extracting 8B
+ 8c4e8bf58b7f Extracting 8B
+ 8c4e8bf58b7f Extracting 8B
+ 8c4e8bf58b7f Extracting 8B
+ 8c4e8bf58b7f Extracting 8B
+ 8c4e8bf58b7f Extracting 8B
+ 8c4e8bf58b7f Extracting 8B
+ 8c4e8bf58b7f Extracting 8B
+ 8c4e8bf58b7f Extracting 8B
+ 8c4e8bf58b7f Extracting 8B
+ 8c4e8bf58b7f Extracting 8B
+ 8c4e8bf58b7f Extracting 8B
+ 8c4e8bf58b7f Extracting 8B
+ 8c4e8bf58b7f Extracting 8B
+ 8c4e8bf58b7f Extracting 8B
+ 8c4e8bf58b7f Extracting 8B
+ 8c4e8bf58b7f Extracting 8B
+ 8c4e8bf58b7f Extracting 8B
+ 8c4e8bf58b7f Extracting 8B
+ 8c4e8bf58b7f Extracting 8B
+ 8c4e8bf58b7f Extracting 9B
+ 8c4e8bf58b7f Extracting 9B
+ 8c4e8bf58b7f Extracting 9B
+ 8c4e8bf58b7f Extracting 9B
+ 8c4e8bf58b7f Extracting 9B
+ 8c4e8bf58b7f Extracting 9B
+ 8c4e8bf58b7f Extracting 9B
+ 8c4e8bf58b7f Extracting 9B
+ 8c4e8bf58b7f Extracting 9B
+ 8c4e8bf58b7f Extracting 9B
+ 8c4e8bf58b7f Extracting 9B
+ 8c4e8bf58b7f Extracting 9B
+ 8c4e8bf58b7f Extracting 9B
+ 8c4e8bf58b7f Extracting 9B
+ 8c4e8bf58b7f Extracting 9B
+ 8c4e8bf58b7f Extracting 9B
+ 8c4e8bf58b7f Extracting 9B
+ 8c4e8bf58b7f Extracting 9B
+ 8c4e8bf58b7f Extracting 9B
+ 8c4e8bf58b7f Extracting 9B
+ 8c4e8bf58b7f Extracting 10B
+ 8c4e8bf58b7f Extracting 10B
+ 8c4e8bf58b7f Extracting 10B
+ 8c4e8bf58b7f Extracting 10B
+ 8c4e8bf58b7f Extracting 10B
+ 8c4e8bf58b7f Extracting 10B
+ 8c4e8bf58b7f Extracting 10B
+ 8c4e8bf58b7f Extracting 10B
+ 8c4e8bf58b7f Extracting 10B
+ 8c4e8bf58b7f Extracting 10B
+ 8c4e8bf58b7f Extracting 10B
+ 8c4e8bf58b7f Extracting 10B
+ 8c4e8bf58b7f Extracting 10B
+ 8c4e8bf58b7f Extracting 10B
+ 8c4e8bf58b7f Extracting 10B
+ 8c4e8bf58b7f Extracting 10B
+ 8c4e8bf58b7f Extracting 10B
+ 8c4e8bf58b7f Extracting 10B
+ 8c4e8bf58b7f Extracting 10B
+ 8c4e8bf58b7f Extracting 10B
+ 8c4e8bf58b7f Extracting 11B
+ 8c4e8bf58b7f Extracting 11B
+ 8c4e8bf58b7f Extracting 11B
+ 8c4e8bf58b7f Extracting 11B
+ 8c4e8bf58b7f Extracting 11B
+ 8c4e8bf58b7f Extracting 11B
+ 8c4e8bf58b7f Extracting 11B
+ 8c4e8bf58b7f Extracting 11B
+ 8c4e8bf58b7f Extracting 11B
+ 8c4e8bf58b7f Extracting 11B
+ 8c4e8bf58b7f Extracting 11B
+ 8c4e8bf58b7f Extracting 11B
+ 8c4e8bf58b7f Extracting 11B
+ 8c4e8bf58b7f Extracting 11B
+ 8c4e8bf58b7f Extracting 11B
+ 8c4e8bf58b7f Extracting 11B
+ 8c4e8bf58b7f Extracting 11B
+ 8c4e8bf58b7f Extracting 11B
+ 8c4e8bf58b7f Extracting 11B
+ 8c4e8bf58b7f Extracting 11B
+ 8c4e8bf58b7f Extracting 12B
+ 8c4e8bf58b7f Extracting 12B
+ 8c4e8bf58b7f Pull complete 0B
+ 8c4e8bf58b7f Pull complete 0B
+ 63a2db179435 Pull complete 0B
+ 63a2db179435 Pull complete 0B
+ 48c584ee2fba Extracting 1B
+ 48c584ee2fba Extracting 1B
+ 48c584ee2fba Pull complete 0B
+ 48c584ee2fba Pull complete 0B
+ 411666b8791a Extracting 1B
+ 411666b8791a Extracting 1B
+ 411666b8791a Extracting 1B
+ 411666b8791a Extracting 1B
+ 411666b8791a Extracting 1B
+ 411666b8791a Extracting 1B
+ 411666b8791a Pull complete 0B
+ 411666b8791a Pull complete 0B
+ 9258a85aeb45 Extracting 1B
+ 9258a85aeb45 Extracting 1B
+ 9258a85aeb45 Extracting 1B
+ 9258a85aeb45 Pull complete 0B
+ 9258a85aeb45 Pull complete 0B
+ 71a1d5e471bc Extracting 1B
+ 71a1d5e471bc Extracting 1B
+ 71a1d5e471bc Extracting 1B
+ 71a1d5e471bc Extracting 1B
+ 71a1d5e471bc Pull complete 0B
+ 71a1d5e471bc Pull complete 0B
+ 4b47d808f57e Pull complete 0B
+ 4b47d808f57e Pull complete 0B
+ 919bed938aa7 Pull complete 0B
+ 919bed938aa7 Pull complete 0B
+ 92912f53fb14 Extracting 1B
+ 92912f53fb14 Extracting 1B
+ 92912f53fb14 Extracting 1B
+ 92912f53fb14 Extracting 1B
+ 92912f53fb14 Extracting 1B
+ 92912f53fb14 Extracting 1B
+ 92912f53fb14 Pull complete 0B
+ 92912f53fb14 Pull complete 0B
+ aa1002bf400f Pull complete 0B
+ aa1002bf400f Pull complete 0B
+ bee4b0f2cea7 Extracting 1B
+ bee4b0f2cea7 Extracting 1B
+ bee4b0f2cea7 Extracting 1B
+ bee4b0f2cea7 Extracting 1B
+ df90804087fa Extracting 1B
+ df90804087fa Extracting 1B
+ bee4b0f2cea7 Pull complete 0B
+ bee4b0f2cea7 Pull complete 0B
+ df90804087fa Extracting 1B
+ df90804087fa Extracting 1B
+ 486f6dc34c36 Extracting 1B
+ 486f6dc34c36 Extracting 1B
+ df90804087fa Pull complete 0B
+ df90804087fa Pull complete 0B
+ d5fc61442672 Extracting 1B
+ 486f6dc34c36 Pull complete 0B
+ d5fc61442672 Extracting 1B
+ 486f6dc34c36 Pull complete 0B
+ d5fc61442672 Extracting 1B
+ d5fc61442672 Extracting 1B
+ d5fc61442672 Extracting 1B
+ d5fc61442672 Extracting 1B
+ d5fc61442672 Extracting 1B
+ d5fc61442672 Extracting 1B
+ d5fc61442672 Extracting 1B
+ d5fc61442672 Extracting 1B
+ d5fc61442672 Pull complete 0B
+ d5fc61442672 Pull complete 0B
+ eb7106491d9b Extracting 1B
+ eb7106491d9b Extracting 1B
+ eb7106491d9b Extracting 1B
+ eb7106491d9b Extracting 1B
+ eb7106491d9b Extracting 1B
+ eb7106491d9b Extracting 1B
+ eb7106491d9b Extracting 1B
+ eb7106491d9b Extracting 1B
+ eb7106491d9b Extracting 1B
+ eb7106491d9b Extracting 1B
+ eb7106491d9b Extracting 1B
+ eb7106491d9b Extracting 1B
+ eb7106491d9b Extracting 1B
+ eb7106491d9b Extracting 1B
+ eb7106491d9b Extracting 1B
+ eb7106491d9b Extracting 1B
+ eb7106491d9b Extracting 1B
+ eb7106491d9b Extracting 1B
+ eb7106491d9b Extracting 1B
+ eb7106491d9b Extracting 1B
+ eb7106491d9b Extracting 2B
+ eb7106491d9b Extracting 2B
+ eb7106491d9b Pull complete 0B
+ eb7106491d9b Pull complete 0B
+ a8242027f59d Extracting 1B
+ a8242027f59d Extracting 1B
+ a8242027f59d Extracting 1B
+ a8242027f59d Extracting 1B
+ a8242027f59d Extracting 1B
+ a8242027f59d Extracting 1B
+ a8242027f59d Extracting 1B
+ a8242027f59d Extracting 1B
+ a8242027f59d Extracting 1B
+ a8242027f59d Extracting 1B
+ 8c1b5161fdb3 Extracting 1B
+ a8242027f59d Pull complete 0B
+ a8242027f59d Pull complete 0B
+ 8c1b5161fdb3 Extracting 1B
+ 8c1b5161fdb3 Extracting 1B
+ 8c1b5161fdb3 Extracting 1B
+ 8c1b5161fdb3 Extracting 1B
+ 8c1b5161fdb3 Extracting 1B
+ 8c1b5161fdb3 Extracting 1B
+ 8c1b5161fdb3 Extracting 1B
+ 8c1b5161fdb3 Extracting 1B
+ 8c1b5161fdb3 Extracting 1B
+ 8c1b5161fdb3 Extracting 1B
+ 8c1b5161fdb3 Extracting 1B
+ 8c1b5161fdb3 Extracting 1B
+ 8c1b5161fdb3 Extracting 1B
+ 8c1b5161fdb3 Extracting 1B
+ 8c1b5161fdb3 Extracting 1B
+ 8c1b5161fdb3 Extracting 1B
+ 8c1b5161fdb3 Extracting 1B
+ 8c1b5161fdb3 Extracting 1B
+ 8c1b5161fdb3 Extracting 1B
+ 8c1b5161fdb3 Pull complete 0B
+ 8c1b5161fdb3 Pull complete 0B
+ c2bb6fcacb33 Extracting 1B
+ c2bb6fcacb33 Extracting 1B
+ c2bb6fcacb33 Extracting 1B
+ c2bb6fcacb33 Extracting 1B
+ c2bb6fcacb33 Extracting 1B
+ c2bb6fcacb33 Extracting 1B
+ c2bb6fcacb33 Extracting 1B
+ c2bb6fcacb33 Extracting 1B
+ c2bb6fcacb33 Extracting 1B
+ c2bb6fcacb33 Extracting 1B
+ c2bb6fcacb33 Extracting 1B
+ c2bb6fcacb33 Extracting 1B
+ c2bb6fcacb33 Extracting 1B
+ c2bb6fcacb33 Extracting 1B
+ c2bb6fcacb33 Extracting 1B
+ c2bb6fcacb33 Extracting 1B
+ c2bb6fcacb33 Extracting 1B
+ c2bb6fcacb33 Extracting 1B
+ c2bb6fcacb33 Extracting 1B
+ c2bb6fcacb33 Extracting 1B
+ c2bb6fcacb33 Extracting 1B
+ c2bb6fcacb33 Extracting 1B
+ c2bb6fcacb33 Extracting 2B
+ c2bb6fcacb33 Extracting 2B
+ c2bb6fcacb33 Extracting 2B
+ c2bb6fcacb33 Extracting 2B
+ c2bb6fcacb33 Extracting 2B
+ c2bb6fcacb33 Extracting 2B
+ c2bb6fcacb33 Extracting 2B
+ c2bb6fcacb33 Extracting 2B
+ c2bb6fcacb33 Extracting 2B
+ c2bb6fcacb33 Extracting 2B
+ c2bb6fcacb33 Extracting 2B
+ c2bb6fcacb33 Extracting 2B
+ c2bb6fcacb33 Extracting 2B
+ c2bb6fcacb33 Extracting 2B
+ c2bb6fcacb33 Extracting 2B
+ c2bb6fcacb33 Extracting 2B
+ c2bb6fcacb33 Extracting 2B
+ c2bb6fcacb33 Extracting 2B
+ c2bb6fcacb33 Extracting 2B
+ c2bb6fcacb33 Extracting 2B
+ c2bb6fcacb33 Extracting 3B
+ c2bb6fcacb33 Extracting 3B
+ c2bb6fcacb33 Extracting 3B
+ c2bb6fcacb33 Extracting 3B
+ c2bb6fcacb33 Extracting 3B
+ c2bb6fcacb33 Extracting 3B
+ c2bb6fcacb33 Extracting 3B
+ c2bb6fcacb33 Extracting 3B
+ c2bb6fcacb33 Extracting 3B
+ c2bb6fcacb33 Extracting 3B
+ c2bb6fcacb33 Extracting 3B
+ c2bb6fcacb33 Extracting 3B
+ c2bb6fcacb33 Extracting 3B
+ c2bb6fcacb33 Extracting 3B
+ c2bb6fcacb33 Extracting 3B
+ c2bb6fcacb33 Extracting 3B
+ c2bb6fcacb33 Extracting 3B
+ c2bb6fcacb33 Extracting 3B
+ c2bb6fcacb33 Extracting 3B
+ c2bb6fcacb33 Extracting 3B
+ c2bb6fcacb33 Extracting 4B
+ c2bb6fcacb33 Extracting 4B
+ c2bb6fcacb33 Extracting 4B
+ c2bb6fcacb33 Extracting 4B
+ c2bb6fcacb33 Extracting 4B
+ c2bb6fcacb33 Extracting 4B
+ c2bb6fcacb33 Extracting 4B
+ c2bb6fcacb33 Extracting 4B
+ c2bb6fcacb33 Extracting 4B
+ c2bb6fcacb33 Extracting 4B
+ c2bb6fcacb33 Extracting 4B
+ c2bb6fcacb33 Extracting 4B
+ c2bb6fcacb33 Extracting 4B
+ c2bb6fcacb33 Extracting 4B
+ c2bb6fcacb33 Extracting 4B
+ c2bb6fcacb33 Extracting 4B
+ c2bb6fcacb33 Extracting 4B
+ c2bb6fcacb33 Extracting 4B
+ c2bb6fcacb33 Extracting 4B
+ c2bb6fcacb33 Extracting 5B
+ c2bb6fcacb33 Extracting 5B
+ c2bb6fcacb33 Extracting 5B
+ c2bb6fcacb33 Extracting 5B
+ c2bb6fcacb33 Extracting 5B
+ ee932954728e Extracting 1B
+ c2bb6fcacb33 Pull complete 0B
+ ee932954728e Extracting 1B
+ c2bb6fcacb33 Pull complete 0B
+ ee932954728e Pull complete 0B
+ ee932954728e Pull complete 0B
+ Image ghcr.io/cososo-ltd/cpputest-freertos-cross:sha-ad10bf2@sha256:481267bea7200641fac41d7136e7e08deeba1b311e9873aa6d1c311db5b4cf58 Pulled 
+ Image ghcr.io/cososo-ltd/cpputest-freertos-cross:sha-ad10bf2@sha256:481267bea7200641fac41d7136e7e08deeba1b311e9873aa6d1c311db5b4cf58 Pulled 
+ Network solid-syslog-sweep-2698_default Creating 
+ Network solid-syslog-sweep-2698_default Created 
+ Volume solid-syslog-sweep-2698_oracle-output Creating 
+ Volume solid-syslog-sweep-2698_oracle-output Created 
+ Container solid-syslog-sweep-2698-certs-1 Creating 
+ Container solid-syslog-sweep-2698-certs-1 Created 
+ Container solid-syslog-sweep-2698-syslog-ng-1 Creating 
+ Container solid-syslog-sweep-2698-syslog-ng-1 Created 
+ Container solid-syslog-sweep-2698-broker-1 Creating 
+ Container solid-syslog-sweep-2698-broker-1 Created 
+ Container solid-syslog-sweep-2698-certs-1 Starting 
+ Container solid-syslog-sweep-2698-certs-1 Started 
+ Container solid-syslog-sweep-2698-certs-1 Waiting 
+ Container solid-syslog-sweep-2698-certs-1 Exited 
+ Container solid-syslog-sweep-2698-syslog-ng-1 Starting 
+ Container solid-syslog-sweep-2698-syslog-ng-1 Started 
+ Container solid-syslog-sweep-2698-certs-1 Waiting 
+ Container solid-syslog-sweep-2698-certs-1 Exited 
+ Container solid-syslog-sweep-2698-broker-1 Starting 
+ Container solid-syslog-sweep-2698-broker-1 Started 
+ Container solid-syslog-sweep-2698-run-run-30b902766be8 Creating 
+ Container solid-syslog-sweep-2698-run-run-30b902766be8 Created 
+=== build (Baseline) ===
+cp third_party/fatfs/source/ff.h build/fatfs/ff.h
+cp third_party/fatfs/source/diskio.h build/fatfs/diskio.h
+cp app/config/ffconf.h build/fatfs/ffconf.h
+cp third_party/fatfs/source/ff.c build/fatfs/ff.c
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wall -Wextra -Iapp -Iapp/config -Iapp/sim -Iapp/tasks -Iapp/measure -Iapp/net -Iapp/net/smsc9220 -Iapp/platform -Iapp/storage -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -Ithird_party/mbedtls/include -DMBEDTLS_USER_CONFIG_FILE=\"/w/app/config/mbedtls_user_config.h\" -MMD -MP -c app/main.c -o build/obj/app/main.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wall -Wextra -Iapp -Iapp/config -Iapp/sim -Iapp/tasks -Iapp/measure -Iapp/net -Iapp/net/smsc9220 -Iapp/platform -Iapp/storage -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -Ithird_party/mbedtls/include -DMBEDTLS_USER_CONFIG_FILE=\"/w/app/config/mbedtls_user_config.h\" -MMD -MP -c app/sim/SimulatedExistingApp.c -o build/obj/app/sim/SimulatedExistingApp.o
+make[1]: Entering directory '/w/third_party/mbedtls/library'
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wall -Wextra -Iapp -Iapp/config -Iapp/sim -Iapp/tasks -Iapp/measure -Iapp/net -Iapp/net/smsc9220 -Iapp/platform -Iapp/storage -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -Ithird_party/mbedtls/include -DMBEDTLS_USER_CONFIG_FILE=\"/w/app/config/mbedtls_user_config.h\" -MMD -MP -c app/sim/SimulatedBrokerSession.c -o build/obj/app/sim/SimulatedBrokerSession.o
+make[1]: Leaving directory '/w/third_party/mbedtls/library'
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wall -Wextra -Iapp -Iapp/config -Iapp/sim -Iapp/tasks -Iapp/measure -Iapp/net -Iapp/net/smsc9220 -Iapp/platform -Iapp/storage -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -Ithird_party/mbedtls/include -DMBEDTLS_USER_CONFIG_FILE=\"/w/app/config/mbedtls_user_config.h\" -MMD -MP -c app/sim/SimulatedCollector.c -o build/obj/app/sim/SimulatedCollector.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wall -Wextra -Iapp -Iapp/config -Iapp/sim -Iapp/tasks -Iapp/measure -Iapp/net -Iapp/net/smsc9220 -Iapp/platform -Iapp/storage -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -Ithird_party/mbedtls/include -DMBEDTLS_USER_CONFIG_FILE=\"/w/app/config/mbedtls_user_config.h\" -MMD -MP -c app/tasks/LogTask.c -o build/obj/app/tasks/LogTask.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wall -Wextra -Iapp -Iapp/config -Iapp/sim -Iapp/tasks -Iapp/measure -Iapp/net -Iapp/net/smsc9220 -Iapp/platform -Iapp/storage -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -Ithird_party/mbedtls/include -DMBEDTLS_USER_CONFIG_FILE=\"/w/app/config/mbedtls_user_config.h\" -MMD -MP -c app/tasks/ServiceTask.c -o build/obj/app/tasks/ServiceTask.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wall -Wextra -Iapp -Iapp/config -Iapp/sim -Iapp/tasks -Iapp/measure -Iapp/net -Iapp/net/smsc9220 -Iapp/platform -Iapp/storage -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -Ithird_party/mbedtls/include -DMBEDTLS_USER_CONFIG_FILE=\"/w/app/config/mbedtls_user_config.h\" -MMD -MP -c app/measure/Measure.c -o build/obj/app/measure/Measure.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wall -Wextra -Iapp -Iapp/config -Iapp/sim -Iapp/tasks -Iapp/measure -Iapp/net -Iapp/net/smsc9220 -Iapp/platform -Iapp/storage -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -Ithird_party/mbedtls/include -DMBEDTLS_USER_CONFIG_FILE=\"/w/app/config/mbedtls_user_config.h\" -MMD -MP -c app/measure/Baseline.c -o build/obj/app/measure/Baseline.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wall -Wextra -Iapp -Iapp/config -Iapp/sim -Iapp/tasks -Iapp/measure -Iapp/net -Iapp/net/smsc9220 -Iapp/platform -Iapp/storage -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -Ithird_party/mbedtls/include -DMBEDTLS_USER_CONFIG_FILE=\"/w/app/config/mbedtls_user_config.h\" -MMD -MP -c app/platform/Startup.c -o build/obj/app/platform/Startup.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wall -Wextra -Iapp -Iapp/config -Iapp/sim -Iapp/tasks -Iapp/measure -Iapp/net -Iapp/net/smsc9220 -Iapp/platform -Iapp/storage -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -Ithird_party/mbedtls/include -DMBEDTLS_USER_CONFIG_FILE=\"/w/app/config/mbedtls_user_config.h\" -MMD -MP -c app/platform/CmsdkUart.c -o build/obj/app/platform/CmsdkUart.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wall -Wextra -Iapp -Iapp/config -Iapp/sim -Iapp/tasks -Iapp/measure -Iapp/net -Iapp/net/smsc9220 -Iapp/platform -Iapp/storage -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -Ithird_party/mbedtls/include -DMBEDTLS_USER_CONFIG_FILE=\"/w/app/config/mbedtls_user_config.h\" -MMD -MP -c app/platform/DeviceClock.c -o build/obj/app/platform/DeviceClock.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wall -Wextra -Iapp -Iapp/config -Iapp/sim -Iapp/tasks -Iapp/measure -Iapp/net -Iapp/net/smsc9220 -Iapp/platform -Iapp/storage -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -Ithird_party/mbedtls/include -DMBEDTLS_USER_CONFIG_FILE=\"/w/app/config/mbedtls_user_config.h\" -MMD -MP -c app/platform/DeviceCertStore.c -o build/obj/app/platform/DeviceCertStore.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wall -Wextra -Iapp -Iapp/config -Iapp/sim -Iapp/tasks -Iapp/measure -Iapp/net -Iapp/net/smsc9220 -Iapp/platform -Iapp/storage -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -Ithird_party/mbedtls/include -DMBEDTLS_USER_CONFIG_FILE=\"/w/app/config/mbedtls_user_config.h\" -MMD -MP -c app/platform/Syscalls.c -o build/obj/app/platform/Syscalls.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wall -Wextra -Iapp -Iapp/config -Iapp/sim -Iapp/tasks -Iapp/measure -Iapp/net -Iapp/net/smsc9220 -Iapp/platform -Iapp/storage -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -Ithird_party/mbedtls/include -DMBEDTLS_USER_CONFIG_FILE=\"/w/app/config/mbedtls_user_config.h\" -MMD -MP -c app/platform/SemihostingExit.c -o build/obj/app/platform/SemihostingExit.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wall -Wextra -Iapp -Iapp/config -Iapp/sim -Iapp/tasks -Iapp/measure -Iapp/net -Iapp/net/smsc9220 -Iapp/platform -Iapp/storage -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -Ithird_party/mbedtls/include -DMBEDTLS_USER_CONFIG_FILE=\"/w/app/config/mbedtls_user_config.h\" -MMD -MP -c app/platform/SemihostingIo.c -o build/obj/app/platform/SemihostingIo.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wall -Wextra -Iapp -Iapp/config -Iapp/sim -Iapp/tasks -Iapp/measure -Iapp/net -Iapp/net/smsc9220 -Iapp/platform -Iapp/storage -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -Ithird_party/mbedtls/include -DMBEDTLS_USER_CONFIG_FILE=\"/w/app/config/mbedtls_user_config.h\" -MMD -MP -c app/net/EthernetIf.c -o build/obj/app/net/EthernetIf.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wall -Wextra -Iapp -Iapp/config -Iapp/sim -Iapp/tasks -Iapp/measure -Iapp/net -Iapp/net/smsc9220 -Iapp/platform -Iapp/storage -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -Ithird_party/mbedtls/include -DMBEDTLS_USER_CONFIG_FILE=\"/w/app/config/mbedtls_user_config.h\" -MMD -MP -c app/storage/diskio.c -o build/obj/app/storage/diskio.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wall -Wextra -Iapp -Iapp/config -Iapp/sim -Iapp/tasks -Iapp/measure -Iapp/net -Iapp/net/smsc9220 -Iapp/platform -Iapp/storage -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -Ithird_party/mbedtls/include -DMBEDTLS_USER_CONFIG_FILE=\"/w/app/config/mbedtls_user_config.h\" -MMD -MP -c app/storage/SemihostingDisk.c -o build/obj/app/storage/SemihostingDisk.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wno-unused-parameter -Wno-unused-but-set-variable -Wno-implicit-fallthrough -Wno-array-bounds -Wno-conversion -Wno-sign-conversion -Wno-shadow -Wno-pedantic -Iapp/config -Iapp/net/smsc9220 -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -MMD -MP -c third_party/FreeRTOS-Kernel/tasks.c -o build/obj/third_party/FreeRTOS-Kernel/tasks.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wno-unused-parameter -Wno-unused-but-set-variable -Wno-implicit-fallthrough -Wno-array-bounds -Wno-conversion -Wno-sign-conversion -Wno-shadow -Wno-pedantic -Iapp/config -Iapp/net/smsc9220 -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -MMD -MP -c third_party/FreeRTOS-Kernel/queue.c -o build/obj/third_party/FreeRTOS-Kernel/queue.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wno-unused-parameter -Wno-unused-but-set-variable -Wno-implicit-fallthrough -Wno-array-bounds -Wno-conversion -Wno-sign-conversion -Wno-shadow -Wno-pedantic -Iapp/config -Iapp/net/smsc9220 -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -MMD -MP -c third_party/FreeRTOS-Kernel/list.c -o build/obj/third_party/FreeRTOS-Kernel/list.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wno-unused-parameter -Wno-unused-but-set-variable -Wno-implicit-fallthrough -Wno-array-bounds -Wno-conversion -Wno-sign-conversion -Wno-shadow -Wno-pedantic -Iapp/config -Iapp/net/smsc9220 -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -MMD -MP -c third_party/FreeRTOS-Kernel/timers.c -o build/obj/third_party/FreeRTOS-Kernel/timers.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wno-unused-parameter -Wno-unused-but-set-variable -Wno-implicit-fallthrough -Wno-array-bounds -Wno-conversion -Wno-sign-conversion -Wno-shadow -Wno-pedantic -Iapp/config -Iapp/net/smsc9220 -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -MMD -MP -c third_party/FreeRTOS-Kernel/event_groups.c -o build/obj/third_party/FreeRTOS-Kernel/event_groups.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wno-unused-parameter -Wno-unused-but-set-variable -Wno-implicit-fallthrough -Wno-array-bounds -Wno-conversion -Wno-sign-conversion -Wno-shadow -Wno-pedantic -Iapp/config -Iapp/net/smsc9220 -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -MMD -MP -c third_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3/port.c -o build/obj/third_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3/port.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wno-unused-parameter -Wno-unused-but-set-variable -Wno-implicit-fallthrough -Wno-array-bounds -Wno-conversion -Wno-sign-conversion -Wno-shadow -Wno-pedantic -Iapp/config -Iapp/net/smsc9220 -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -MMD -MP -c third_party/FreeRTOS-Kernel/portable/MemMang/heap_1.c -o build/obj/third_party/FreeRTOS-Kernel/portable/MemMang/heap_1.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wno-unused-parameter -Wno-unused-but-set-variable -Wno-implicit-fallthrough -Wno-array-bounds -Wno-conversion -Wno-sign-conversion -Wno-shadow -Wno-pedantic -Iapp/config -Iapp/net/smsc9220 -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -MMD -MP -c third_party/lwip/src/core/init.c -o build/obj/third_party/lwip/src/core/init.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wno-unused-parameter -Wno-unused-but-set-variable -Wno-implicit-fallthrough -Wno-array-bounds -Wno-conversion -Wno-sign-conversion -Wno-shadow -Wno-pedantic -Iapp/config -Iapp/net/smsc9220 -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -MMD -MP -c third_party/lwip/src/core/def.c -o build/obj/third_party/lwip/src/core/def.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wno-unused-parameter -Wno-unused-but-set-variable -Wno-implicit-fallthrough -Wno-array-bounds -Wno-conversion -Wno-sign-conversion -Wno-shadow -Wno-pedantic -Iapp/config -Iapp/net/smsc9220 -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -MMD -MP -c third_party/lwip/src/core/dns.c -o build/obj/third_party/lwip/src/core/dns.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wno-unused-parameter -Wno-unused-but-set-variable -Wno-implicit-fallthrough -Wno-array-bounds -Wno-conversion -Wno-sign-conversion -Wno-shadow -Wno-pedantic -Iapp/config -Iapp/net/smsc9220 -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -MMD -MP -c third_party/lwip/src/core/inet_chksum.c -o build/obj/third_party/lwip/src/core/inet_chksum.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wno-unused-parameter -Wno-unused-but-set-variable -Wno-implicit-fallthrough -Wno-array-bounds -Wno-conversion -Wno-sign-conversion -Wno-shadow -Wno-pedantic -Iapp/config -Iapp/net/smsc9220 -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -MMD -MP -c third_party/lwip/src/core/ip.c -o build/obj/third_party/lwip/src/core/ip.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wno-unused-parameter -Wno-unused-but-set-variable -Wno-implicit-fallthrough -Wno-array-bounds -Wno-conversion -Wno-sign-conversion -Wno-shadow -Wno-pedantic -Iapp/config -Iapp/net/smsc9220 -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -MMD -MP -c third_party/lwip/src/core/mem.c -o build/obj/third_party/lwip/src/core/mem.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wno-unused-parameter -Wno-unused-but-set-variable -Wno-implicit-fallthrough -Wno-array-bounds -Wno-conversion -Wno-sign-conversion -Wno-shadow -Wno-pedantic -Iapp/config -Iapp/net/smsc9220 -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -MMD -MP -c third_party/lwip/src/core/memp.c -o build/obj/third_party/lwip/src/core/memp.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wno-unused-parameter -Wno-unused-but-set-variable -Wno-implicit-fallthrough -Wno-array-bounds -Wno-conversion -Wno-sign-conversion -Wno-shadow -Wno-pedantic -Iapp/config -Iapp/net/smsc9220 -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -MMD -MP -c third_party/lwip/src/core/netif.c -o build/obj/third_party/lwip/src/core/netif.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wno-unused-parameter -Wno-unused-but-set-variable -Wno-implicit-fallthrough -Wno-array-bounds -Wno-conversion -Wno-sign-conversion -Wno-shadow -Wno-pedantic -Iapp/config -Iapp/net/smsc9220 -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -MMD -MP -c third_party/lwip/src/core/pbuf.c -o build/obj/third_party/lwip/src/core/pbuf.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wno-unused-parameter -Wno-unused-but-set-variable -Wno-implicit-fallthrough -Wno-array-bounds -Wno-conversion -Wno-sign-conversion -Wno-shadow -Wno-pedantic -Iapp/config -Iapp/net/smsc9220 -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -MMD -MP -c third_party/lwip/src/core/raw.c -o build/obj/third_party/lwip/src/core/raw.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wno-unused-parameter -Wno-unused-but-set-variable -Wno-implicit-fallthrough -Wno-array-bounds -Wno-conversion -Wno-sign-conversion -Wno-shadow -Wno-pedantic -Iapp/config -Iapp/net/smsc9220 -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -MMD -MP -c third_party/lwip/src/core/stats.c -o build/obj/third_party/lwip/src/core/stats.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wno-unused-parameter -Wno-unused-but-set-variable -Wno-implicit-fallthrough -Wno-array-bounds -Wno-conversion -Wno-sign-conversion -Wno-shadow -Wno-pedantic -Iapp/config -Iapp/net/smsc9220 -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -MMD -MP -c third_party/lwip/src/core/sys.c -o build/obj/third_party/lwip/src/core/sys.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wno-unused-parameter -Wno-unused-but-set-variable -Wno-implicit-fallthrough -Wno-array-bounds -Wno-conversion -Wno-sign-conversion -Wno-shadow -Wno-pedantic -Iapp/config -Iapp/net/smsc9220 -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -MMD -MP -c third_party/lwip/src/core/altcp.c -o build/obj/third_party/lwip/src/core/altcp.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wno-unused-parameter -Wno-unused-but-set-variable -Wno-implicit-fallthrough -Wno-array-bounds -Wno-conversion -Wno-sign-conversion -Wno-shadow -Wno-pedantic -Iapp/config -Iapp/net/smsc9220 -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -MMD -MP -c third_party/lwip/src/core/altcp_alloc.c -o build/obj/third_party/lwip/src/core/altcp_alloc.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wno-unused-parameter -Wno-unused-but-set-variable -Wno-implicit-fallthrough -Wno-array-bounds -Wno-conversion -Wno-sign-conversion -Wno-shadow -Wno-pedantic -Iapp/config -Iapp/net/smsc9220 -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -MMD -MP -c third_party/lwip/src/core/altcp_tcp.c -o build/obj/third_party/lwip/src/core/altcp_tcp.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wno-unused-parameter -Wno-unused-but-set-variable -Wno-implicit-fallthrough -Wno-array-bounds -Wno-conversion -Wno-sign-conversion -Wno-shadow -Wno-pedantic -Iapp/config -Iapp/net/smsc9220 -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -MMD -MP -c third_party/lwip/src/core/tcp.c -o build/obj/third_party/lwip/src/core/tcp.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wno-unused-parameter -Wno-unused-but-set-variable -Wno-implicit-fallthrough -Wno-array-bounds -Wno-conversion -Wno-sign-conversion -Wno-shadow -Wno-pedantic -Iapp/config -Iapp/net/smsc9220 -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -MMD -MP -c third_party/lwip/src/core/tcp_in.c -o build/obj/third_party/lwip/src/core/tcp_in.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wno-unused-parameter -Wno-unused-but-set-variable -Wno-implicit-fallthrough -Wno-array-bounds -Wno-conversion -Wno-sign-conversion -Wno-shadow -Wno-pedantic -Iapp/config -Iapp/net/smsc9220 -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -MMD -MP -c third_party/lwip/src/core/tcp_out.c -o build/obj/third_party/lwip/src/core/tcp_out.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wno-unused-parameter -Wno-unused-but-set-variable -Wno-implicit-fallthrough -Wno-array-bounds -Wno-conversion -Wno-sign-conversion -Wno-shadow -Wno-pedantic -Iapp/config -Iapp/net/smsc9220 -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -MMD -MP -c third_party/lwip/src/core/timeouts.c -o build/obj/third_party/lwip/src/core/timeouts.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wno-unused-parameter -Wno-unused-but-set-variable -Wno-implicit-fallthrough -Wno-array-bounds -Wno-conversion -Wno-sign-conversion -Wno-shadow -Wno-pedantic -Iapp/config -Iapp/net/smsc9220 -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -MMD -MP -c third_party/lwip/src/core/udp.c -o build/obj/third_party/lwip/src/core/udp.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wno-unused-parameter -Wno-unused-but-set-variable -Wno-implicit-fallthrough -Wno-array-bounds -Wno-conversion -Wno-sign-conversion -Wno-shadow -Wno-pedantic -Iapp/config -Iapp/net/smsc9220 -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -MMD -MP -c third_party/lwip/src/core/ipv4/acd.c -o build/obj/third_party/lwip/src/core/ipv4/acd.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wno-unused-parameter -Wno-unused-but-set-variable -Wno-implicit-fallthrough -Wno-array-bounds -Wno-conversion -Wno-sign-conversion -Wno-shadow -Wno-pedantic -Iapp/config -Iapp/net/smsc9220 -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -MMD -MP -c third_party/lwip/src/core/ipv4/autoip.c -o build/obj/third_party/lwip/src/core/ipv4/autoip.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wno-unused-parameter -Wno-unused-but-set-variable -Wno-implicit-fallthrough -Wno-array-bounds -Wno-conversion -Wno-sign-conversion -Wno-shadow -Wno-pedantic -Iapp/config -Iapp/net/smsc9220 -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -MMD -MP -c third_party/lwip/src/core/ipv4/dhcp.c -o build/obj/third_party/lwip/src/core/ipv4/dhcp.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wno-unused-parameter -Wno-unused-but-set-variable -Wno-implicit-fallthrough -Wno-array-bounds -Wno-conversion -Wno-sign-conversion -Wno-shadow -Wno-pedantic -Iapp/config -Iapp/net/smsc9220 -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -MMD -MP -c third_party/lwip/src/core/ipv4/etharp.c -o build/obj/third_party/lwip/src/core/ipv4/etharp.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wno-unused-parameter -Wno-unused-but-set-variable -Wno-implicit-fallthrough -Wno-array-bounds -Wno-conversion -Wno-sign-conversion -Wno-shadow -Wno-pedantic -Iapp/config -Iapp/net/smsc9220 -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -MMD -MP -c third_party/lwip/src/core/ipv4/icmp.c -o build/obj/third_party/lwip/src/core/ipv4/icmp.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wno-unused-parameter -Wno-unused-but-set-variable -Wno-implicit-fallthrough -Wno-array-bounds -Wno-conversion -Wno-sign-conversion -Wno-shadow -Wno-pedantic -Iapp/config -Iapp/net/smsc9220 -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -MMD -MP -c third_party/lwip/src/core/ipv4/igmp.c -o build/obj/third_party/lwip/src/core/ipv4/igmp.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wno-unused-parameter -Wno-unused-but-set-variable -Wno-implicit-fallthrough -Wno-array-bounds -Wno-conversion -Wno-sign-conversion -Wno-shadow -Wno-pedantic -Iapp/config -Iapp/net/smsc9220 -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -MMD -MP -c third_party/lwip/src/core/ipv4/ip4_frag.c -o build/obj/third_party/lwip/src/core/ipv4/ip4_frag.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wno-unused-parameter -Wno-unused-but-set-variable -Wno-implicit-fallthrough -Wno-array-bounds -Wno-conversion -Wno-sign-conversion -Wno-shadow -Wno-pedantic -Iapp/config -Iapp/net/smsc9220 -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -MMD -MP -c third_party/lwip/src/core/ipv4/ip4.c -o build/obj/third_party/lwip/src/core/ipv4/ip4.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wno-unused-parameter -Wno-unused-but-set-variable -Wno-implicit-fallthrough -Wno-array-bounds -Wno-conversion -Wno-sign-conversion -Wno-shadow -Wno-pedantic -Iapp/config -Iapp/net/smsc9220 -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -MMD -MP -c third_party/lwip/src/core/ipv4/ip4_addr.c -o build/obj/third_party/lwip/src/core/ipv4/ip4_addr.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wno-unused-parameter -Wno-unused-but-set-variable -Wno-implicit-fallthrough -Wno-array-bounds -Wno-conversion -Wno-sign-conversion -Wno-shadow -Wno-pedantic -Iapp/config -Iapp/net/smsc9220 -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -MMD -MP -c third_party/lwip/src/api/api_lib.c -o build/obj/third_party/lwip/src/api/api_lib.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wno-unused-parameter -Wno-unused-but-set-variable -Wno-implicit-fallthrough -Wno-array-bounds -Wno-conversion -Wno-sign-conversion -Wno-shadow -Wno-pedantic -Iapp/config -Iapp/net/smsc9220 -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -MMD -MP -c third_party/lwip/src/api/api_msg.c -o build/obj/third_party/lwip/src/api/api_msg.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wno-unused-parameter -Wno-unused-but-set-variable -Wno-implicit-fallthrough -Wno-array-bounds -Wno-conversion -Wno-sign-conversion -Wno-shadow -Wno-pedantic -Iapp/config -Iapp/net/smsc9220 -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -MMD -MP -c third_party/lwip/src/api/err.c -o build/obj/third_party/lwip/src/api/err.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wno-unused-parameter -Wno-unused-but-set-variable -Wno-implicit-fallthrough -Wno-array-bounds -Wno-conversion -Wno-sign-conversion -Wno-shadow -Wno-pedantic -Iapp/config -Iapp/net/smsc9220 -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -MMD -MP -c third_party/lwip/src/api/if_api.c -o build/obj/third_party/lwip/src/api/if_api.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wno-unused-parameter -Wno-unused-but-set-variable -Wno-implicit-fallthrough -Wno-array-bounds -Wno-conversion -Wno-sign-conversion -Wno-shadow -Wno-pedantic -Iapp/config -Iapp/net/smsc9220 -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -MMD -MP -c third_party/lwip/src/api/netbuf.c -o build/obj/third_party/lwip/src/api/netbuf.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wno-unused-parameter -Wno-unused-but-set-variable -Wno-implicit-fallthrough -Wno-array-bounds -Wno-conversion -Wno-sign-conversion -Wno-shadow -Wno-pedantic -Iapp/config -Iapp/net/smsc9220 -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -MMD -MP -c third_party/lwip/src/api/netdb.c -o build/obj/third_party/lwip/src/api/netdb.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wno-unused-parameter -Wno-unused-but-set-variable -Wno-implicit-fallthrough -Wno-array-bounds -Wno-conversion -Wno-sign-conversion -Wno-shadow -Wno-pedantic -Iapp/config -Iapp/net/smsc9220 -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -MMD -MP -c third_party/lwip/src/api/netifapi.c -o build/obj/third_party/lwip/src/api/netifapi.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wno-unused-parameter -Wno-unused-but-set-variable -Wno-implicit-fallthrough -Wno-array-bounds -Wno-conversion -Wno-sign-conversion -Wno-shadow -Wno-pedantic -Iapp/config -Iapp/net/smsc9220 -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -MMD -MP -c third_party/lwip/src/api/sockets.c -o build/obj/third_party/lwip/src/api/sockets.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wno-unused-parameter -Wno-unused-but-set-variable -Wno-implicit-fallthrough -Wno-array-bounds -Wno-conversion -Wno-sign-conversion -Wno-shadow -Wno-pedantic -Iapp/config -Iapp/net/smsc9220 -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -MMD -MP -c third_party/lwip/src/api/tcpip.c -o build/obj/third_party/lwip/src/api/tcpip.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wno-unused-parameter -Wno-unused-but-set-variable -Wno-implicit-fallthrough -Wno-array-bounds -Wno-conversion -Wno-sign-conversion -Wno-shadow -Wno-pedantic -Iapp/config -Iapp/net/smsc9220 -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -MMD -MP -c third_party/lwip/src/netif/ethernet.c -o build/obj/third_party/lwip/src/netif/ethernet.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wno-unused-parameter -Wno-unused-but-set-variable -Wno-implicit-fallthrough -Wno-array-bounds -Wno-conversion -Wno-sign-conversion -Wno-shadow -Wno-pedantic -Iapp/config -Iapp/net/smsc9220 -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -MMD -MP -c third_party/lwip/contrib/ports/freertos/sys_arch.c -o build/obj/third_party/lwip/contrib/ports/freertos/sys_arch.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wno-unused-parameter -Wno-unused-but-set-variable -Wno-implicit-fallthrough -Wno-array-bounds -Wno-conversion -Wno-sign-conversion -Wno-shadow -Wno-pedantic -Iapp/config -Iapp/net/smsc9220 -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -MMD -MP -c app/net/smsc9220/smsc9220_eth_drv.c -o build/obj/app/net/smsc9220/smsc9220_eth_drv.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wno-unused-parameter -Wno-unused-but-set-variable -Wno-implicit-fallthrough -Wno-array-bounds -Wno-conversion -Wno-sign-conversion -Wno-shadow -Wno-pedantic -Iapp/config -Iapp/net/smsc9220 -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -MMD -MP -c app/storage/ffsystem.c -o build/obj/app/storage/ffsystem.o
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -Wno-unused-parameter -Wno-unused-but-set-variable -Wno-implicit-fallthrough -Wno-array-bounds -Wno-conversion -Wno-sign-conversion -Wno-shadow -Wno-pedantic -Iapp/config -Iapp/net/smsc9220 -Ithird_party/FreeRTOS-Kernel/include -Ithird_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3 -Ithird_party/lwip/src/include -Ithird_party/lwip/contrib/ports/freertos/include -Ibuild/fatfs -MMD -MP -c build/fatfs/ff.c -o build/obj/fatfs/ff.o
+make -C third_party/mbedtls/library libmbedtls.a libmbedx509.a libmbedcrypto.a CC=arm-none-eabi-gcc AR=arm-none-eabi-ar \
+	CFLAGS='-mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -fno-common -Os -DNDEBUG -std=c99 -DMBEDTLS_USER_CONFIG_FILE=\"/w/app/config/mbedtls_user_config.h\"' WARNING_CFLAGS=-w
+make[1]: Entering directory '/w/third_party/mbedtls/library'
+  CC    debug.c
+  CC    mps_reader.c
+  CC    mps_trace.c
+  CC    net_sockets.c
+  CC    ssl_cache.c
+  CC    ssl_ciphersuites.c
+  CC    ssl_client.c
+  CC    ssl_cookie.c
+  CC    ssl_debug_helpers_generated.c
+  CC    ssl_msg.c
+  CC    ssl_ticket.c
+  CC    ssl_tls.c
+  CC    ssl_tls12_client.c
+  CC    ssl_tls12_server.c
+  CC    ssl_tls13_keys.c
+  CC    ssl_tls13_client.c
+  CC    ssl_tls13_server.c
+  CC    ssl_tls13_generic.c
+  CC    x509.c
+  CC    x509_create.c
+  CC    x509_crl.c
+  CC    x509_crt.c
+  CC    x509_csr.c
+  CC    x509write.c
+  CC    x509write_crt.c
+  CC    x509write_csr.c
+  CC    pkcs7.c
+  CC    aes.c
+  CC    aesni.c
+  CC    aesce.c
+  CC    aria.c
+  CC    asn1parse.c
+  CC    asn1write.c
+  CC    base64.c
+  CC    bignum.c
+  CC    bignum_core.c
+  CC    bignum_mod.c
+  CC    bignum_mod_raw.c
+  CC    block_cipher.c
+  CC    camellia.c
+  CC    ccm.c
+  CC    chacha20.c
+  CC    chachapoly.c
+  CC    cipher.c
+  CC    cipher_wrap.c
+  CC    cmac.c
+  CC    constant_time.c
+  CC    ctr_drbg.c
+  CC    des.c
+  CC    dhm.c
+  CC    ecdh.c
+  CC    ecdsa.c
+  CC    ecjpake.c
+  CC    ecp.c
+  CC    ecp_curves.c
+  CC    ecp_curves_new.c
+  CC    entropy.c
+  CC    entropy_poll.c
+  CC    error.c
+  CC    gcm.c
+  CC    hkdf.c
+  CC    hmac_drbg.c
+  CC    lmots.c
+  CC    lms.c
+  CC    md.c
+  CC    md5.c
+  CC    memory_buffer_alloc.c
+  CC    nist_kw.c
+  CC    oid.c
+  CC    padlock.c
+  CC    pem.c
+  CC    pk.c
+  CC    pk_ecc.c
+  CC    pk_wrap.c
+  CC    pkcs12.c
+  CC    pkcs5.c
+  CC    pkparse.c
+  CC    pkwrite.c
+  CC    platform.c
+  CC    platform_util.c
+  CC    poly1305.c
+  CC    psa_crypto.c
+  CC    psa_crypto_aead.c
+  CC    psa_crypto_cipher.c
+  CC    psa_crypto_client.c
+  CC    psa_crypto_driver_wrappers_no_static.c
+  CC    psa_crypto_ecp.c
+  CC    psa_crypto_ffdh.c
+  CC    psa_crypto_hash.c
+  CC    psa_crypto_mac.c
+  CC    psa_crypto_pake.c
+  CC    psa_crypto_rsa.c
+  CC    psa_crypto_se.c
+  CC    psa_crypto_slot_management.c
+  CC    psa_crypto_storage.c
+  CC    psa_its_file.c
+  CC    psa_util.c
+  CC    ripemd160.c
+  CC    rsa.c
+  CC    rsa_alt_helpers.c
+  CC    sha1.c
+  CC    sha256.c
+  CC    sha512.c
+  CC    sha3.c
+  CC    threading.c
+  CC    timing.c
+  CC    version.c
+  CC    version_features.c
+  CC    ../3rdparty//everest/library/everest.c
+  CC    ../3rdparty//everest/library/x25519.c
+  CC    ../3rdparty//everest/library/Hacl_Curve25519_joined.c
+  CC    ../3rdparty//p256-m//p256-m_driver_entrypoints.c
+  CC    ../3rdparty//p256-m//p256-m/p256-m.c
+  AR    libmbedtls.a
+  AR    libmbedx509.a
+  AR    libmbedcrypto.a
+make[1]: Leaving directory '/w/third_party/mbedtls/library'
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -Tapp/platform/mps2-an385.ld --specs=nano.specs --specs=nosys.specs -Wl,--gc-sections -Wl,-Map=build/baseline.elf.map build/obj/app/main.o build/obj/app/sim/SimulatedExistingApp.o build/obj/app/sim/SimulatedBrokerSession.o build/obj/app/sim/SimulatedCollector.o build/obj/app/tasks/LogTask.o build/obj/app/tasks/ServiceTask.o build/obj/app/measure/Measure.o build/obj/app/measure/Baseline.o build/obj/app/platform/Startup.o build/obj/app/platform/CmsdkUart.o build/obj/app/platform/DeviceClock.o build/obj/app/platform/DeviceCertStore.o build/obj/app/platform/Syscalls.o build/obj/app/platform/SemihostingExit.o build/obj/app/platform/SemihostingIo.o build/obj/app/net/EthernetIf.o build/obj/app/storage/diskio.o build/obj/app/storage/SemihostingDisk.o build/obj/third_party/FreeRTOS-Kernel/tasks.o build/obj/third_party/FreeRTOS-Kernel/queue.o build/obj/third_party/FreeRTOS-Kernel/list.o build/obj/third_party/FreeRTOS-Kernel/timers.o build/obj/third_party/FreeRTOS-Kernel/event_groups.o build/obj/third_party/FreeRTOS-Kernel/portable/GCC/ARM_CM3/port.o build/obj/third_party/FreeRTOS-Kernel/portable/MemMang/heap_1.o build/obj/third_party/lwip/src/core/init.o build/obj/third_party/lwip/src/core/def.o build/obj/third_party/lwip/src/core/dns.o build/obj/third_party/lwip/src/core/inet_chksum.o build/obj/third_party/lwip/src/core/ip.o build/obj/third_party/lwip/src/core/mem.o build/obj/third_party/lwip/src/core/memp.o build/obj/third_party/lwip/src/core/netif.o build/obj/third_party/lwip/src/core/pbuf.o build/obj/third_party/lwip/src/core/raw.o build/obj/third_party/lwip/src/core/stats.o build/obj/third_party/lwip/src/core/sys.o build/obj/third_party/lwip/src/core/altcp.o build/obj/third_party/lwip/src/core/altcp_alloc.o build/obj/third_party/lwip/src/core/altcp_tcp.o build/obj/third_party/lwip/src/core/tcp.o build/obj/third_party/lwip/src/core/tcp_in.o build/obj/third_party/lwip/src/core/tcp_out.o build/obj/third_party/lwip/src/core/timeouts.o build/obj/third_party/lwip/src/core/udp.o build/obj/third_party/lwip/src/core/ipv4/acd.o build/obj/third_party/lwip/src/core/ipv4/autoip.o build/obj/third_party/lwip/src/core/ipv4/dhcp.o build/obj/third_party/lwip/src/core/ipv4/etharp.o build/obj/third_party/lwip/src/core/ipv4/icmp.o build/obj/third_party/lwip/src/core/ipv4/igmp.o build/obj/third_party/lwip/src/core/ipv4/ip4_frag.o build/obj/third_party/lwip/src/core/ipv4/ip4.o build/obj/third_party/lwip/src/core/ipv4/ip4_addr.o build/obj/third_party/lwip/src/api/api_lib.o build/obj/third_party/lwip/src/api/api_msg.o build/obj/third_party/lwip/src/api/err.o build/obj/third_party/lwip/src/api/if_api.o build/obj/third_party/lwip/src/api/netbuf.o build/obj/third_party/lwip/src/api/netdb.o build/obj/third_party/lwip/src/api/netifapi.o build/obj/third_party/lwip/src/api/sockets.o build/obj/third_party/lwip/src/api/tcpip.o build/obj/third_party/lwip/src/netif/ethernet.o build/obj/third_party/lwip/contrib/ports/freertos/sys_arch.o build/obj/app/net/smsc9220/smsc9220_eth_drv.o build/obj/app/storage/ffsystem.o build/obj/fatfs/ff.o third_party/mbedtls/library/libmbedtls.a third_party/mbedtls/library/libmbedx509.a third_party/mbedtls/library/libmbedcrypto.a -o build/baseline.elf
+=== prove the listeners ===
+  OK    udp    5514
+  OK    tcp    5601
+  OK    tls    6514
+  OK    mtls   6515
+  OK    mtls   6515 — refused a client with no certificate
+  OK    broker 8883
+  OK    broker 8883 — refused a client with no certificate
+=== run under QEMU (oracle up; the app reaches it via slirp) ===
+# solid-syslog-example — run (Baseline)
+
+## Device (self-measured)
+
+```text
+[device] solid-syslog-example (FreeRTOS + lwIP + mbedTLS + FatFs)
+[device] starting simulated existing application...
+[sim] broker session to 10.0.2.2:8883: TLSv1.3, TLS1-3-CHACHA20-POLY1305-SHA256
+[device]   sim app (lwIP up, FatFs mounted, broker session held over mTLS): ready
+[report] --- SolidSyslog cost above baseline (simulated existing application) ---
+[report] key,current,baseline,used_above_baseline
+[report] flash_text,352620,352620,0
+[report] flash_data,320,320,0
+[report] static_bss,111136,111136,0
+[report] heap_used,4440,4440,0
+[report] mbedtls_peak,21268,21360,-92
+[report] mbedtls_free,11500,11408,92
+[report] lwip_mem_free,7576,7576,0
+[report] lwip_pbufs_free,14,13,1
+[report] stack_log,116,116,0
+[report] stack_service,56,56,0
+[report] stack_harness,2840,2840,0
+[report] --- end ---
+[device]   records logged: 0
+[device] ready
+```
+
+### Size cross-check
+
+```text
+   text	   data	    bss	    dec	    hex	filename
+ 352612	    328	 111136	 464076	  714cc	/w/build/baseline.elf
+```
+
+## Listeners (proved before the device ran)
+
+```text
+  OK    udp    5514
+  OK    tcp    5601
+  OK    tls    6514
+  OK    mtls   6515
+  OK    mtls   6515 — refused a client with no certificate
+  OK    broker 8883
+  OK    broker 8883 — refused a client with no certificate
+```
+
+## Collector (syslog-ng) received
+
+```text
+(nothing — this device sends no records yet)
+```
+
+**RESULT: PASS**
