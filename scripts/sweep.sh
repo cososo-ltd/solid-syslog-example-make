@@ -66,7 +66,7 @@ fi
 WORK="$(mktemp -d)"
 # A project per run, so concurrent sweeps on one daemon do not tear down each
 # other's stack between stages.
-compose() { docker compose -p "solid-syslog-sweep-$$" -f "$(hostpath "$1/docker/docker-compose.yml")" -f "$(hostpath "$WORK/override.yml")" "${@:2}"; }
+compose() { docker compose -p "solid-syslog-sweep-$$" -f "$(hostpath "$1/docker/docker-compose.yml")" -f "$(hostpath "$WORK/override.yml")" ${IMAGE:+-f "$(hostpath "$WORK/image.yml")"} "${@:2}"; }
 # mbedTLS builds inside its vendored tree, so its objects land beside the source
 # as well as under build/. Removed through the certs service, which runs as root
 # and, unlike the run service, does not need the collector's network namespace,
@@ -110,8 +110,9 @@ services:
 EOF
 # Every service on the cross image, so the override moves the whole stage.
 if [ -n "${IMAGE:-}" ]; then
+    echo "services:" > "$WORK/image.yml"
     for service in certs broker run; do
-        printf '  %s:\n    image: %s\n' "$service" "$IMAGE" >> "$WORK/override.yml"
+        printf '  %s:\n    image: %s\n' "$service" "$IMAGE" >> "$WORK/image.yml"
     done
 fi
 
