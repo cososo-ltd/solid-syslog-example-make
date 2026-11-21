@@ -34,13 +34,20 @@ pinned() { awk -v name="$1" -v field="$2" '$1 == name { print $field }' "$PINS" 
 WORK="$(mktemp -d)"
 trap 'rm -rf "$WORK"' EXIT
 
-# name, tag, commit: one line per tree.
+# name, tag, commit: one line per tree. A tree that is not at a tag, or is not
+# there, stops the script in the image rather than printing a short line.
 image bash -c '
+    set -euo pipefail
     for tree in FreeRTOS-Kernel:$FREERTOS_KERNEL_PATH lwip:$LWIP_PATH mbedtls:$MBEDTLS_DIR fatfs:$FATFS_PATH; do
         dir=${tree#*:}
-        echo "${tree%%:*} $(git -C "$dir" describe --tags --exact-match) $(git -C "$dir" rev-parse HEAD)"
-    done' > "$WORK/carried"
-[ "$(wc -l < "$WORK/carried")" -eq 4 ] || fail "the image does not name all four trees"
+        tag=$(git -C "$dir" describe --tags --exact-match)
+        commit=$(git -C "$dir" rev-parse HEAD)
+        echo "${tree%%:*} $tag $commit"
+    done' > "$WORK/carried" || fail "the image does not say what it carries"
+for name in FreeRTOS-Kernel lwip mbedtls fatfs; do
+    [ "$(awk -v name="$name" '$1 == name && NF == 3 && $3 ~ /^[0-9a-f]{40}$/' "$WORK/carried" | wc -l)" -eq 1 ] ||
+        fail "the image does not name $name by tag and commit"
+done
 carried() { awk -v name="$1" -v field="$2" '$1 == name { print $field }' "$WORK/carried"; }
 
 # ---- the submodules ----------------------------------------------------------
