@@ -11,6 +11,11 @@
 # This stack carries its own upstreams, so scripts/upstreams.sh moves them to what
 # <image> carries in the same commit.
 #
+# STAGES_FROM=<commit> takes the stages from that commit in place of either
+# branch. PIN_LABEL=<name> writes the Baseline's pin line as a release's,
+# "<name>, <short sha>.", in place of a commit on main's. KEEP_UPSTREAMS=1 leaves
+# the upstreams as the stages have them.
+#
 # Moves no ref and pushes nothing. Prints
 #   source=<the ref the stages came from>
 #   was=<its tip>
@@ -33,7 +38,10 @@ note() { echo "next: $*" >&2; }
 [[ "$IMAGE" =~ ^${CROSS}(:[A-Za-z0-9._-]+)?@sha256:[0-9a-f]{64}$ ]] || fail "'$IMAGE' is not the cross image by digest"
 
 # ---- choose the stages -------------------------------------------------------
-if git rev-parse -q --verify origin/wip/next^{commit} >/dev/null; then
+if [ -n "${STAGES_FROM:-}" ]; then
+    source="$STAGES_FROM"
+    git rev-parse -q --verify "$source^{commit}" >/dev/null || fail "'$source' is not a commit"
+elif git rev-parse -q --verify origin/wip/next^{commit} >/dev/null; then
     source=origin/wip/next
 else
     source="$(git for-each-ref --format='%(refname:short)' 'refs/remotes/origin/release/*' | sort -V | tail -1)"
@@ -70,12 +78,14 @@ for compose in docker/docker-compose.yml .devcontainer/docker-compose.yml; do
     grep -Eq "$CROSS[:@]" "$base/$compose" || fail "the Baseline's $compose does not name the cross image"
     sed -E -i "s#$CROSS[:@][^[:space:]]*#$IMAGE#" "$base/$compose"
 done
-bash "${UPSTREAMS:-$TOOLS/upstreams.sh}" "$IMAGE" "$base" >&2 || fail "the upstreams could not be moved to the image's"
+[ "${KEEP_UPSTREAMS:-0}" = 1 ] || bash "${UPSTREAMS:-$TOOLS/upstreams.sh}" "$IMAGE" "$base" >&2 || fail "the upstreams could not be moved to the image's"
 
 # The line under PIN_LINE says which commit the pin is, up to the next blank line.
+pin_line="${SHA:0:8}, a commit on SolidSyslog's main."
+[ -z "${PIN_LABEL:-}" ] || pin_line="$PIN_LABEL, ${SHA:0:8}."
 git log -1 --format=%B "$root" > "$WORK/message.was"
 grep -Fxq "$PIN_LINE" "$WORK/message.was" || fail "the Baseline's message has no pin line"
-awk -v marker="$PIN_LINE" -v line="${SHA:0:8}, a commit on SolidSyslog's main." '
+awk -v marker="$PIN_LINE" -v line="$pin_line" '
     replacing && NF == 0 { replacing = 0 }
     replacing            { next }
                          { print }
